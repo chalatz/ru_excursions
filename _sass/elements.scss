@@ -175,3 +175,11 @@ iframe {
         }
     }
 }
+
+.ribbon {
+    width: 100%;
+    height: 50px;
+    &--white {
+        background-color: #fff;
+    }
+}

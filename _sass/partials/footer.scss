@@ -1,8 +1,8 @@
 .site-footer {
 
-    background-color: $darkblue; 
+    background-color: $darkblue;
     color: #fff;
-    padding: .5rem 0;
+    padding: 2rem 0;
     padding-bottom: 3rem;
     position: relative;
 
@@ -40,11 +40,11 @@
         text-align: center;
 
         @include breakpoint(large) {
-            
+
             @include clearfix;
 
         }
-        
+
     }
 
     &__info-link {
@@ -197,12 +197,12 @@
                 letter-spacing: .5px;
                 &:hover,
                 &.active {
-                    color: $yellow;
+                    color: $lighterblue;
                 }
                 @include breakpoint(large) {
                     font-size: 1rem;
                 }
-                
+
                 @include breakpoint(larger) {
                     font-size: 1.08rem;
                 }

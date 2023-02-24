@@ -1,6 +1,6 @@
-$darkblue: #27334a;
-$lightblue: #3b475e;
-$lighterblue: lighten($lightblue, 15%);
+$darkblue: #0d2236;
+$lightblue: lighten($darkblue, 10%);
+$lighterblue: #99eef9;
 $blue: #26437e;
 
 $yellow: #d4af37;
@@ -15,7 +15,7 @@ $green: #548235;
 
 $red: #db310f;
 $darkred: darken($red, 20%);
-$lightred: lighten($red, 10%); 
+$lightred: lighten($red, 10%);
 $lighterred: lighten($red, 15%);
 
 @mixin breakpoint($point) {

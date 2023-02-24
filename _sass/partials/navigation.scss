@@ -4,7 +4,7 @@
     position: sticky;
     top: -1px;
     z-index: 2;
-    border-bottom: 2px solid $yellow;
+    border-bottom: 2px solid $darkblue;
 
     &--mobile {
         border: none;
@@ -29,7 +29,7 @@
         top: 52px;
         left: 0;
         width: 100%;
-        background-color: $darkblue;
+        background-color: $lightblue;
         // &--opened {
         //     box-shadow: 0 6px 11px -6px $yellow;
         //     @include breakpoint(large) {
@@ -47,7 +47,7 @@
     &__item {
         display: block;
         &--active {
-            background-color: $black;
+            background-color: $darkblue;
         }
 
         @include breakpoint(large) {
@@ -81,7 +81,7 @@
             @include breakpoint(large) {
                 border-bottom-left-radius: 3px;
                 border-bottom-right-radius: 3px;
-                border-bottom: 2px solid $yellow;
+                border-bottom: 2px solid $darkblue;
             }
         }
 
@@ -90,18 +90,18 @@
     &__item-link {
         text-decoration: none;
         color: #fff;
-        display: inline-block;
+        display: block;
         padding: 14px 9px;
         font-size: 1.1rem;
         letter-spacing: 1.5px;
         transition: color .1s linear;
         &:hover {
-            color: $yellow;
-            & + .site-nav__chevron {
-                .chevron-icon {
-                    fill: $yellow;
-                }
-            }
+            background-color: $darkblue;
+            // & + .site-nav__chevron {
+            //     .chevron-icon {
+            //         fill: $yellow;
+            //     }
+            // }
         }
         @include breakpoint(large) {
             font-size: 1rem;
@@ -120,20 +120,24 @@
         &--sublink {
             display: block;
         }
+
+        &--sublink {
+            padding-left: 20px;
+        }
     }
 
     &__item:hover {
         .site-nav__item-link--with-sublinks {
-            color: $yellow;
+            background-color: $darkblue;
         }
-        .chevron-icon {
-            fill: $yellow;
-        }
+        // .chevron-icon {
+        //     fill: $yellow;
+        // }
     }
 
     &__subitems {
-        background-color: $darkblue;
-        padding-left: 20px;
+        background-color: $lightblue;
+        padding-left: 0;
         max-height: 0;
         overflow: hidden;
         transition: max-height .3s ease-in;
@@ -141,7 +145,7 @@
             position: absolute;
             padding-left: 0;
             top: 46px;
-            border: 2px solid $yellow;
+            border: 2px solid $lightblue;
             border-bottom: none;
             border-top: none;
             border-bottom-left-radius: 6px;

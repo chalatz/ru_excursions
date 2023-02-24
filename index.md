@@ -1,5 +1,4 @@
 ---
-permalink: index.htm
 layout: home
 type: home
 id: home
@@ -21,21 +20,24 @@ meta:
     Greece
   abstract: Rhodes Shore Excursions Greece, Rhodes Private Tours
 intro: |-
-  Are you a cruiser and first-time visitor to Rhodes? Looking for a way to maximize your short time on the island?
+  Если вы впервые на Родосе  или уже побывали и действительно заинтересовались  его богатым культурным и историческим наследием, вы зашли на правильный сайт!
 
-  If Yes, then you came to the right place. **Welcome to Rhodes Shore Excursions!**
+  Добро пожаловать на rodosguidedtours.ru!
+
+  Мы профессионалы своего дела, а это значит, что ваше знакомство с островом будет интересным и информативным, вы проведёте время с максимальной пользой!
 has_emergency: true
 ---
 
 {:.centered}
-**Get help from true insiders.**
+**Воспользуйтесь опытом настоящих знатоков Греции!**
+
+Позвольте нашим специалистам, профессиональным гидам и опытным водителям, воплотить в реальность экскурсию вашей мечты.
+
+Большой выбор предлагаемых нами экскурсионных туров даёт возможность корректировать их под индивидуальный запрос гостей. Вы познакомитесь с главными культурными и историческими достопримечательностями острова. Также мы поможем вам спланировать ваш досуг во время вашего визита на Родос.
+
+Наши экскурсии - лучшее знакомство с островом, даже если вы прибыли на Родос совсем ненадолго в рамках путешествия на круизном лайнере по Средиземноморью. Мы покажем вам все самое интересное, рационально используя ваше время с первой минуты встречи в порту.
+
+Это самый эффективный и увлекательный способ познакомиться с Родосом. Высокое качество услуг и сервиса позволит вам расслабиться и получить удовольствие от посещения острова.
 
 {:.centered}
-Let our shore excursion specialists, professional tour-drivers and licensed tour-guides help you experience a dream shore tour.
-
-We are dedicated to providing custom-tailored shore excursions for cruise ship passengers docking at Rhodes cruise port. You can choose from a number of our shore tours where we will take you to the best Rhodes destinations (historic and cultural spots). You can explore Rhodes town highlights and Lindos on your own pace. We can also suggest a lot of “things to do and see in Rhodes” so you can cover as many sights as possible during your short visit, having one of the best shore excursions in the Greek islands.
-
-We are independent cruise excursions providers; you can add or delete pieces of the itinerary as you wish. Individuals will be driven in Mercedes Sedan Cars and groups can be accommodated in Minibuses and Coaches.  Our shore excursions are the best introduction to Rhodes for first time visitors (cruisers and travelers). Many cruise lines do cruise excursions in the Mediterranean Sea and go to the Greek islands, they all dock at Rhodes cruise port where we can pick you up.   Our shore excursions services are, of course, available for guests staying on the island. Our goal is to provide you with a high level of quality and service that will allow you to relax and enjoy your visit to Rhodes.
-
-{:.centered}
-**This is the most efficient and most interesting way to see our beautiful island. You will be glad you booked with us!**
+**Доверьтесь нам и вы останетесь довольны своим отдыхом!**
