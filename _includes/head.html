@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Content-Language" content="en-us">
 
-  {%- if jekyll.environment == 'development' -%}
+  {%- if jekyll.environment == 'development' or site.test == true -%}
     <meta name="robots" content="noindex,nofollow">
   {%- endif -%}
 
@@ -42,7 +42,7 @@
       <link rel="stylesheet" href="{{ '/css/main.css?v1_4'| relative_url }}">
   {%- endif -%}
 
-  {%- unless jekyll.environment == 'development' -%}
+  {%- unless jekyll.environment == 'development' or site.test == true -%}
     {%- include partials/google-analytics.html -%}
   {%- endunless -%}
 
