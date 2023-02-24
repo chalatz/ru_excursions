@@ -1,0 +1,137 @@
+._mt-1rem {
+    margin-top: 1rem !important;
+}
+
+._mt-2rem {
+    margin-top: 2rem !important;
+}
+
+.full-width {
+    width: 100%;
+    display: block;
+}
+
+.rotate-180 {
+    transform: rotate(180deg);
+}
+
+.centered {
+    text-align: center;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.oblique {
+    font-style: oblique;
+}
+
+.mobile-only {
+    &--inline {
+        display: inline !important;
+    }
+    &--block {
+        display: block !important;
+    }
+    &--inline-block {
+        display: inline-block !important;
+    }
+    @include breakpoint(small) {
+        display: none !important;
+    }
+}
+
+.tablet-only {
+    display: none !important;
+    &--block {
+        @include breakpoint(small) {
+            display: block !important;
+        }
+    }
+    &--inline {
+        @include breakpoint(small) {
+            display: inline !important;
+        }
+    }
+    &--inline-block {
+        @include breakpoint(small) {
+            display: inline-block !important;
+        }
+    }
+}
+
+.desktop-only {
+    display: none !important;
+    &--block {
+        @include breakpoint(medium) {
+            display: block !important;
+        }
+    }
+    &--inline {
+        @include breakpoint(medium) {
+            display: inline !important;
+        }
+    }
+    &--inline-block {
+        @include breakpoint(medium) {
+            display: inline-block !important;
+        }
+    }
+}
+
+.large-desktop-only {
+    display: none !important;
+    &--block {
+        @include breakpoint(large) {
+            display: block !important;
+        }
+    }
+    &--inline {
+        @include breakpoint(large) {
+            display: inline !important;
+        }
+    }
+    &--inline-block {
+        @include breakpoint(large) {
+            display: inline-block !important;
+        }
+    }
+}
+
+.hide-on-large-desktop {
+    @include breakpoint(large) {
+        display: none !important;
+    }
+}
+
+.hide-on-desktop {
+    @include breakpoint(medium) {
+        display: none !important;
+    }
+}
+
+.w-10-rem {
+    width: 10rem !important;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+@keyframes spin {
+    100% {
+        transform:rotate(360deg);
+    }
+}
+
+.spin {
+    animation: spin 2.8s linear infinite;
+}

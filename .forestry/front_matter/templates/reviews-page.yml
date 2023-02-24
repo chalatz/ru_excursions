@@ -1,0 +1,43 @@
+---
+---
+
+---
+label: Reviews page
+hide_body: true
+fields:
+- type: field_group
+  name: meta
+  label: Meta
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: text
+    name: http_desc
+    label: http_desc
+  - type: text
+    name: keywords
+    label: keywords
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: abstract
+    label: abstract
+  hidden: false
+- type: field_group_list
+  name: reviews
+  label: Reviews
+  fields:
+  - type: text
+    name: year
+    label: Year
+  - type: textarea
+    name: text
+    label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+pages:
+- pages/info/reviews.md

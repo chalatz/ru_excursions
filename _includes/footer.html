@@ -1,0 +1,125 @@
+<footer class="site-footer">
+
+    <div class="site-footer__items-wrapper container">
+
+        <div class="site-footer__info-row">
+
+            {%- assign footer_nav = site.data.navigation.footer -%}
+
+            <div class="site-footer__info-col">
+                <h3 class="site-footer__col-title">
+                    {{- footer_nav.col_1.title -}}
+                </h3>
+                <ul class="site-footer__list">
+                    {%- for item in footer_nav.col_1.items -%}
+                        <li>
+                            {%- if item.url and item.url.size > 0 -%}
+                                <a href="{{- item.url | relative_url -}}"{% if item.id == page.id %} class="active"{% endif %}>
+                                    {{- item.title -}}
+                                </a>
+                            {%- else -%}
+                                    {{- item.title -}}
+                            {%- endif -%}
+                        </li>
+                    {%- endfor -%}
+                </ul>
+            </div>
+
+            <div class="site-footer__info-col site-footer__info-col--middle">
+                <div class="site-footer__info-col__middle-wrapper">
+                    <h3 class="site-footer__col-title">
+                        {{- footer_nav.col_2.title -}}
+                    </h3>
+
+                    <ul class="site-footer__list">
+                        {%- for item in footer_nav.col_2.items -%}
+                            <li>
+                                {%- if item.url and item.url.size > 0 -%}
+                                    <a href="{{- item.url | relative_url -}}"{% if item.id == page.id %} class="active"{% endif %}>
+                                        {{- item.title -}}
+                                    </a>
+                                {%- else -%}
+                                        {{- item.title -}}
+                                {%- endif -%}
+                            </li>
+                        {%- endfor -%}
+                    </ul>
+                </div>
+            </div>
+
+            <div class="site-footer__info-col">
+                <h3 class="site-footer__col-title">
+                    Address:
+                </h3>
+                <ul class="site-footer__list">
+                    <li>
+                        Rhodes Island 85100 Greece
+                    </li>
+                    <li>
+                        From USA: <a class="mobile-only mobile-only--inline" href="tel:01130-6934596990">01130 - 6934596990</a><span class="desktop-only desktop-only--inline">01130 - 6934596990</span>
+                    </li>
+                    <li>
+                        From Australia: <a class="mobile-only mobile-only--inline" href="tel:001130-6934596990">001130 - 6934596990</a><span class="desktop-only desktop-only--inline">001130 - 6934596990</span>
+                    </li>
+                    <li>
+                        From EU: <a class="mobile-only mobile-only--inline" href="tel:0030-6934596990">0030 - 6934596990</a><span class="desktop-only desktop-only--inline">0030 - 6934596990</span>
+                    </li>
+                    <li>
+                        Within Greece: <a class="mobile-only mobile-only--inline" href="tel:6934596990">6934596990</a><span class="desktop-only desktop-only--inline">6934596990</span>
+                    </li>
+                </ul>
+                <div class="koinonika">
+                    <h3 class="site-footer__info-title site-footer__info-title--follow-us">
+                        <a href="mailto:request@RhodesShoreExcursions.com">request@RhodesShoreExcursions.com</a>
+                    </h3>
+                    <div class="koinonika__icons">
+                        <a class="koinonika__link koinonika__link--fatsobiblio" href="{{- 'sightseeing_tours_in_rhodes_greece.htm' | relative_url -}}">
+                            {%- include_cached svg/facebook.svg -%}
+                        </a>
+                        <a class="koinonika__link koinonika__link--sindesi_mesa" href="{{- 'sightseeing_tours_in_rhodes_greece.htm' | relative_url -}}">
+                            {%- include_cached svg/linkedin.svg -%}
+                        </a>
+                        <a class="koinonika__link koinonika__link--karfitsoste" href="{{- 'sightseeing_tours_in_rhodes_greece.htm' | relative_url -}}">
+                            {%- include_cached svg/pinterest.svg -%}
+                        </a>
+                    </div>
+                </div>
+
+        </div>
+
+        </div>
+
+        <div class="site-footer__bottom-info">
+            <div class="site-footer__bottom-info-item site-footer__bottom-info-item--block">
+                <a href="{{- 'rhodes-greece-shore-excursions.htm' | relative_url -}}">
+                    Privacy - Terms & Conditions
+                </a>
+            </div>
+            <span class="site-footer__bottom-info-item site-footer__bottom-info-item--block">EOT (GNTO) N. 1476E70000137800</span>
+            {%- comment -%} <span class="mid-desktop-only mid-desktop-only--inline">&nbsp;</span>
+            <span class="site-footer__bottom-info-item">ΓΕΜΗ (G.C.R) N. 000146680620000</span> {%- endcomment -%}
+        </div>
+
+        {%- if page.has_emergency == true -%}
+            <div class="container">
+                <a href="{{- 'covid19-rhodes.htm' | relative_url -}}" class="emergency">
+                    <h3 class="emergency__title">
+                        COVID-19 RHODES GREECE
+                    </h3>
+                    <p class="mobile-only mobile-only--block emergency__cta">
+                        Read Details
+                    </p>
+                </a>
+            </div>
+        {%- endif -%}
+
+        <p class="site-footer__copyright">
+            <span class="site-footer__bottom-info-item">@ 1998 - {{ site.time | date: '%Y' }} RhodesShoreExcursions.com</span>
+            <span class="mid-desktop-only mid-desktop-only--inline"> | </span>
+            <span class="site-footer__bottom-info-item">Rhodes Shore Excursions</span>
+        </p>
+
+
+    </div>
+
+</footer>

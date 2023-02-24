@@ -1,0 +1,159 @@
+---
+layout: default
+---
+
+{%- if page.head_photo and page.head_photo.img.size > 0 -%}
+  {%- assign has_head_photo = true -%}
+{%- else -%}
+  {%- assign has_head_photo = false -%}
+{%- endif -%}
+{%- if has_head_photo == true -%}
+    <section class="head-photo head-photo--page head-photo--{{ page.type }}{% if page.head_photo.type and page.head_photo.type.size > 0 %} head-photo--{{ page.head_photo.type }} {% endif %}">
+        {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%}
+          <picture>
+            <source srcset="{{- page.head_photo.mobile | relative_url -}}"
+                    media="(max-width: 576px)">
+            <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
+          </picture>
+        {%- else -%}
+          <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
+        {%- endif -%}
+    </section>
+{%- endif -%}
+
+<article class="page{% if page.type and page.type.size > 0 %} {{ page.type }}{% endif %}">
+
+  <div class="container">
+
+    {%- assign has_subtitle = false -%}
+    {%- if page.subtitle and page.subtitle.size > 0 -%}
+      {%- assign has_subtitle = true -%}
+    {%- endif -%}
+
+    {%- if page.title.size > 0 or page.subtitle.size > 0 -%}
+      <div class="page__header{% if has_head_photo == false %} page__header--no-head-photo{% endif %}">
+
+        {%- if page.title and page.title.size > 0 -%}
+          <h1 class="page__title{% if has_subtitle == false %} page__title--no-subtitle{% endif %}">
+            {%- if page.permalink == 'experience.htm' -%}
+              {%- include years-of-xp.html -%}
+              {{- page.title | replace: '__YEARS_OF_XP__', years_of_xp | replace: '__CURRENT_YEAR__', current_year -}}
+            {%- else -%}
+              {{- page.title -}}
+            {%- endif -%}
+          </h1>
+        {%- endif -%}
+
+        {%- if page.subtitle and page.subtitle.size > 0 -%}
+          <h2 class="page__subtitle">
+            {{- page.subtitle -}}
+          </h2>
+        {%- endif -%}
+
+        {%- if page.intro and page.intro.size > 0 -%}
+          <div class="page__intro">
+            {{ page.intro | markdownify }}
+          </div>
+        {%- endif -%}
+
+        {%- if page.description and page.description.size > 0 -%}
+          <div class="page__intro page__intro--desc">
+            {{ page.description | markdownify }}
+          </div>
+        {%- endif -%}
+
+      </div>
+    {%- endif -%}
+
+    <div class="page__content">
+
+      {{ content }}
+
+      {%- if page.gallery -%}
+        {%- assign page_gallery_size = page.gallery.size | size -%}
+        {%- if page_gallery_size > 0 -%}
+          {%- include partials/page-gallery.html the_gallery= page.gallery -%}
+        {%- endif -%}
+      {%- endif -%}
+
+      {%- if page.generic_gallery -%}
+        {%- assign page_generic_gallery_size = page.generic_gallery | size -%}
+        {%- if page_generic_gallery_size > 0 -%}
+          {%- include partials/page-generic-gallery.html the_gallery= page.generic_gallery -%}
+        {%- endif -%}
+      {%- endif -%}
+
+      {%- if page.footer and page.footer.text.size > 0 -%}
+        <div class="page__footer{% if page.footer.centered == true %} centered{% endif %}">
+          {{ page.footer.text | markdownify }}
+        </div>
+      {%- endif -%}
+
+      {%- if page.outro and page.outro.size > 0 -%}
+        <h3 class="page__outro">
+          {{- page.outro -}}
+        </h3>
+      {%- endif -%}
+    </div>
+
+
+  </div>
+
+</article>
+
+{%- assign related_tours_size = page.related_tours | size -%}
+{%- if related_tours_size > 0 -%}
+  {%- include partials/related-tours.html -%}
+{%- endif -%}
+
+{%- if page.has_destinations == true -%}
+  {%- include partials/destinations.html -%}
+{%- endif -%}
+
+
+{%- if page.has_banners == true -%}
+  {%- include_cached partials/banners.html -%}
+{%- elsif page.has_banners == false and page.has_destinations == true -%}
+  <div class="separator"></div>
+{%- endif -%}
+
+{%- if page.has_gallery == true -%}
+  {%- if page.gallery -%}
+    {%- assign gallery_size = page.gallery.size | size -%}
+    {%- if gallery_size > 0 -%}
+      <div class="preload">
+        {%- for gallery_item in page.gallery.items -%}
+          <img src="{{- gallery_item.image.href | relative_url -}}" width="1" height="1">
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- if page.sections -%}
+  {%- assign sections_size = page.sections | size -%}
+  {%- if sections_size > 0 -%}
+    {%- for section in page.sections -%}
+      {%- if section.gallery -%}
+        {%- assign gallery_size = section.gallery.items | size -%}
+        {%- if gallery_size > 0 -%}
+          <div class="preload">
+            {%- for section_gallery_item in section.gallery.items -%}
+              <img src="{{- section_gallery_item.image.href | relative_url -}}" width="1" height="1">
+            {%- endfor -%}
+          </div>
+        {%- endif -%}
+      {%- endif -%}
+      {%- if section.gallery2 -%}
+        {%- assign gallery2_size = section.gallery2.items | size -%}
+        {%- if gallery2_size > 0 -%}
+          <div class="preload">
+            {%- for section_gallery2_item in section.gallery2.items -%}
+              <img src="{{- section_gallery2_item.image.href | relative_url -}}" width="1" height="1">
+            {%- endfor -%}
+          </div>
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endif -%}

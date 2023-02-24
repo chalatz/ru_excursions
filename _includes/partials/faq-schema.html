@@ -1,0 +1,27 @@
+{%- assign outer_forloop_last = false -%}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {%- for section in page.faq.sections -%}
+        {%- if forloop.last -%}
+          {%- assign outer_forloop_last = true -%}
+        {%- endif -%}
+        {%- for item in section.items -%}
+          {
+            "@type": "Question",
+            "name": {{ item.q | markdownify | remove: '<p>' | remove: '</p>' | jsonify }},
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": {{ item.a | markdownify | remove: '<p>' | remove: '</p>' | jsonify }}
+            }
+          }
+          {%- unless forloop.last and outer_forloop_last -%}
+            ,
+          {%- endunless -%}
+        {%- endfor -%}
+      {%- endfor -%}        
+    ]
+}
+</script>

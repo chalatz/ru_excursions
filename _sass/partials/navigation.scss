@@ -1,0 +1,186 @@
+.site-nav {
+
+    background-color: $lightblue;
+    position: sticky;
+    top: -1px;
+    z-index: 2;
+    border-bottom: 2px solid $yellow;
+
+    &--mobile {
+        border: none;
+    }
+
+    &__container {
+        padding-left: 0;
+        padding-right: 0;
+        position: relative;
+        @include breakpoint(large) {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+
+    &__items {
+        display: none;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        position: absolute;
+        top: 52px;
+        left: 0;
+        width: 100%;
+        background-color: $darkblue;
+        // &--opened {
+        //     box-shadow: 0 6px 11px -6px $yellow;
+        //     @include breakpoint(large) {
+        //         box-shadow: none;
+        //     }
+        // }
+        @include breakpoint(large) {
+            display: block !important;
+            position: static;
+            top: auto;
+            background-color: $lightblue;
+        }
+    }
+
+    &__item {
+        display: block;
+        &--active {
+            background-color: $black;
+        }
+
+        @include breakpoint(large) {
+            display: inline-block;
+        }
+
+        &--burger {
+            padding: 8px;
+            cursor: pointer;
+            color: #fff;
+            font-size: 1.2rem;
+
+            @include breakpoint(large) {
+                display: none;
+            }
+        }
+
+        &--with-sublinks {
+            position: relative;
+            cursor: pointer;
+        }
+
+        &--sublink {
+            @include breakpoint(large) {
+                display: block;
+                white-space: nowrap;
+            }
+        }
+
+        &--sublink-last {
+            @include breakpoint(large) {
+                border-bottom-left-radius: 3px;
+                border-bottom-right-radius: 3px;
+                border-bottom: 2px solid $yellow;
+            }
+        }
+
+    }
+
+    &__item-link {
+        text-decoration: none;
+        color: #fff;
+        display: inline-block;
+        padding: 14px 9px;
+        font-size: 1.1rem;
+        letter-spacing: 1.5px;
+        transition: color .1s linear;
+        &:hover {
+            color: $yellow;
+            & + .site-nav__chevron {
+                .chevron-icon {
+                    fill: $yellow;
+                }
+            }
+        }
+        @include breakpoint(large) {
+            font-size: 1rem;
+        }
+        @include breakpoint(semi_large) {
+            font-size: 1.1rem;
+        }
+        &--sublinks {
+            white-space: nowrap;
+        }
+        &--with-sublinks {
+            pointer-events: none;
+        }
+
+        &--no-sublinks,
+        &--sublink {
+            display: block;
+        }
+    }
+
+    &__item:hover {
+        .site-nav__item-link--with-sublinks {
+            color: $yellow;
+        }
+        .chevron-icon {
+            fill: $yellow;
+        }
+    }
+
+    &__subitems {
+        background-color: $darkblue;
+        padding-left: 20px;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height .3s ease-in;
+        @include breakpoint(large) {
+            position: absolute;
+            padding-left: 0;
+            top: 46px;
+            border: 2px solid $yellow;
+            border-bottom: none;
+            border-top: none;
+            border-bottom-left-radius: 6px;
+            border-bottom-right-radius: 6px;
+        }
+        @include breakpoint(semi_large) {
+            top: 48px;
+        }
+        &--opened {
+            max-height: 800px;
+        }
+    }
+
+    &__burger-icon {
+        fill: #fff;
+        stroke: $lightblue;
+    }
+
+    &__chevron {
+        position: absolute;
+        top: 0;
+        right: 8px;
+        pointer-events: none;
+        @include breakpoint(large) {
+            display: none;
+        }
+    }
+
+    &--mobile {
+        height: 100vh;
+        overflow-y: auto;
+        @include breakpoint(large) {
+            height: auto;
+            overflow-y: visible;
+        }
+    }
+
+    .chevron-icon {
+        fill: #fff;
+    }
+
+}

@@ -1,0 +1,21 @@
+<div class="tour__gallery-wrapper">
+    <div class="tour__gallery">
+        {%- for img in page.gallery.images -%}
+            <a href="{{- img.path | relative_url -}}" data-fancybox="tour-gallery" class="tour__gallery-item hidden">
+                {%- if img.path_mid and img.path_mid.size > 0 -%}
+                    {%- assign img_path = img.path_mid -%}
+                {%- else -%}
+                    {%- assign img_path = img.path -%}
+                {%- endif -%}
+                <img src="{{- img_path | relative_url -}}" alt="">
+            </a>
+        {%- endfor -%}
+    </div>
+    <div class="tour__gallery-nav">
+        {%- for img in page.gallery.images -%}
+            <div class="tour__gallery-thumb hidden">
+                <img src="{{- img.thumb | relative_url -}}" alt="">
+            </div>
+        {%- endfor -%}
+    </div>
+</div>

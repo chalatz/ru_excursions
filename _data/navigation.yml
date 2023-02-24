@@ -1,0 +1,113 @@
+main:
+  items:
+    - title: Home
+      url: '/'
+      id: home
+      type: single
+      sublinks: []
+    - title: About Us
+      url: '#'
+      type: parent
+      parent_name: about
+      sublinks:
+        - title: Our Story
+          url: private-shore-excursions-rhodes-greece.htm
+          parent: about
+        - title: VIP Tour Services
+          url: vip_tours.htm
+          parent: about
+    - title: Private Excursions
+      url: rhodes-cruise-excursions.htm
+      type: parent
+      parent_name: cruises
+      sublinks:
+        - title: View All Shore Excursions
+          url: rhodes-cruise-excursions.htm
+        - title: Best Rhodes Shore Excursions
+          url: best_rhodes_greece.htm
+        - title: Rhodes in a Day
+          url: rhodes_in_a_day.htm
+        - title: Rhodes West Coast
+          url: rhodes_west_coast.htm
+        - title: Jewish Tour Rhodes
+          url: jewish_tours_greece.htm
+        - title: Wine Tour Rhodes
+          url: wine_tours_greece.htm
+        - title: Rhodes Beach Tour
+          url: rhodes-beach-tour-excursion.htm
+        - title: Family Tour Rhodes
+          url: family_tours_greece.htm
+        - title: Rhodes Custom Tour
+          url: rhodes-custom-excursions.htm
+        - title: Rhodes Nature Excursion
+          url: rhodes-nature-excursions.htm
+    - title: Group Excursions
+      url: groups.htm
+      type: single
+      id: groups
+      sublinks: []
+    - title: Accessible
+      url: wheelchair_accessible_greece.htm
+      type: single
+      id: accessible
+      sublinks: []
+    - title: Reviews
+      url: reviews_tripadvisor.htm
+      type: single
+      id: reviews
+      sublinks: []
+    - title: Contact Us
+      url: 'booking.htm'
+      type: single
+      id: contact
+      sublinks: []
+
+footer:
+  col_1:
+    title: Know Before You Go
+    items:
+      - title: Our Story
+        url: private-shore-excursions-rhodes-greece.htm
+        id: our_story
+      - title: Why Tour with Us
+        url: Independent_greece.htm
+        id: why_us
+      - title: Rhodes Private Tours
+        url: rhodes_private_tours.htm
+        id: private_tours
+      - title: Excursions Worry Free
+        url: worry_free.htm
+        id: worry_free
+      - title: Excursion Quality
+        url: quality_greece.htm
+        id: excursion_quality
+      - title: Cruises to Rhodes
+        url: discount_cruise.htm
+        id: cruises_to_rhodes
+      - title: Rhodes Quick Facts
+        url: greece.htm
+        id: quick_facts
+  col_2:
+    title: Things to do in Rhodes
+    items:
+      - title: Rhodes Pottery
+        url: greek_pottery.htm
+        id: pottery
+      - title: Rhodes Food Tour
+        url: rhodes_cuisine_greece.htm
+        id: food
+      - title: The Jewish Quarter
+        url: jewish_quarter_juderia.htm
+        id: juderia
+      - title: Byzantine Monuments
+        url: byzantine.htm
+        id: byzantine
+      - title: The Knights of Rhodes
+        url: knights_of_st_john.htm
+        id: knights
+      - title: Ottoman Sites
+        url: ottoman_sites.htm
+        id: ottoman
+      - title: Italian Architecture
+        url: italian_architecture.htm
+        id: italian_architecture

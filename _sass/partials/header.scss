@@ -1,0 +1,40 @@
+.site-header {
+    position: relative;
+}
+
+.site-logo {
+
+    background-color: $darkblue;
+    padding: 20px 0;
+
+    &__headings {
+        display: inline-block;
+    }
+
+    &__heading {
+        margin: 0;
+        font-size: 22px;
+        @include breakpoint(smaller) {
+            font-size: 26px;
+        }
+        @include breakpoint(small) {
+            font-size: 32px;
+        }
+    }
+
+    &__subheading {
+        margin: 0;
+    }
+
+    &__heading-link {
+        text-decoration: none;
+        color: $yellow;
+        &--subheading {
+            font-size: 1.2rem;
+            color: #fff;
+            font-style: italic;
+            font-weight: normal;
+        }
+    }
+
+}

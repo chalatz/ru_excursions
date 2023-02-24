@@ -1,0 +1,13 @@
+_site
+.jekyll-cache
+vendor
+.sass-cache
+.jekyll-metadata
+node_modules
+dist
+Gemfile.lock
+_recaptcha_key.php
+_infodb_key.php
+_geo_api_key.php
+_apots.php
+Gemfile.lock

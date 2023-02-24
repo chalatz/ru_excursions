@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    {%- unless page.has_form == true -%}
+      <div id="msg" class="msg container _mt-2rem"></div>
+    {%- endunless -%}
+    <main class="site-content {{ page.id }}" aria-label="Content">
+
+      {{ content }}
+
+    </main>
+
+    {%- include footer.html -%}
+
+    <a class="go-top" id="scrollBtn" href="#home">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-up" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z"/>
+        <polyline points="6 15 12 9 18 15" />
+      </svg>
+    </a>
+
+    {%- unless page.layout == 'home' or page.has_form == true -%}
+      {%- include pop-form.html -%}
+    {%- endunless -%}
+
+    {%- include scripts.html -%}
+
+  </body>
+
+</html>
