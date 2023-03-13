@@ -1,56 +1,56 @@
 title: FIND A SHORE EXCURSION BY DESTINATION
 items:
-- title: Acropolis of Lindos
+- title: Акрополь Линдоса
   url: lindos_acropolis.htm
   id: lindos_acropolis
-- title: Rhodes Old Town
+- title: Старый город Родос
   url: old_town.htm
   id: old_town
-- title: Butterfly Valley
+- title: Долина Бабочек
   url: valley_of_the_butterflies.htm
   id: butterflies
-- title: Rhodes New Town
+- title: Новый город Родос
   url: new_town.htm
   id: new_town
-- title: Filerimos Monastery
+- title: Холм Филеримос
   url: filerimos_mountain.htm
   id: filerimos
-- title: Monte Smith
+- title: Монте Смит
   url: monte_smith.htm
   id: monte_smith
-- title: Embonas Village
+- title: Селение Эмбона
   url: embonas-village-rhodes.htm
   id: embonas
-- title: Kallithea Springs
+- title: Термы Калифеи
   url: kallithea-springs-rhodes-greece.htm
   id: kallithea
-- title: Ancient Kamiros
+- title: Древний Камирос
   url: ancient_kamiros.htm
   id: kamiros
-- title: Seven Springs
+- title: Долина 7 Источников
   url: seven-springs-epta-piges.htm
   id: seven_springs
-- title: Kritinia Castle
+- title: Крепость Критинии
   url: kritinia-castle-rhodes-greece.htm
   id: kritinia
-- title: Castle of Monolithos
+- title: Крепость Монолит
   url: castle-monolithos-rhodes-greece.htm
   id: monolithos
-- title: Lindos Beach
+- title: Пляж Линдоса
   url: lindos-beach-rhodes.htm
   id: lindos_beach
-- title: Tsambika Beach
+- title: Пляж Цамбика
   url: tsambika-beach-rhodes.htm
   id: tsambika
-- title: Anthony Quinn Bay
+- title: Пляж Энтони Куина
   url: anthony-quinn-beach-rhodes.htm
   id: anthony_quinn
-- title: St Paul’s Bay
+- title: Бухта Апостола Павла
   url: st-pauls-bay-beach-rhodes.htm
   id: st_paul
-- title: Faliraki Beach
+- title: Пляж Фалираки
   url: faliraki-beach-rhodes.htm
   id: faliraki_beach
-- title: Rhodes Town Beach
+- title: Пляж города Родос
   url: rhodes-town-beach.htm
   id: elli_beach

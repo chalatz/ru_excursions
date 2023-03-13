@@ -1,11 +1,11 @@
 main:
   items:
-    - title: Home
+    - title: Главная
       url: '/'
       id: home
       type: single
       sublinks: []
-    - title: About Us
+    - title: ИНДИВИДУАЛЬНЫЕ ЭКСКУРСИИ
       url: '#'
       type: parent
       parent_name: about
@@ -16,7 +16,7 @@ main:
         - title: VIP Tour Services
           url: vip_tours.htm
           parent: about
-    - title: Private Excursions
+    - title:  КРУИЗЫ НА ЯХТАХ
       url: rhodes-cruise-excursions.htm
       type: parent
       parent_name: cruises
@@ -41,22 +41,22 @@ main:
           url: rhodes-custom-excursions.htm
         - title: Rhodes Nature Excursion
           url: rhodes-nature-excursions.htm
-    - title: Group Excursions
+    - title: ПЕШЕХОДНЫЕ ЭКСКУРСИИ
       url: groups.htm
       type: single
       id: groups
       sublinks: []
-    - title: Accessible
+    - title: ГРУППОВЫЕ ЭКСКУРСИИ
       url: wheelchair_accessible_greece.htm
       type: single
       id: accessible
       sublinks: []
-    - title: Reviews
+    - title: ОТЗЫВЫ
       url: reviews_tripadvisor.htm
       type: single
       id: reviews
       sublinks: []
-    - title: Contact Us
+    - title: КОНТАКТЫ
       url: 'booking.htm'
       type: single
       id: contact
