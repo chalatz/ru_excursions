@@ -6,6 +6,11 @@
         font-size: 1.1rem;
     }
 
+    &__icons {
+        display: flex;
+        align-items: center;
+    }
+
     &__link {
         display: inline-block;
         background-color: #404040;
@@ -28,11 +33,37 @@
         &--karfitsoste:hover {
             background-color: #bd081c;
         }
+        &--phone {
+            padding: 11px 12px;
+            margin-right: 18px;
+        }
+        &--viber,
+        &--whatsapp {
+            padding: 0;
+            background: none;
+        }
     }
 
     &__icon {
         fill: #fff;
         height: 18px;
+
+        &--phone {
+            fill: none;
+            height: 29px;
+            position: relative;
+            top: 1px;
+        }
+
+        &--viber {
+            width: 70px;
+            height: 70px;
+        }
+
+        &--whatsapp {
+            width: 70px;
+            height: 70px;
+        }
     }
 
 }
