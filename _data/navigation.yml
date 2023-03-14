@@ -64,50 +64,50 @@ main:
 
 footer:
   col_1:
-    title: Know Before You Go
+    title: Важно знать до поездки
     items:
-      - title: Our Story
+      - title: Наша история
         url: private-shore-excursions-rhodes-greece.htm
         id: our_story
-      - title: Why Tour with Us
+      - title: Почему с нами
         url: Independent_greece.htm
         id: why_us
-      - title: Rhodes Private Tours
+      - title: Экскурсии на русском языке
         url: rhodes_private_tours.htm
         id: private_tours
-      - title: Excursions Worry Free
+      - title: отпуск без забот
         url: worry_free.htm
         id: worry_free
-      - title: Excursion Quality
+      - title: Качественные экскурсии
         url: quality_greece.htm
         id: excursion_quality
-      - title: Cruises to Rhodes
+      - title: Круизы на Родос
         url: discount_cruise.htm
         id: cruises_to_rhodes
-      - title: Rhodes Quick Facts
+      - title: Интересные факты о Родосе
         url: greece.htm
         id: quick_facts
   col_2:
-    title: Things to do in Rhodes
+    title: Чем заняться на Родосе
     items:
-      - title: Rhodes Pottery
+      - title: Родосская керамика
         url: greek_pottery.htm
         id: pottery
-      - title: Rhodes Food Tour
+      - title: Традиционная родосская кухня
         url: rhodes_cuisine_greece.htm
         id: food
-      - title: The Jewish Quarter
+      - title: еврейский квартал Родоса
         url: jewish_quarter_juderia.htm
         id: juderia
-      - title: Byzantine Monuments
+      - title: Византийские памятники
         url: byzantine.htm
         id: byzantine
-      - title: The Knights of Rhodes
+      - title: Рыцари Родоса
         url: knights_of_st_john.htm
         id: knights
-      - title: Ottoman Sites
+      - title: Османские памятники
         url: ottoman_sites.htm
         id: ottoman
-      - title: Italian Architecture
+      - title: Итальянская архитектура
         url: italian_architecture.htm
         id: italian_architecture
