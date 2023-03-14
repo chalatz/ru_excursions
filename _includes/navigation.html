@@ -22,7 +22,7 @@
                     {%- assign is_active = true -%}
                 {%- endif -%}
 
-                <li role="menuitem" class="site-nav__item{% if is_active %} site-nav__item--active{% endif %}{% if sublinks_size > 0 %} site-nav__item--with-sublinks{% endif %}">
+                <li role="menuitem" class="site-nav__item{% if is_active %} site-nav__item--active{% endif %}{% if sublinks_size > 0 %} site-nav__item--with-sublinks{% endif %}{% if item.hide_on_desktop == true %} site-nav__item--mobile-only{% endif %}">
                     <a itemprop="url" href="{{- item.url | absolute_url -}}" class="site-nav__item-link{% if sublinks_size > 0 %} site-nav__item-link--with-sublinks{% else %} site-nav__item-link--no-sublinks{% endif %}">
                         <span itemprop="name">{{- item.title | upcase -}}</span>
                     </a>

@@ -5,6 +5,7 @@ main:
       id: home
       type: single
       sublinks: []
+      hide_on_desktop: true
     - title: ИНДИВИДУАЛЬНЫЕ ЭКСКУРСИИ
       url: '#'
       type: parent
@@ -61,7 +62,7 @@ main:
       type: single
       id: contact
       sublinks: []
-
+      hide_on_desktop: true
 footer:
   col_1:
     title: Важно знать до поездки

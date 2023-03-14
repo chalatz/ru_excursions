@@ -11,13 +11,13 @@
     }
 
     &__container {
-        max-width: 1490px;
+        max-width: 1200px;
         padding-left: 0;
         padding-right: 0;
         position: relative;
         @include breakpoint(large) {
-            padding-left: 20px;
-            padding-right: 20px;
+            padding-left: 14px;
+            padding-right: 0;
         }
     }
 
@@ -86,6 +86,12 @@
             }
         }
 
+        &--mobile-only {
+            @include breakpoint(large) {
+                display: none;
+            }
+        }
+
     }
 
     &__item-link {
@@ -105,9 +111,12 @@
             // }
         }
         @include breakpoint(large) {
-            font-size: 1rem;
+            font-size: .875rem;
         }
         @include breakpoint(semi_large) {
+            font-size: 1rem;
+        }
+        @include breakpoint(larger) {
             font-size: 1.1rem;
         }
         &--sublinks {
