@@ -14,6 +14,7 @@ meta:
   description: Covid-19 Rhodes Greece, Travel Restrictions
   abstract: Covid-19 Rhodes Greece, Travel Restrictions
 subtitle: ''
+published: false
 ---
 
 The COVID-19 pandemic has made it necessary for everyone to become cautious and deliberate in their actions. Nowhere is this more apparent than in the tourism environment. This is why, we’re urging our guides, travelers and drivers to show more responsibility in their actions and be mindful of protecting the safety and health of their companions. Moreover, we also make sure to apply the following rule and regulations to our services for the safety of all:
