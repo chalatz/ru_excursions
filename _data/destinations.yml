@@ -1,4 +1,4 @@
-title: FIND A SHORE EXCURSION BY DESTINATION
+title: ПОПУЛЯРНЫЕ НАПРАВЛЕНИЯ НА РОДОСЕ
 items:
 - title: Акрополь Линдоса
   url: lindos_acropolis.htm
@@ -18,7 +18,7 @@ items:
 - title: Монте Смит
   url: monte_smith.htm
   id: monte_smith
-- title: Селение Эмбона
+- title: Деревня Эмбона
   url: embonas-village-rhodes.htm
   id: embonas
 - title: Термы Калифеи
@@ -27,7 +27,7 @@ items:
 - title: Древний Камирос
   url: ancient_kamiros.htm
   id: kamiros
-- title: Долина 7 Источников
+- title: Семь Источников
   url: seven-springs-epta-piges.htm
   id: seven_springs
 - title: Крепость Критинии
@@ -42,7 +42,7 @@ items:
 - title: Пляж Цамбика
   url: tsambika-beach-rhodes.htm
   id: tsambika
-- title: Пляж Энтони Куина
+- title: Пляж Энтони Куинна
   url: anthony-quinn-beach-rhodes.htm
   id: anthony_quinn
 - title: Бухта Апостола Павла
