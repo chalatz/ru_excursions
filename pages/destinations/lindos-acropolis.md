@@ -1,6 +1,6 @@
 ---
-title: Rhodes Lindos Tour
-permalink: lindos_acropolis.htm
+title: Акрополь Линдоса на острове Родос
+permalink: Akropol-Lindosa-na-ostrove-Rodos.htm
 layout: gallery-page
 type: gallery-page
 id: lindos_acropolis
@@ -8,25 +8,18 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Rhodes Lindos Tour, Rhodes Lindos Excursion
-  http_desc: Rhodes Lindos Tour, Rhodes Lindos Excursion, Lindos Acropolis Excursions,
-    Rhodes Shore Excursions
-  keywords: Rhodes Lindos Tour, Rhodes Lindos Excursion, Lindos Acropolis Excursions,
-    Rhodes Shore Excursions
-  description: Rhodes Lindos Tour, Rhodes Lindos Excursion, Lindos Acropolis Excursions,
-    Rhodes Shore Excursions
-  abstract: Rhodes Lindos Tour, Rhodes Lindos Excursion
+  title: Акрополь Линдоса на острове Родос
+  http_desc: Акрополь Линдоса на острове Родос, Деревня Линдос, Храм Афины Линдии, Виды Линдоса с вершины акрополя, Родос, Греция
+  keywords: Акрополь Линдоса на острове Родос, Деревня Линдос, Храм Афины Линдии, Виды Линдоса с вершины акрополя, Родос, Греция
+  description: Акрополь Линдоса на острове Родос, Деревня Линдос, Храм Афины Линдии, Виды Линдоса с вершины акрополя, Родос, Греция
+  abstract: Акрополь Линдоса на острове Родос
 head_photo:
   img: "/img/pages/lindos-acropolis/head-photo.jpg"
   mobile: "/img/pages/lindos-acropolis/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: The picturesque village of Lindos is located 55km / 34mi south of Rhodes town
-    on the east coast of the island. According to Homer, Lindos was built by the Dorians
-    at the same time as Kamiros and Ialyssos in the 12th century B.C. The town reached
-    the height of its power in the 6th century B.C. during the reign of Tyrant Kleovoulos
-    - Cleobulus (one of the seven wise men of antiquity) who ruled for more than 40
-    years.
+- text: |-
+    Живописная деревня Линдос расположена в 55 км к югу от города Родос на восточном побережье острова. Согласно повествованию **Гомера**, Линдос был построен дорийцами одновременно с **Камиром и Ялиссом в 12 веке до н.э.** Город достиг пика своего могущества в 6 веке до н.э. во времена правления **тирана Клеобула**, одного из семи мудрецов древности, правившего более 40 лет.
   gallery:
     items_per_row: 4
     items:
@@ -50,7 +43,7 @@ sections:
         href: "/img/pages/lindos-acropolis/4.jpg"
         alt: Kleovoulos – Cleobulus (625 – 555 B.C.)
       caption: ''
-- title: Lindos Village
+- title: Деревня Линдос
   description: Walking through the narrow-cobbled streets of Lindos village.
   gallery:
     items_per_row: 4
@@ -75,10 +68,9 @@ sections:
         href: "/img/pages/lindos-acropolis/8.jpg"
         alt: Narrow-cobbled streets of Lindos village
       caption: ''
-- title: Acropolis of Lindos
+- title: Акрополь Линдоса
   text: |-
-    - On the approach to the top you will come to the castle a 13th century fortress that is the medieval gate of the Acropolis.
-    - Just before the steps up to the castle you can see on the cliff the well-known relief of a Rhodian Trireme - Triemiolia (warship) The relief is said to date from about 180 BC. Lindos was a major maritime power.
+    На подходе к вершине древнего святилища вы попадёте в крепость 15 века, являющуюся **средневековыми воротами акрополя**. Непосредственно перед ступенями лестницы, ведущей во внутреннюю часть крепости, можно увидеть высеченный в скале **рельеф родосского военного корабля -- триимиолии**, который датируется 180 г. до н.э. Линдос был крупной морской державой со своим военным и торговым флотом.
   gallery:
     items_per_row: 4
     items:
@@ -102,11 +94,9 @@ sections:
         href: "/img/pages/lindos-acropolis/12.jpg"
         alt: Lindos Acropolis - Rhodes Cruise Excursions
       caption: ''
-- title: Byzantine Church and Medieval Fortifications
-  text: The Greek Orthodox Church of St John, dating from the 13th or 14th century
-    and built on the ruins of a previous church, which may have been built as early
-    as the 6th century.  The medieval walls of the acropolis built by the Knights
-    of St John the Hospitallers on the foundations of an older Byzantine fortification.
+- title: Византийская церковь и средневековые укрепления
+  text: |-
+    Частично сохранившаяся греческая православная **церковь Святого Иоанна**, датируемая 13 веком, и остатки византийских укреплений, свидетельствуют о существовании в данном месте хорошо защищенной крепости в ещё византийский период. Средневековые стены акрополя построены **рыцарями ордена Святого Иоанна Иерусалимского** на фундаменте более древних византийских оборонительных сооружений.
   gallery:
     items_per_row: 4
     items:
@@ -130,7 +120,7 @@ sections:
         href: "/img/pages/lindos-acropolis/16.jpg"
         alt: Lindos Tour for Kids
       caption: ''
-- title: Hellenistic Stoa and Propylaea Stairway
+- title: Эллинистическая Стоа (Большой Портик), лестница в небо, пропилеи
   gallery:
     items_per_row: 4
     items:
@@ -154,10 +144,9 @@ sections:
         href: "/img/pages/lindos-acropolis/20.jpg"
         alt: Lindos Shore Excursions
       caption: ''
-- title: Temple of Athina Lindia
-  text: The Doric Temple of Athena Lindia - dating from 300 a, built on the site of
-    an earlier temple. Inside the temple is the altar and the base of the cult statue
-    of Athena.
+- title: Храм Афины Линдии
+  text: |-
+    **Дорический храм Афины Линдии**, датируемый 300 г. до н.э., построен на месте более раннего храма, пострадавшего от пожара. Внутри храма находилась **культовая статуя богини Афины**, во внутреннем перед храмом располагался алтарь.
   gallery:
     items_per_row: 4
     items:
@@ -181,8 +170,8 @@ sections:
         href: "/img/pages/lindos-acropolis/24.jpg"
         alt: Rhodes Lindos Private Shore Tours
       caption: ''
-- title: Views of the summit of the Acropolis
-  text: The acropolis offers spectacular views of the surrounding harbors and coastline.
+- title: Виды Линдоса с вершины акрополя
+  text: С акрополя открывается захватывающий вид на окружающие гавани и побережье.
   gallery:
     items_per_row: 4
     items:
@@ -206,9 +195,8 @@ sections:
         href: "/img/pages/lindos-acropolis/28.jpg"
         alt: Lindos Cruise Tours
       caption: ''
-- text: The Lindians were also great sculptors. Their bronze statuses are famed for
-    their incomparable craft. The famous **Colossus of Rhodes** was a bronze statue
-    by the Lindian artist Chares.
+- text: |-
+    Линдийцы также были великими скульпторами, их бронзовые статуи славятся своим высочайшим мастерством. Знаменитый **Колосс Родосский** был создан **линдийским мастером по имени Харис.**
 related_tours:
 - best_rhodes
 - rhodes_in_a_day
