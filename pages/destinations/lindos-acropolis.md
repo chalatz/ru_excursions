@@ -26,22 +26,22 @@ sections:
     - image:
         thumb: "/img/pages/lindos-acropolis/1-thumb.jpg"
         href: "/img/pages/lindos-acropolis/1.jpg"
-        alt: Rhodes Lindos
+        alt: Линдос, Родос, Греция
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/2-thumb.jpg"
         href: "/img/pages/lindos-acropolis/2.jpg"
-        alt: Lindos Beach, Village and Acropolis
+        alt: Родос, Деревня Линдос
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/3-thumb.jpg"
         href: "/img/pages/lindos-acropolis/3.jpg"
-        alt: Lindos Village and Acropolis
+        alt: Деревня Линдос и Акрополь Линдоса, Родос 
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/4-thumb.jpg"
         href: "/img/pages/lindos-acropolis/4.jpg"
-        alt: Kleovoulos – Cleobulus (625 – 555 B.C.)
+        alt: Статуя Клеобула Линдского (625 - 555 г.г. до н.э.)
       caption: ''
 - title: Деревня Линдос
   description: Walking through the narrow-cobbled streets of Lindos village.
@@ -51,22 +51,22 @@ sections:
     - image:
         thumb: "/img/pages/lindos-acropolis/5-thumb.jpg"
         href: "/img/pages/lindos-acropolis/5.jpg"
-        alt: Lindos Village - Rhodes Lindos Tour
+        alt: Деревня Линдос на острове Родос, Греция
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/6-thumb.jpg"
         href: "/img/pages/lindos-acropolis/6.jpg"
-        alt: Lindos Village in Rhodes Island - Lindos Tours
+        alt: Деревня Линдос на Родосе, Греция
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/7-thumb.jpg"
         href: "/img/pages/lindos-acropolis/7.jpg"
-        alt: Village of Lindos - Shore Excursions
+        alt: Деревня Линдос с белыми домами
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/8-thumb.jpg"
         href: "/img/pages/lindos-acropolis/8.jpg"
-        alt: Narrow-cobbled streets of Lindos village
+        alt: Узкие мощёные улочки в деревне Линдос
       caption: ''
 - title: Акрополь Линдоса
   text: |-
@@ -77,22 +77,22 @@ sections:
     - image:
         thumb: "/img/pages/lindos-acropolis/9-thumb.jpg"
         href: "/img/pages/lindos-acropolis/9.jpg"
-        alt: Acropolis of Lindos Rhodes
+        alt: Акрополь Линдоса
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/10-thumb.jpg"
         href: "/img/pages/lindos-acropolis/10.jpg"
-        alt: Rhodes Lindos Acropolis
+        alt: Линдский Акрополь на Родосе, Греция
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/11-thumb.jpg"
         href: "/img/pages/lindos-acropolis/11.jpg"
-        alt: Acropolis of Lindos - Rhodes Cruise Tours
+        alt: Линдский Акрополь на острове Родос
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/12-thumb.jpg"
         href: "/img/pages/lindos-acropolis/12.jpg"
-        alt: Lindos Acropolis - Rhodes Cruise Excursions
+        alt: Акрополь Линдоса на острове Родос, Греция
       caption: ''
 - title: Византийская церковь и средневековые укрепления
   text: |-
@@ -103,22 +103,22 @@ sections:
     - image:
         thumb: "/img/pages/lindos-acropolis/13-thumb.jpg"
         href: "/img/pages/lindos-acropolis/13.jpg"
-        alt: Byzantine Church in Lindos
+        alt: Византийская церковь в Линдском Акрополе
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/14-thumb.jpg"
         href: "/img/pages/lindos-acropolis/14.jpg"
-        alt: Fortifications of the Knights on the Acropolis of Lindos
+        alt: Средневековые фортификации в Линдском Акрополе
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/15-thumb.jpg"
         href: "/img/pages/lindos-acropolis/15.jpg"
-        alt: Acropolis of Lindos Family Tour
+        alt: Греческая православная церковь Святого Иоанна в Линдском Акрополе
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/16-thumb.jpg"
         href: "/img/pages/lindos-acropolis/16.jpg"
-        alt: Lindos Tour for Kids
+        alt: Средневековые стены Акрополя Линдоса
       caption: ''
 - title: Эллинистическая Стоа (Большой Портик), лестница в небо, пропилеи
   gallery:
@@ -127,22 +127,22 @@ sections:
     - image:
         thumb: "/img/pages/lindos-acropolis/17-thumb.jpg"
         href: "/img/pages/lindos-acropolis/17.jpg"
-        alt: Lindos Hellenistic Monuments
+        alt: Эллинистический портик (стоя) в Линдском Акрополе, Родос
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/18-thumb.jpg"
         href: "/img/pages/lindos-acropolis/18.jpg"
-        alt: Monuments on the Acropolis of Lindos
+        alt: Линдский Акрополь, Эллинистическая стоя (портик)
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/19-thumb.jpg"
         href: "/img/pages/lindos-acropolis/19.jpg"
-        alt: Lindos Rhodes Cruise Tours
+        alt: Пропилеи и монументальная лестница в Линдском Акрополе
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/20-thumb.jpg"
         href: "/img/pages/lindos-acropolis/20.jpg"
-        alt: Lindos Shore Excursions
+        alt: Эллинистическая стоя (портик) в Акрополе Линдоса
       caption: ''
 - title: Храм Афины Линдии
   text: |-
@@ -153,22 +153,22 @@ sections:
     - image:
         thumb: "/img/pages/lindos-acropolis/21-thumb.jpg"
         href: "/img/pages/lindos-acropolis/21.jpg"
-        alt: Temple of Athena in Lindos
+        alt: Храм Афины Линдии в Акрополе Линдоса
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/22-thumb.jpg"
         href: "/img/pages/lindos-acropolis/22.jpg"
-        alt: Lindos - Temple of Athena
+        alt: Дорический храм Афины Линдии в Акрополе Линдоса
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/23-thumb.jpg"
         href: "/img/pages/lindos-acropolis/23.jpg"
-        alt: Rhodes Lindos Private Tours
+        alt: Акрополь Линдоса и дорический храм Афины Линдии
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/24-thumb.jpg"
         href: "/img/pages/lindos-acropolis/24.jpg"
-        alt: Rhodes Lindos Private Shore Tours
+        alt: Храм Афины Линдии в Линдском Акрополе, Родос, Греция
       caption: ''
 - title: Виды Линдоса с вершины акрополя
   text: С акрополя открывается захватывающий вид на окружающие гавани и побережье.
@@ -178,22 +178,22 @@ sections:
     - image:
         thumb: "/img/pages/lindos-acropolis/25-thumb.jpg"
         href: "/img/pages/lindos-acropolis/25.jpg"
-        alt: Lindos Views
+        alt: Виды на вершину Акрополя Линдоса на Родосе
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/26-thumb.jpg"
         href: "/img/pages/lindos-acropolis/26.jpg"
-        alt: Views of Lindos Village
+        alt: Виды с вершины Линдского Акрополя
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/27-thumb.jpg"
         href: "/img/pages/lindos-acropolis/27.jpg"
-        alt: Lindos Rhodes Shore Excursions
+        alt: Панорамные виды с Линдского Акрополя на Родосе
       caption: ''
     - image:
         thumb: "/img/pages/lindos-acropolis/28-thumb.jpg"
         href: "/img/pages/lindos-acropolis/28.jpg"
-        alt: Lindos Cruise Tours
+        alt: Виды бухты Апостола Павла с Акрополя Линдоса
       caption: ''
 - text: |-
     Линдийцы также были великими скульпторами, их бронзовые статуи славятся своим высочайшим мастерством. Знаменитый **Колосс Родосский** был создан **линдийским мастером по имени Харис.**
