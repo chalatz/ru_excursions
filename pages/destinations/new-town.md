@@ -1,6 +1,6 @@
 ---
-title: Rhodes New Town Tour
-permalink: new_town.htm
+title: Новый город Родос
+permalink: novyy-gorod-rodos.htm
 layout: gallery-page
 type: gallery-page
 id: new_town
@@ -8,135 +8,128 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Rhodes New Town Tour, Rhodes New Town Shore Excursion
-  http_desc: Rhodes New Town Tour, Rhodes New Town Shore Excursion, Rhodes New Town
-    Excursions
-  keywords: Rhodes New Town Tour, Rhodes New Town Shore Excursion, Rhodes New Town
-    Excursions
-  description: Rhodes New Town Tour, Rhodes New Town Shore Excursion, Rhodes New Town
-    Excursions
-  abstract: Rhodes New Town Tour
+  title: НОВЫЙ ГОРОД РОДОС, НОВЫЙ ГОРОД
+  http_desc: НОВЫЙ ГОРОД РОДОС, НОВЫЙ ГОРОД, Старая гавань Мандраки, храм Благовещения Девы Марии, Евангелисмос, Крепость Святого Николая, Родос, Греция
+  keywords: НОВЫЙ ГОРОД РОДОС, НОВЫЙ ГОРОД, Старая гавань Мандраки, храм Благовещения Девы Марии, Евангелисмос, Крепость Святого Николая, Родос, Греция
+  description: НОВЫЙ ГОРОД РОДОС, НОВЫЙ ГОРОД, Старая гавань Мандраки, храм Благовещения Девы Марии, Евангелисмос, Крепость Святого Николая, Родос, Греция 
+  abstract: НОВЫЙ ГОРОД РОДОС
 head_photo:
   img: "/img/pages/new-town/head-photo.jpg"
   mobile: "/img/pages/new-town/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: "The new town of Rhodes developed outside the walls of mediaeval city (North
-    West of the old town) and throbs with life even during offseason.\n\n Modern flats,
-    wide streets, squares, modern shops, government offices, hotels, restaurants and
-    among all these, an important number of buildings, where the Venetian and Gothic
-    elements blend in a neo-colonial and Italianate style.\n \n The new town of Rhodes
-    is an extensive, fairly non-descript modern city and one of the most interesting
-    and picturesque part of the Island.\n\n - The old **Mandraki harbor**, where according
-    to tradition, the **Colossus of Rhodes**, one of the Seven Wonders of the Ancient
-    World, once stood.<br>Two bronze deer statues mark the site, male and female,
-    the island's symbols, they stand imperiously at the port's entrance.\n - Close
-    to the entrance of the small old harbour stands the **fort of Saint Nicholas**
-    and near the fortress three stone **Byzantines Windmills** lend the finishing
-    touch to one of the loveliest views of the town."
+- text: |-
+    Новый город Родос постепенно строился и развивался за стенами Средневекового города (к северо-западу от Старого города), жизнь кипит здесь даже межсезонье.
+
+    Современные квартиры, широкие улицы, площади, современные магазины, правительственные учреждения, отели, рестораны и среди всего этого большое количество зданий, в которых венецианские и готические архитектурные элементы сочетаются с Нео колониальным и итальянским стилем.  
+
+    Новый город Родос занимает обширную территорию, он не напоминает классический современный город, это один из самых интересных и живописных районов на острове. 
+
+    -   Старая **гавань Мандраки**, где согласно одной из версий, когда-то стояла статуя **Колосса Родосского**  одно из семи чудес Древнего мира.  В том месте сегодня можно видеть статуи оленя и оленихи, своеобразные символы острова, которые величественно стоят у входа в порт.
+    -   Рядом с входом в порт Мандраки находится ** Крепость Святого Николая**  , к которому вёдет длинный мол с тремя каменными **византийскими ветряными мельницами**, придающими особый шарм одному из самых красивых видов на город.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/new-town/1-thumb.jpg"
         href: "/img/pages/new-town/1.jpg"
-        alt: Mandraki harbor - Rhodes New Town Tour
-      caption: The entrance of the Mandraki harbor
+        alt: Вход в гавань Мандраки
+      caption: Вход в гавань Мандраки
     - image:
         thumb: "/img/pages/new-town/2-thumb.jpg"
         href: "/img/pages/new-town/2.jpg"
-        alt: Fort of Saint Nicholas - Best shore excursions in Greek islands
-      caption: Fort of Saint Nicholas
+        alt: Крепость Святого Николая
+      caption: Крепость Святого Николая
     - image:
         thumb: "/img/pages/new-town/3-thumb.jpg"
         href: "/img/pages/new-town/3.jpg"
-        alt: The Byzantine Windmills - cheap shore excursions in Rhodes Greece
-      caption: The Byzantine Windmills
+        alt: Византийские ветряные мельницы
+      caption: Византийские ветряные мельницы
     - image:
         thumb: "/img/pages/new-town/4-thumb.jpg"
         href: "/img/pages/new-town/4.jpg"
-        alt: The Byzantine Windmills - independent cruise excursions in Rhodes Greece
-      caption: The Byzantine Windmills
+        alt: Византийские ветряные мельницы
+      caption: Византийские ветряные мельницы
 - text: |-
-    - Opposite of the Mandraki harbor we find the "Nea Agora" **"New Market"** building in neo-colonial style with a large inner courtyard. The ground floor of the market houses a number of cafes and bars, and there are an array of taverns, shops and cafes located in the open area.
-    - The Metropolitan church of **Virgin Mary's Annunciation – Evagelismos**, with amazing wall paintings (by Fotis Kontoglou) and impressive chandeliers. Originally Catholic, now Orthodox, a reproduction (1925) of the old church of St John, which originally stood in the Medieval City and was destroyed in the 1856 explosion.
+    -   Напротив гавани Мандраки заметно выделяется здание **«Нового рынка»** («Неа Агора»), выполненное в Нео колониальном стиле с большим внутренним двором. На первом этаже рынка находятся несколько кафе и баров, а на открытой площадке расположено множество таверн, магазинов и кафе.
+    -   Кафедральный собор Родоса **храм Благовещения Девы Марии** **(Евангелисмос)** с удивительными настенными росписями известного греческого художника Фотиса Кондоглу господствует в порту Мандраки. Он был построен в 1925 году итальянцами, первоначально католический, ныне православный храм. Это точная копия главного храма рыцарей ордена Святого Иоанна, находившегося в Средневековом городе и разрушенного взрывом в 1856 году.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/new-town/5-thumb.jpg"
         href: "/img/pages/new-town/5.jpg"
-        alt: New Market building - Rhodes Private Tours
-      caption: New Market building
+        alt: Здание «Нового рынка»
+      caption: Здание «Нового рынка»
     - image:
         thumb: "/img/pages/new-town/6-thumb.jpg"
         href: "/img/pages/new-town/6.jpg"
-        alt: New Market building - Rhodes Cruise Excursions
-      caption: New Market building
+        alt: Здание «Нового рынка»
+      caption: Здание «Нового рынка»
     - image:
         thumb: "/img/pages/new-town/7-thumb.jpg"
         href: "/img/pages/new-town/7.jpg"
-        alt: The Metropolitan church - Rhodes custom excursions
-      caption: The Metropolitan Church
+        alt: Храм Благовещения
+      caption: Храм Благовещения
     - image:
         thumb: "/img/pages/new-town/8-thumb.jpg"
         href: "/img/pages/new-town/8.jpg"
-        alt: The Metropolitan church - Rhodes custom shore excursions
-      caption: The Metropolitan Church
+        alt: Храм Благовещения
+      caption: Храм Благовещения
 - text: |-
-    -  The building of **"Rhodes Post Office"** was built in mid 1920s', during the first years of the Italian domination - Italian Post Services of Rhodes – "Palazzo delle Poste" its impressive Renaissance Eclecticism architectural style and was designed by the Italian architect Florestano di Fausto.
-    - The impressive **Rhodes Town Hall** was built in 1937 during the Italian period by Armando Bernabiti.
-    - **Government Hall.** A Venetian, Gothic, and Renaissance style palace with details of the Doges' Palace in Venice. Today houses the Prefecture of the Dodecanese - "Palazzo del Governo"
+    -   Здание **«Родосского почтамта»** было возведено в середине 1920-х годов, в первые годы итальянского господства. Итальянские почтовые службы -- «Палаццо делле Посте» построено с использованием элементов стилей Ренессанс и Эклектика по проекту итальянского архитектора Флорестано ди Фаусто.
+    -   Впечатляющее здание **Мэрии города Родос** было построено в 1937 году под руководством итальянского архитектора Армандо Бернабити.
+    -   **Дворец Правительства** «Палаццо дель Говерно» выполнен в стиле Ренессанс, с использованием элементов венецианского и готического стилей, и деталей Дворца Дожей в Венеции. Сегодня здесь находится префектура Додеканеса.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/new-town/9-thumb.jpg"
         href: "/img/pages/new-town/9.jpg"
-        alt: Rhodes Post Office - Rhodes Taxi Tours
-      caption: Rhodes Post Office
+        alt: Здание Почтамта Родоса
+      caption: Здание Почтамта Родоса
     - image:
         thumb: "/img/pages/new-town/10-thumb.jpg"
         href: "/img/pages/new-town/10.jpg"
-        alt: Rhodes Town Hall - Rhodes Private Tours
-      caption: Rhodes Town Hall
+        alt: Мэрия Родоса
+      caption: Мэрия Родоса
     - image:
         thumb: "/img/pages/new-town/11-thumb.jpg"
         href: "/img/pages/new-town/11.jpg"
-        alt: Government Hall - Cruise Excursions in Rhodes Greece
-      caption: Government Hall
+        alt: Дворец Правительства
+      caption: Дворец Правительства
     - image:
         thumb: "/img/pages/new-town/12-thumb.jpg"
         href: "/img/pages/new-town/12.jpg"
-        alt: Government Hall - Private Shore Excursions in Rhodes Greece
-      caption: Government Hall
+        alt: Дворец Правительства
+      caption: Дворец Правительства
 - text: |-
-    - The **National Theatre** of Rhodes constructed in 1937, during the Italian domination of the island and initially called “Teatro Puccini” in honor of the great Italian composer.
-    - **Grand Hotel of Roses.** Built in 1927 and it was the top attraction of the international jet set of the time. Aristotle Onassis, Winston Churchill and Moshe Dayan are but a few of the great names to have graced the halls of the hotel with their presence. Today houses the **"Casino Rodos"**.
-    - **Aquarium of Rhodes.** The building an Art deco design by the Italian architect Armando Bernabiti, was constructed between 1934 and 1935, is a research centre, aquarium and museum. Today is the Hydrobiological Station of Rhodes.
+    -   **Национальный театр Родоса**, построенный в 1937 году, во времена итальянского господства на острове, первоначально назывался «Театр Пуччини» в честь великого итальянского композитора.
+    -   **«Гранде Альберго делле Розе»** - фешенебельный отель, построенный в 1927 году, был главной достопримечательностью международной элиты того времени. Аристотель Онассис, Уинстон Черчилль и Моше Даян -- лишь некоторые из великих имён, которые украсили своим присутствием залы отеля. Сегодня здесь находится **«Казино Родоса».**
+    -   **Аквариум Родоса** -- здание, построенное между 1934 и 1935 годами в стиле ар-деко  итальянского архитектора Армандо Бернабити, является исследовательским центром, аквариумом и музеем. Сегодня это Гидробиологическая станция Родоса.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/new-town/13-thumb.jpg"
         href: "/img/pages/new-town/13.jpg"
-        alt: The National Theatre of Rhodes - Cruise excursions Greek isles
-      caption: The National Theatre of Rhodes
+        alt: Национальный театр Родоса
+      caption: Национальный театр Родоса
     - image:
         thumb: "/img/pages/new-town/14-thumb.jpg"
         href: "/img/pages/new-town/14.jpg"
-        alt: Grand Hotel of Roses - Rhodes best introduction for first time visitors
-      caption: Grand Hotel of Roses
+        alt: Отель «Гранде Альберго делле Розе»
+      caption: Отель «Гранде Альберго делле Розе»
     - image:
         thumb: "/img/pages/new-town/15-thumb.jpg"
         href: "/img/pages/new-town/15.jpg"
-        alt: Grand Hotel of Roses - shore excursion specialist in Rhodes
-      caption: Grand Hotel of Roses
+        alt: Отель «Гранде Альберго делле Розе»
+      caption: Отель «Гранде Альберго делле Розе»
     - image:
         thumb: "/img/pages/new-town/16-thumb.jpg"
         href: "/img/pages/new-town/16.jpg"
-        alt: Rhodes Aquarium - cruise excursions in Mediterranean Sea
-      caption: Rhodes Aquarium
+        alt: Аквариум Родоса
+      caption: Аквариум Родоса
 related_tours:
 - best_rhodes
 - rhodes_in_a_day
