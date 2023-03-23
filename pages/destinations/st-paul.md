@@ -1,6 +1,6 @@
 ---
-title: St Paul’s Bay Beach in Rhodes
-permalink: st-pauls-bay-beach-rhodes.htm
+title: БУХТА АПОСТОЛА ПАВЛА, РОДОС, ГРЕЦИЯ
+permalink: bukhta-apostola-pavla-rodos-gretsiya.htm
 layout: gallery-page
 type: gallery-page
 id: st_paul
@@ -8,48 +8,44 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: St Paul’s Bay Beach in Rhodes Greece
-  http_desc: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindos
-  keywords: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindos
-  description: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindos
-  abstract: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindos
+  title: Бухта Апостола Павла, Родос, Греция
+  http_desc: Бухта Апостола Павла, Родос, Греция, Гавань Апостола Павла, Пляжи бухты Святого Павла, Родос, Греция
+  keywords: Бухта Апостола Павла, Родос, Греция, Гавань Апостола Павла, Пляжи бухты Святого Павла, Родос, Греция
+  description: Бухта Апостола Павла, Родос, Греция, Гавань Апостола Павла, Пляжи бухты Святого Павла, Родос, Греция
+  abstract: Бухта Апостола Павла, Родос, Греция, Гавань Апостола Павла, Пляжи бухты Святого Павла, Родос, Греция
 head_photo:
   img: "/img/pages/st-pauls-bay-beach/head-photo.jpg"
   mobile: "/img/pages/st-pauls-bay-beach/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: This gorgeous bay is located south on the southeast part of the island in
-    Lindos and it is called St. Paul’s Bay because people claim that the saint landed
-    there in 51 AD to preach Christianity to the Lindians. There is a small church
-    there as well which is often used for weddings especially for couples who want
-    to get married with the Acropolis of Lindos and the ocean as the backdrop.
+- text: Этот великолепный залив расположен в юго-восточной части острова в Линдосе и называется заливом Святого Павла, потому как святой высадился здесь в 51 году нашей эры и возможно проповедовал христианство жителям Линдоса. В книге «Деяния святых апостолов» сообщается, что корабль святого Апостола Павла прошёл через Линдос по пути в Рим. В бухте также есть небольшая церковь, которая используется для свадеб и тематических фотосессий молодожёнов на фоне моря и Акрополя Линдоса.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/st-pauls-bay-beach/1-thumb.jpg"
         href: "/img/pages/st-pauls-bay-beach/1.jpg"
-        alt: St Paul’s Bay Beach in Rhodes Greece
+        alt: Гавань Апостола Павла, Родос, Греция
       caption: ''
     - image:
         thumb: "/img/pages/st-pauls-bay-beach/2-thumb.jpg"
         href: "/img/pages/st-pauls-bay-beach/2.jpg"
-        alt: Rhodes Saint Paul’s Bay Beach
+        alt: Пляжи бухты Святого Павла, Родос, Греция
       caption: ''
     - image:
         thumb: "/img/pages/st-pauls-bay-beach/3-thumb.jpg"
         href: "/img/pages/st-pauls-bay-beach/3.jpg"
-        alt: Beach of St Paul’s in Lindos
+        alt: Бухта Апостола Павла, Родос, Греция
       caption: ''
     - image:
         thumb: "/img/pages/st-pauls-bay-beach/4-thumb.jpg"
         href: "/img/pages/st-pauls-bay-beach/4.jpg"
-        alt: Rhodes Lindos St Paul’s Bay
+        alt: Пляжи бухты Святого Павла, Родос, Греция
       caption: ''
 - text: |-
-    There are actually two beaches there. The larger one is located in the southern end, is the largest and is manmade and the smaller one is located at the north side and formed naturally. That is why the former has fine golden sand and the latter has a mix of pebbles and rocks.
+    На самом деле в Линдосе два пляжа, большой с мелким золотистым песком по одну  сторону Линдского Акрополя, и меньший, названный именем Апостола Павла, по другую сторону Акрополя. 
 
-    Like all of the beaches on the island, the beaches in St. Paul’s Bay also offer sun lounges, umbrellas and restaurants that visitors can avail. The difference is that these ones get relatively few visitors and no water sporting equipment. However, you can go snorkeling in the crystal-clear waters.
+    Как и на всех пляжах острова, в бухте Апостола Павла также есть шезлонги, зонтики и рестораны, которыми могут воспользоваться посетители. Пляж смешанный песок с галькой, здесь нет оборудования для водных видов спорта, и тем не менее вы можете заняться снорклингом в кристально чистых водах.
 related_tours:
 - beaches_tour
 - best_rhodes
