@@ -1,5 +1,5 @@
 ---
-title: Акрополь Линдоса на острове Родос
+title: АКРОПОЛЬ ЛИНДОСА НА ОСТРОВЕ РОДОС
 permalink: Akropol-Lindosa-na-ostrove-Rodos.htm
 layout: gallery-page
 type: gallery-page

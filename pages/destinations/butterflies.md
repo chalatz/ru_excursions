@@ -1,5 +1,5 @@
 ---
-title: Долина бабочек Родос
+title: ДОЛИНА БАБОЧЕК РОДОС
 permalink: dolina-babochek-rodos.htm
 layout: gallery-page
 type: gallery-page

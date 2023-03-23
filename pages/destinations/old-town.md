@@ -1,5 +1,5 @@
 ---
-title: Старый город Родос - Средневековый город
+title: СТАРЫЙ ГОРОД РОДОС - СРЕДНЕВЕКОВЫЙ ГОРОД
 permalink: Staryy-gorod-Rodos-Srednevekovyy-gorod.htm
 layout: gallery-page
 type: gallery-page

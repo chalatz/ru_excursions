@@ -1,5 +1,5 @@
 ---
-title: Новый город Родос
+title: НОВЫЙ ГОРОД РОДОС
 permalink: novyy-gorod-rodos.htm
 layout: gallery-page
 type: gallery-page

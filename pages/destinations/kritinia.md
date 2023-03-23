@@ -1,5 +1,5 @@
 ---
-title: замок Критиния - Крепость Критиния
+title: ЗАМОК КРИТИНИЯ - КРЕПОСТЬ КРИТИНИЯ
 permalink: zamok-kritiniya-krepost-kritiniya.htm
 layout: gallery-page
 type: gallery-page
