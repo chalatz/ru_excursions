@@ -1,6 +1,6 @@
 ---
-title: The Butterfly Valley, Petaloudes
-permalink: valley_of_the_butterflies.htm
+title: Долина бабочек Родос
+permalink: dolina-babochek-rodos.htm
 layout: gallery-page
 type: gallery-page
 id: butterflies
@@ -8,97 +8,70 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Butterfly Valley Rhodes Greece, Valley of the Butterflies
-  http_desc: Butterfly Valley Rhodes Greece, Valley of the Butterflies, Rhodes Butterfly
+  title: ДОЛИНА БАБОЧЕК РОДОС
+  http_desc: ДОЛИНА БАБОЧЕК РОДОС, Долина бабочек Родоса, Долина бабочек на Родосе, долина Petaludes - Петалудес, Родос, Греция
+  keywords: ДОЛИНА БАБОЧЕК РОДОС, Долина бабочек Родоса, Долина бабочек на Родосе, долина Petaludes - Петалудес, Родос, Греция
     Excursion, Petaloudes
-  keywords: Butterfly Valley Rhodes Greece, Valley of the Butterflies, Rhodes Butterfly
+  description: ДОЛИНА БАБОЧЕК РОДОС, Долина бабочек Родоса, Долина бабочек на Родосе, долина Petaludes - Петалудес, Родос, Греция
     Excursion, Petaloudes
-  description: Butterfly Valley Rhodes Greece, Valley of the Butterflies, Rhodes Butterfly
-    Excursion, Petaloudes
-  abstract: Butterfly Valley Rhodes Greece, Valley of the Butterflies, Rhodes Butterfly
-    Excursion, Petaloudes
+  abstract: ДОЛИНА БАБОЧЕК РОДОС
 head_photo:
   img: "/img/pages/valley-of-the-butterflies/head-photo.jpg"
   mobile: "/img/pages/valley-of-the-butterflies/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: Known as the Petaloudes Valley in Greek, the Butterfly Valley is located on
-    the western side of Rhodes. What makes it special is that it is home to a diverse
-    range of species of Jersey Tiger moths. Every year, colorful moths and butterflies
-    cover the land from mid-June to mid-September. They are attracted to the region
-    due to highly humid weather conditions. The Oriental Sweetgum trees in the valley
-    give off a faint, distinctive scent that attracts moths and butterflies, creating
-    an exceptional biotope.
+- text: |-
+    Долина бабочек, известная как долина **Petaludes - Петалудес**, по-гречески, расположена на западной стороне острова Родос. Ввиду повышенной влажности и густой растительности здесь сформировался свой исключительный микроклимат -- уникальный биотоп, который стал домом для многих видов флоры и фауны, в особенности для мотыльков Джерсийского тигра (Jersey  Tiger  moths). Ежегодно с середины июня до середины сентября долину усеивают тысячи ярких мотыльков, привлекает их живительная влага и характерный аромат, который источают эвкалипты и деревья Liquidambar  Orientalis.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/valley-of-the-butterflies/1-thumb.jpg"
         href: "/img/pages/valley-of-the-butterflies/1.jpg"
-        alt: Butterfly Valley Rhodes Greece
+        alt: Разновидность и цвет бабочек на Родосе в Греции
       caption: ''
     - image:
         thumb: "/img/pages/valley-of-the-butterflies/2-thumb.jpg"
         href: "/img/pages/valley-of-the-butterflies/2.jpg"
-        alt: Valley of the Butterflies in Rhodes Greece
+        alt: Бабочки, маскирующиеся под стволы деревьев
       caption: ''
     - image:
         thumb: "/img/pages/valley-of-the-butterflies/3-thumb.jpg"
         href: "/img/pages/valley-of-the-butterflies/3.jpg"
-        alt: Petaloudes Valley in Rhodes Greece
+        alt: Долина бабочек на Родосе, Греция
       caption: ''
     - image:
         thumb: "/img/pages/valley-of-the-butterflies/4-thumb.jpg"
         href: "/img/pages/valley-of-the-butterflies/4.jpg"
-        alt: The Butterflies Valley in Rhodes Greece
+        alt: Много бабочек на дереве
       caption: ''
-- text: The natural beauty of the landscape, combined with the delightful presence
-    of thousands of butterflies, brings in hordes of local and foreign tourists to
-    the valley every summer. Unfortunately, the population of butterflies is depleting
-    progressively since they don’t have a stomach and can’t feed to gain energy. When
-    disturbed due to human activities, they fly more frequently, which causes excessive
-    energy loss. This is one of the leading reasons behind the decreasing population
-    of butterflies in the region.
+- text: Естественная красота ландшафта в сочетании с многочисленными порхающими бабочками ежегодно привлекает в долину полчища местных и иностранных туристов. К сожалению, популяция бабочек постепенно сокращается из-за деятельности человека. Взрослые особи насекомых практически не питаются, поскольку у них атрофирован желудок, если их беспокоить, они будут вынуждены совершать лишние перелеты, чрезмерно расходуя свою энергию, и погибнут раньше, чем смогут оставить потомство.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/valley-of-the-butterflies/5-thumb.jpg"
         href: "/img/pages/valley-of-the-butterflies/5.jpg"
-        alt: Butterfly Valley Rhodes Greece - best shore excursions in Greek islands
+        alt: Деревянные мостики и дорожки проведут вас через богатый растительностью редкий биотоп
       caption: ''
     - image:
         thumb: "/img/pages/valley-of-the-butterflies/6-thumb.jpg"
         href: "/img/pages/valley-of-the-butterflies/6.jpg"
-        alt: Valley of the Butterflies in Rhodes Greece - cheap shore excursions in
-          Rhodes Greece
+        alt: Речка Пелеканос в Долине Бабочек
       caption: ''
     - image:
         thumb: "/img/pages/valley-of-the-butterflies/7-thumb.jpg"
         href: "/img/pages/valley-of-the-butterflies/7.jpg"
-        alt: Petaloudes Valley in Rhodes Greece - cruise excursions in Mediterranean
+        alt: Долина Бабочек, речка Пелеканос
           Sea
       caption: ''
     - image:
         thumb: "/img/pages/valley-of-the-butterflies/8-thumb.jpg"
         href: "/img/pages/valley-of-the-butterflies/8.jpg"
-        alt: The Butterflies Valley in Rhodes - Best introduction for first time visitors
+        alt: Сувенирный магазин у главного входа в Долину бабочек
       caption: ''
-- text: "A few decades ago, a German entomologist, studied the butterflies that emerge
-    in the Butterfly Valley during June and September. This particular species of
-    butterflies is called Callimorpha Qudripunctaria Himalaiensis. The remarkable
-    name befits the species since it was first discovered in the great mountains of
-    Himalayas. These butterflies are abundantly found in Australia, Brazil, Peru,
-    California, and many other places where the native plants include the Liquidambar
-    Orientalis trees.\n\nThe butterflies appear in the valley during the summer season.
-    They mate, lay eggs on the island, and fly off in September once the temperature
-    starts to change. The eggs produce larva in April. By the next month, the larvae
-    transform into chrysalises. The transformation finally completes in early June
-    as chrysalises transform into adult butterflies. As the temperature starts to
-    rise, these beautiful butterflies leave their locale and travel through the night
-    to reach the valley. The moderately cool temperature of the valley and its surrounding
-    areas, coupled with the sweet scent of raisins, is the reason behind this mass
-    migration.               "
+- text: Несколько десятилетий назад немецкий энтомолог изучал бабочек, которые появляются в Долине бабочек с июня по сентябрь. Этот особый вид называется Callimorpha Qudripunctaria Himalaiensis. Замечательное название соответствует этому виду, так как он был впервые обнаружен в великих горах Гималаев. Эти бабочки в изобилии встречаются в Австралии, Бразилии, Перу, Калифорнии и многих других местах, где среди местной растительности присутствуют деревья Liquidambar Orientalis.
+- text: Бабочки собираются в долине чтобы воспроизвести потомство, они спариваются, после чего мужские особи погибают, а женские разлетаются на некоторое расстояние от долины, откладывают яйца и затем тоже погибают. Весной из яиц сформируются личинки, которые потом превратятся в гусениц, а гусеницы в куколок. Трансформация завершится в начале июня, когда куколки превратятся во взрослых бабочек. Таким образом жизненный цикл повторяется из года в год, бабочки летят в прохладное влажное ущелье, путешествуя исключительно в ночное время.
 related_tours:
 - rhodes_in_a_day
 - rhodes_west_coast
