@@ -111,13 +111,14 @@
             // }
         }
         @include breakpoint(large) {
-            font-size: .875rem;
+            font-size: .86rem;
+            padding: 14px 6px;
         }
         @include breakpoint(semi_large) {
             font-size: 1rem;
         }
         @include breakpoint(larger) {
-            font-size: 1.1rem;
+            font-size: 1.05rem;
         }
         &--sublinks {
             white-space: nowrap;
