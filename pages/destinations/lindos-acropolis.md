@@ -44,7 +44,7 @@ sections:
         alt: Статуя Клеобула Линдского (625 - 555 г.г. до н.э.)
       caption: ''
 - title: Деревня Линдос
-  description: Walking through the narrow-cobbled streets of Lindos village.
+  description: Прогулка по узким мощёным улочкам деревни Линдос.
   gallery:
     items_per_row: 4
     items:
