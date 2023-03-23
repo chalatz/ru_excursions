@@ -1,6 +1,6 @@
 ---
-title: Filerimos Monastery Rhodes Greece
-permalink: filerimos_mountain.htm
+title: ГОРА ФИЛЕРИМОС, МОНАСТЫРЬ ФИЛЕРИМОС
+permalink: gora-filerimos-monastyr-filerimos.htm
 layout: gallery-page
 type: gallery-page
 id: filerimos
@@ -8,138 +8,122 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Filerimos Monastery Rhodes Greece, Filerimos Mountain
-  http_desc: Filerimos Monastery Rhodes Greece, Filerimos Mountain, filerimos hill,
-    Shore Excursions
-  keywords: Filerimos Monastery Rhodes Greece, Filerimos Mountain, filerimos hill,
-    Shore Excursions
-  description: Filerimos Monastery Rhodes Greece, Filerimos Mountain, filerimos hill,
-    Shore Excursions
-  abstract: Filerimos Monastery Rhodes Greece, Filerimos Mountain
+  title: гора филеримос, монастырь филеримос
+  http_desc: ора филеримос, монастырь филеримос, родос, Церковь Филеримской Богородицы, многометрового креста, родос Греция
+  keywords: ора филеримос, монастырь филеримос, родос, Церковь Филеримской Богородицы, многометрового креста, родос Греция
+  description: ора филеримос, монастырь филеримос, родос, Церковь Филеримской Богородицы, многометрового креста, родос Греция
+  abstract: гора филеримос, монастырь филеримос
 head_photo:
   img: "/img/pages/filerimos/head-photo.jpg"
   mobile: "/img/pages/filerimos/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: Filerimos Mountain located just out of Rhodes Town about 14 km / 8 miles on
-    the west coast of the island.  This place is an important archaeological site,
-    here once stood the Acropolis of the Ancient Ialyssos with an important temple
-    dedicated to Athena Polias.
-- title: The Church of "Our Lady of Filerimos"
-  text: The hill took its name from a monk who came from Jerusalem in the 13th century
-    bringing with him an icon of the Blessed Virgin painted by the Apostle Luke. The
-    small church he built later became a basilica and then in the 14th century under
-    the rule of the Knights of St. John a Monastery was built, surrounded by cloisters
-    and cells and a number of chapels. There is where the miracle-working icon is
-    so reverently kept. When the island came into the possession of the Ottoman Turks,
-    the icon was taken by the Knights to France and from there to Italy , then Malta
-    and Russia , where it stayed until the 1917 revolution. Since 2002, it has been
-    kept in the Blue Chapel of the National Museum of Montenegro and a copy has been
-    put in its place.
+- text: |-
+    Примерно в 14 км от города Родос на западной стороне острова расположен величественный **холм Филеримос**. Это место является важным археологическим памятником, здесь когда-то находился **Акрополь Древнего Ялисса**. На вершине холма господствовал античный **храм Афины Полиады и Зевса Полиевса**.
+- title: Церковь Филеримской Богородицы
+  text: |-
+    Холм получил свое название от **монаха**, приехавшего сюда **из Иерусалима в 13 веке** и принёсшего с собой **икону Пресвятой Богородицы**, согласно преданию, написанную **святым евангелистом Лукой**. Он построил небольшую церковь, а затем в 14 веке во время господства **рыцарей Святого Иоанна** был построен монастырь. В храме монастыря долгое время трепетно хранилась **чудотворная икона**, когда остров перешёл во владение **Османской империи**, икона была вывезена рыцарями во Францию, потом перевезена в Италию, затем на Мальту и в Россию, где и находилась до революции 1917 года. С 2002 года она хранится в **Голубой часовне Национального музея Черногории**, а на её месте в Филеримском храме сегодня находится копия иконы.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/filerimos/1-thumb.jpg"
         href: "/img/pages/filerimos/1.jpg"
-        alt: The church of our lady of Filerimos in Rhodes Greece
+        alt: Церковь Филеримской Богородицы
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/2-thumb.jpg"
         href: "/img/pages/filerimos/2.jpg"
-        alt: Filerimos monastery in Rhodes Greece
+        alt: Чудотворная икона Филеримской Богородицы
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/3-thumb.jpg"
         href: "/img/pages/filerimos/3.jpg"
-        alt: Filerimos Hill Rhodes Greece
+        alt: Внутренний интерьер храма Филеримской Богородицы
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/4-thumb.jpg"
         href: "/img/pages/filerimos/4.jpg"
-        alt: Filerimos mountain in Rhodes Greece
+        alt: Внутренний интерьер храма Филеримской Богородицы
       caption: ''
-- title: The Monastery
-  text: The monastery was destroyed during the Turkish occupation. The Italians rebuilt
-    the monastery during their occupation and kept it open with monks from the Capuchin
-    Order. During the 2nd world war the monks returned to Italy and since then the
-    monastery has been closed.
+- title: Монастырь
+  text: |-
+    Монастырь был разрушен в период османской оккупации. Итальянцы перестроили его как только захватили остров, после чего здесь обосновались **монахи ордена капуцинов**. Во время второй мировой войны монахи были вынуждены вернуться в Италию и с тех пор монастырь закрыт.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/filerimos/5-thumb.jpg"
         href: "/img/pages/filerimos/5.jpg"
-        alt: Monastery of Filerimos, Rhodes Shore Excursions
+        alt: Монастырь Филеримской Богородицы
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/6-thumb.jpg"
         href: "/img/pages/filerimos/6.jpg"
-        alt: Filerimos monastery, Rhodes Private Tours
+        alt: Кельи монастыря Филеримской Богородицы
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/7-thumb.jpg"
         href: "/img/pages/filerimos/7.jpg"
-        alt: Mountain of Filerimos in Rhodes, Cruise excursions Greek isles
+        alt: Икона Пресвятой Богородицы в Филеримском монастыре
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/8-thumb.jpg"
         href: "/img/pages/filerimos/8.jpg"
-        alt: Rhodes Greece Filerimos, best shore excursions in Greek islands
+        alt: Внутренний двор, коридор и кельи монастыря Филеримской Богородицы
       caption: ''
-- title: Via Dolorosa and the Cross
+- title: Аллея «Путь на Голгофу» и Крест
   text: |-
-    The Italians also added a Via Crucis (Calvary), a pathway that leads from the monastery towards the south-western edge of the plateau, to a small square with a stunning view. Here an imposing iron Cross stood in the middle. (Today it's a concrete Cross) Along the right side of the path, stone altars were built with embedded reliefs, depicting scenes of the Passions of Jesus.
+    Идея создания **аллеи «Путь на Голгофу»** и строительства многометрового креста принадлежит итальянцам. От монастыря аллея ведет к юго-западному краю плато холма, к смотровой площадке с потрясающим видом, в центре которой возвышается монументальный крест. Вдоль правой стороны аллеи по пути к кресту были установлены **каменные алтари с уникальными бронзовыми рельефами**, изображающими **сцены Страстей Христовых.**
 
-    The Via Dolorosa is the journey undertaken by Jesus, starting at the place where Pilate sentenced him to death and ending on **Mount Golgotha** (Calvary) and is also known as the **Way of the Cross** or the **Via Crucis**. Jesus walks this distance carrying the cross upon which he will be crucified.
+    **Via****Dolorosa** -- это путь, который проделал **Иисус Христос**, начинающийся с места, где **Пилат** приговорил его к смерти, и заканчивающийся **на Голгофе (****Via****Crucis**** или ****Way****of****the****Cross****)**, неся крест, на котором он будет распят.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/filerimos/9-thumb.jpg"
         href: "/img/pages/filerimos/9.jpg"
-        alt: The way of the Cross in Rhodes Greece
+        alt: Каменные алтари с уникальными бронзовыми рельефами
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/10-thumb.jpg"
         href: "/img/pages/filerimos/10.jpg"
-        alt: stations of the cross Rhodes
+        alt: Путь на Голгофу на горе Филеримос
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/11-thumb.png"
         href: "/img/pages/filerimos/11.jpg"
-        alt: Filerimos Cross in Rhodes Greece
+        alt: Лестница у основания креста
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/12-thumb.png"
         href: "/img/pages/filerimos/12.jpg"
-        alt: filerimos monastery opening hours
+        alt: Крест на горе Филеримос
       caption: ''
-- title: The Views
-  text: Panoramic view of the Aegean with turquoise waters near the shore and deep
-    blue as it stretches toward coast of the Asia Minor.
+- title: Виды
+  text: С холма открывается панорамный вид на **Эгейское море** полное контрастов, с бирюзовыми оттенками у побережья острова и темно-синими водами, простирающимися до **берегов Малой Азии**.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/filerimos/13-thumb.jpg"
         href: "/img/pages/filerimos/13.jpg"
-        alt: View, cheap shore excursions in Rhodes Greece
+        alt: Панорамные виды северо-западной части острова Родос
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/14-thumb.jpg"
         href: "/img/pages/filerimos/14.jpg"
-        alt: View, cruise excursions in Mediterranean Sea
+        alt: Панорамные виды южной стороны острова Родос
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/15-thumb.jpg"
         href: "/img/pages/filerimos/15.jpg"
-        alt: View, Rhodes custom excursions
+        alt: Панорамные виды Эгейского моря и побережья Малой Азии
       caption: ''
     - image:
         thumb: "/img/pages/filerimos/16-thumb.jpg"
         href: "/img/pages/filerimos/16.jpg"
-        alt: View, independent cruise excursions in Rhodes Greece
+        alt: Панорамные виды западного побережья острова Родос
       caption: ''
 related_tours:
 - rhodes_in_a_day
