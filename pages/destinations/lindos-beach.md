@@ -1,6 +1,6 @@
 ---
-title: Lindos Beach in Rhodes Greece
-permalink: lindos-beach-rhodes.htm
+title: ПЛЯЖ ЛИНДОСА, РОДОС, ГРЕЦИЯ
+permalink: plyazh-lindosa-rodos-gretsiya.htm
 layout: gallery-page
 type: gallery-page
 id: lindos_beach
@@ -8,27 +8,24 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Lindos Beach Rhodes Greece, Beach of Lindos
-  http_desc: Lindos Beach Rhodes Greece, Shore Excursions to Lindos Beach in Rhodes
-    Greece
-  keywords: Lindos Beach Rhodes Greece, Shore Excursions to Lindos Beach in Rhodes
-    Greece
-  description: Lindos Beach Rhodes Greece, Shore Excursions to Lindos Beach in Rhodes
-    Greece
-  abstract: Lindos Beach Rhodes Greece, Beach of Lindos
+  title: Пляж Линдоса, Родос, Греция
+  http_desc: Пляж Линдоса, Родос, Греция, Лучшие пляжи Родоса, Пляж Линдоса, Родос, Греция
+  keywords: Пляж Линдоса, Родос, Греция, Лучшие пляжи Родоса, Пляж Линдоса, Родос, Греция
+  description: Пляж Линдоса, Родос, Греция, Лучшие пляжи Родоса, Пляж Линдоса, Родос, Греция
+  abstract: Пляж Линдоса, Родос, Греция, Лучшие пляжи Родоса, Пляж Линдоса, Родос, Греция
 head_photo:
   img: "/img/pages/lindos-beach/head-photo.jpg"
   mobile: "/img/pages/lindos-beach/head-photo-mobile.jpg"
   alt_text: ''
 sections:
 - text: |-
-    The village of Lindos is located on the southeast side of the island and it is well-known not only for its ideal location, but also its beaches:
+    Деревня Линдос находится на юго-восточной стороне острова и известна не только своим идеальным расположением, но и своими пляжами:
 
-    **Megali Paralia** – The name Megali Paralia means ‘big beach’ and it is just walking distance from Lindos village. It is also the largest beach on the island.
+    **Мегали Паралия** -- название Мегали Паралия означает «большой пляж», и он находится всего в нескольких минутах ходьбы от деревни Линдос. Это также один из самых больших пляжей на острове.
 
-    **Lindos Palla**s – This is the perfect beach to visit if you want to arrange a private picnic for two. Lindos Pallas is a peaceful and small beach compared to Megali Paralia.
+    **Линдос Паллас** -- это идеальный пляж для посещения, если вы хотите устроить приватный пикник на двоих. Линдос Паллас -- небольшой и тихий пляж по сравнению с Мегали Паралия.
 
-    Whether you visit Paralia or Pallas, you will be treated with golden sands and crystal-clear water. Visitors can lounge besides the beach on comfortable sun beds and when they feel puckish, they can head to one of the restaurants. Fancy a dip in the clear water? Bring your bathing suit and change into it in one of the many changing rooms before taking the plunge.
+    Если вы посетите организованные пляжи Мегали Паралия или Линдос Паллас, они порадуют вас золотым песком и кристально чистой водой. Посетители могут воспользоваться удобными шезлонгами на пляже, а также отправиться в один из местных ресторанов.
   gallery:
     items_per_row: 4
     items:
@@ -52,13 +49,7 @@ sections:
         href: "/img/pages/lindos-beach/4.jpg"
         alt: Greece Rhodes Lindos Beach
       caption: ''
-  footer_text: Be careful when you are heading to either beach though. The path that
-    originates from the village is quite steep, so make sure you have sturdy shoes
-    on. However, once you get to your destination, you can let loose, change into
-    swimwear, lose the shoes, and just have fun with your family. The best thing about
-    the beach is that it is well-protected from Mother Nature because of the rocky
-    peninsula. So, you can enjoy jet skiing or ride a banana boat out on the water
-    without fear.
+  footer_text: Однако будьте осторожны, когда направляетесь на любой из пляжей. Тропа, ведущая из деревни, довольно крутая, поэтому убедитесь, что у вас есть надежная обувь. Как только вы доберетесь до пляжа, вы можете расслабиться и насладиться отдыхом. Пляж хорошо защищен скалами от ветра и волн, поэтому вы можете без страха кататься на водных мотоциклах или лодке-банане, на пляже есть станция водных видов спорта.
 related_tours:
 - beaches_tour
 - best_rhodes
