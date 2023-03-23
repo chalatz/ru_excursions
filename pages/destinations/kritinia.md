@@ -1,5 +1,5 @@
 ---
-title: The Kritinia Castle and Village in Rhodes Greece
+title: замок Критиния - Крепость Критиния
 permalink: kritinia-castle-rhodes-greece.htm
 layout: gallery-page
 type: gallery-page
@@ -8,115 +8,100 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Kritinia Castle Rhodes Greece
-  http_desc: Kritinia Castle Rhodes Greece, Castle of Kritinia, Village of Kritinia
-  keywords: Kritinia Castle Rhodes Greece, Castle of Kritinia, Village of Kritinia
-  description: Kritinia Castle Rhodes Greece, Castle of Kritinia, Village of Kritinia
-  abstract: Kritinia Castle Rhodes Greece
+  title: замок Критиния, Крепость Критиния
+  http_desc: замок Критиния, Крепость Критиния, Родос, Кастелло Критиния, деревня Критиния, Родос, Греция
+  keywords: замок Критиния, Крепость Критиния, Родос, Кастелло Критиния, деревня Критиния, Родос, Греция
+  description: замок Критиния, Крепость Критиния, Родос, Кастелло Критиния, деревня Критиния, Родос, Греция
+  abstract: замок Критиния, Крепость Критиния
 head_photo:
   img: "/img/pages/kritinia-castle/head-photo.jpg"
   mobile: "/img/pages/kritinia-castle/head-photo-mobile.jpg"
   alt_text: ''
 sections:
 - text: |-
-    If you are a history buff, you need a vacation that can give you a tantalizing glimpse of the past. For that purpose, head to the village and castle of Kritinia, a jewel of a spot that is located in Greece on the Island of Rhodes.   The name of the village, ‘Kritinia’ means ‘New Crete’ for a very special reason. It was founded by refugees from Crete Island who settled there. The village used to be located right by the coast where Kamiros Skala is currently situated, but it had to be relocated to higher ground after the Byzantine age when pirate raids were a constant threat.
+    Если вы **любитель истории** и вам **нужен отпуск**, который помог бы вам **унестись в лихую эпоху средневековых сражений**, стоит отправиться в **крепость Критинии** и одноимённую деревню, это уникальное место расположено в Греции на острове Родос. Название деревни **«Критиния»** означает **«Новый Крит»**, она была основана **переселенцами с острова Крит** и располагалась возле побережья, где сегодня находится маленькое **селение Камирос Скала**. Пиратские набеги представляли постоянную угрозу для прибрежных селений, особенно в эпоху средневековья. Таким образом жители Критинии постепенно перебрались на возвышенность в защищённое место.
 
-    The villagers may have lost proximity to the coastline, but they gained a fantastic panoramic view of the Aegean Sea in exchange, a fact that allowed them to spot incoming raiders long before they made landfall. The hill it is located on lies between the western coast of Rhodes and Mount Attavyros. To get there from Rhodes, you can expect a journey of about 34 miles (55 km) southwest of the island. The original settlement, Kamiros Skala lies 3,5 miles (5 km) from the new location on the edge of the sea. You can also visit the island of Halki from there by availing the ferry service.
-- title: Kritinia Castle
-  text: While the small village has its charm, it is the castle that lies near it
-    and attracts tourists in droves each year. Erected in 1472 under the authority
-    of Grand Master Giovanni Basttista degli Orsini, the castle was meant to protect
-    villagers from Ottoman fleets. The castle was built under the advice of the Knights
-    of the Order of St. John Hospitaller because of its ideal strategic location.
-    That’s because the castle provided them a complete 360° view of the sea which
-    proved invaluable when pirates and other enemies tried to raid the island.
+    Возможно, они потеряли близость к береговой линии, но взамен получили **фантастический панорамный вид на Эгейское море**, что позволяло им обнаруживать приближающихся пиратов задолго до того, как они высаживались на берег. Холм, на котором сегодня расположилась **деревня Критиния**, находится между западным побережьем Родоса и **горой Атавирос**. Чтобы добраться сюда с Родоса, необходимо совершить путешествие на юго-запад острова и проехать 55 км. Камирос Скала, находится на берегу моря в 5 км от нового места Критинии. Вы можете отправиться на соседний **остров Халки из порта Камирос Скала,** воспользовавшись паромным сообщением.
+- title: Крепость Критинии
+  text: |-
+    Несмотря на то, что маленькая **деревня имеет свою самобытность и колорит**, именно **крепость**, которая находится рядом с ней, ежегодно привлекает множество гостей. Построенный **в 1472 году под руководством Великого Магистра Джованни Баттиста дель Орсини, замок-крепость** предназначался для защиты жителей деревни от османского флота. Крепость была возведена **рыцарями ордена Святого Иоанна** в идеальном с точки зрения **стратегического расположения** месте. Она предоставляла им **полный 360 градусный обзор**, который был особенно ценен при набегах пиратов и других врагов на остров.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/kritinia-castle/1-thumb.jpg"
         href: "/img/pages/kritinia-castle/1.jpg"
-        alt: Kritinia Castle
-      caption: Kritinia Castle
+        alt: Крепость Критинии
+      caption: Крепость Критинии
     - image:
         thumb: "/img/pages/kritinia-castle/2-thumb.jpg"
         href: "/img/pages/kritinia-castle/2.jpg"
-        alt: Kritinia Castle Rhodes
-      caption: Kritinia Castle
+        alt: Крепость Критинии
+      caption: Крепость Критинии
     - image:
         thumb: "/img/pages/kritinia-castle/3-thumb.jpg"
         href: "/img/pages/kritinia-castle/3.jpg"
-        alt: Kritinia Castle Rhodes Greece
-      caption: Kritinia Castle
+        alt: Крепость Критинии
+      caption: Крепость Критинии
     - image:
         thumb: "/img/pages/kritinia-castle/4-thumb.jpg"
         href: "/img/pages/kritinia-castle/4.jpg"
-        alt: The Castle of Kritinia in Rhodes Greece
-      caption: The Gate
-- title: The Construction and Strategic Location of the Castle
-  text: "The construction of the castle underwent a change in management several times
-    and it has three levels. After Orsini, the construction of the castle was handed
-    over to Grand Master Pierre D’ Subusson who added the tower and gunnery but the
-    fortifications were strengthened by mercenary and adventurer, Basilio Della Scola.
-    The castle was finally completed during the 16th century under Grand Master Fabrizio
-    del Carretto. \n\nSince different parts of the castle were made by different architectural
-    masters of differing backgrounds, it is a mix of Medieval and Byzantine styles.
-    The large, rectangular fortification is an impressive 360 feet in height but it
-    is a shell of its former self today. However, you can still see the original coat
-    of arms of the original Grand Master above the entrance as well as those of the
-    second one who worked on the castle."
+        alt: Ворота
+      caption: Ворота
+- title: Строительство и стратегическое расположение крепости
+  text: |-
+    Крепость имеет **три уровня**, её строительство несколько раз претерпевало смену руководства, после **Орсини** строительство было передано **Великому Магистру Пьеру д'Обюссону**, который добавил **круглую башню и пушечные установки**. **Фортификационные укрепления** были усилены наёмным специалистом **Базилио Делла Скола**, а окончательно строительство завершилось в начале 16 века под руководством **Великого Магистра Фабрицио дель Карретто.**
+
+    Поскольку разные части замка были созданы разными мастерами архитектуры и имеют разное происхождение, мы можем наблюдать здесь **смешение византийского и средневекового стилей**. Большое прямоугольное внешнее укрепление имеет впечатляющую **высоту 360 футов**, но сегодня оно представляет собой пустую оболочку. Тем не менее, вы все ещё можете увидеть **оригинальный герб первого Великого Магистра** над входом, а также герб второго, который работал над строительством замка.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/kritinia-castle/5-thumb.jpg"
         href: "/img/pages/kritinia-castle/5.jpg"
-        alt: The round tower, Shore Excursions to Kritinia Castle in Rhodes
-      caption: The Round Tower
+        alt: Круглая башня
+      caption: Круглая башня
     - image:
         thumb: "/img/pages/kritinia-castle/6-thumb.jpg"
         href: "/img/pages/kritinia-castle/6.jpg"
-        alt: The round tower, Rhodes Cruise Excursions to Castle of Kritinia
-      caption: Interior of the Round Tower
+        alt: Интерьер Круглой башни
+      caption: Интерьер Круглой башни
     - image:
         thumb: "/img/pages/kritinia-castle/7-thumb.jpg"
         href: "/img/pages/kritinia-castle/7.jpg"
-        alt: Interior of the Kritinia Castle, Rhodes Private Tours
-      caption: Interior of the Castle
+        alt: Интерьер замка
+      caption: Интерьер замка
     - image:
         thumb: "/img/pages/kritinia-castle/8-thumb.jpg"
         href: "/img/pages/kritinia-castle/8.jpg"
-        alt: Interior of the Kritinia Castle, Rhodes custom excursions
-      caption: Interior of the Castle
-- title: The Views
-  text: Since the castle offered a complete view of the surrounding areas, it was
-    used to send and receive alarms from surrounding islands such as Symi, Chalki,
-    Makri, Alimia among others. Additionally, it was used to control the coastal road
-    that ran southward on the western part of Rhodes.
+        alt: Интерьер замка
+      caption: Интерьер замка
+- title: Виды
+  text: |-
+    Поскольку из крепости открывался **полный вид на окрестности**, он использовался для **отправки и получения сигналов тревоги** с близлежащих островов, таких как **Сими, Халки, Макри, Алимия** и других. Кроме того, он использовался для **контроля прибрежной дороги**, которая шла на юг в западной части Родоса.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/kritinia-castle/9-thumb.jpg"
         href: "/img/pages/kritinia-castle/9.jpg"
-        alt: The little islands close to Rhodes, Best shore excursions in Greek islands
-      caption: The little islands close to Rhodes
+        alt: Небольшие острова рядом с Родосом
+      caption: Небольшие острова рядом с Родосом
     - image:
         thumb: "/img/pages/kritinia-castle/10-thumb.jpg"
         href: "/img/pages/kritinia-castle/10.jpg"
-        alt: The Aegean Sea and Symi island, Cruise excursions to Greek isles
-      caption: The Aegean Sea and Symi island
+        alt: Эгейское море и остров Сими
+      caption: Эгейское море и остров Сими
     - image:
         thumb: "/img/pages/kritinia-castle/11-thumb.jpg"
         href: "/img/pages/kritinia-castle/11.jpg"
-        alt: Excursions to South West Coast of Rhodes Island and Kritinia Castle
-      caption: South West Coast of Rhodes Island
+        alt: Юго-западное побережье острова Родос
+      caption: Юго-западное побережье острова Родос
     - image:
         thumb: "/img/pages/kritinia-castle/12-thumb.jpg"
         href: "/img/pages/kritinia-castle/12.jpg"
-        alt: Excursions to Kritinia village from Rhodes Cruise Port or Rhodes Tourist
-          Port
-      caption: Kritinia village and Mountain Ataviros in the background
+        alt: Деревня Критиния и гора Атавирос на заднем плане
+      caption: Деревня Критиния и гора Атавирос на заднем плане
 related_tours:
 - custom_excursions
 - wine_tours
