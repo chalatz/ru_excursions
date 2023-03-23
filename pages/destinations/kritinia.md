@@ -1,6 +1,6 @@
 ---
 title: замок Критиния - Крепость Критиния
-permalink: kritinia-castle-rhodes-greece.htm
+permalink: zamok-kritiniya-krepost-kritiniya.htm
 layout: gallery-page
 type: gallery-page
 id: kritinia
