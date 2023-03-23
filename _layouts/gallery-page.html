@@ -20,7 +20,7 @@ layout: page
         {%- else -%}
             {%- assign no_titles = false -%}
         {%- endif -%}
-        <div class="page__section{% if forloop.first and no_titles == true %} page__section--intro{% endif %}">
+        <div class="page__section{% if forloop.first and no_titles == true %} page__section--intro{% endif %}{% if page.is == 'destination' %} page__section--destination{% endif %}{% if forloop.last %} page__section--last{% endif %}">
             {%- if section_has_title == true -%}
                 <h2 class="page__section-title">
                     {{- section.title -}}
