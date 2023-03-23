@@ -1,6 +1,6 @@
 ---
-title: Ancient Kamiros Rhodes Greece
-permalink: ancient_kamiros.htm
+title: ДРЕВНИЙ ГОРОД КАМИРОС, РОДОС
+permalink: drevniy-gorod-kamiros-rodos.htm
 layout: gallery-page
 type: gallery-page
 id: kamiros
@@ -8,130 +8,105 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Ancient Kamiros Rhodes Greece
-  http_desc: Ancient Kamiros Rhodes Greece, Ancient Kamiros Shore Excursions
-  keywords: Ancient Kamiros Rhodes Greece, Ancient Kamiros Shore Excursions
-  description: Ancient Kamiros Rhodes Greece, Ancient Kamiros Shore Excursions
-  abstract: Ancient Kamiros Rhodes Greece
+  title: ДРЕВНИЙ город КАМИРОС, РОДОС
+  http_desc: ДРЕВНИЙ город КАМИРОС, РОДОС, древний город Камирос, Родос, Греция
+  keywords: ДРЕВНИЙ город КАМИРОС, РОДОС, древний город Камирос, Родос, Греция
+  description: ДРЕВНИЙ город КАМИРОС, РОДОС, древний город Камирос, Родос, Греция
+  abstract: ДРЕВНИЙ город КАМИРОС, РОДОС
 head_photo:
   img: "/img/pages/ancient-kamiros/head-photo.jpg"
   mobile: "/img/pages/ancient-kamiros/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: Located at a distance 32 km from Rhodes Town, Ancient Kamiros was one of the
-    three most important cities on the island before Rhodes was founded in 408 BC.
-    The region was inhabited as early as the Mycenaean era. However, once Rhodes was
-    developed, Kamiros lost its significance and finally vanished for good in the
-    2nd century BC. The city was built over the ruins of an older settlement, which
-    was destroyed in an earthquake in 226BC. Divided into different zones of public
-    and private buildings, the city is the perfect example of Hellenistic urban layout
-    and designs.
-- title: Acropolis and the Temple of Athena Kameiras
-  text: "**Temple of Athena Kameiras:** With porticos on all sides, the magnificent
-    temple of Athena was surrounded by peribolos. Like most of the city, it was also
-    built over the foundation of another temple that was destroyed in the earthquake
-    in 226 BC. \n\n**Archaic Cistern:** Rectangular in shape and lined with plaster,
-    Archaic Cistern was the reservoir that served water to the city via terra-cotta
-    pipes and apertures. With a capacity of 600,000 litres, the reservoir could easily
-    hold water for around 400 families. Steps were built on the side to provide access
-    inside the reservoir for cleaning. During the Hellenistic period, it was replaced
-    by a Stoa.\n\n**Hellenistic Stoa:** The Stoa was built in the shape of the Greek
-    letter Π. It was 200 meters long and had two rows of Doric columns. An extraordinary,
-    underground water supply system with terra-cotta water pipes, subterranean tanks,
-    and wells replaced the Archaic Cistern effectively."
+- text: |-
+    Расположенный на расстоянии 32 км от города Родос, **Древний Камирос** был одним из трёх самых важных городов на острове до основания **города Родос в 408 г. до н.э**. Этот регион был заселён ещё в **микенскую эпоху**. Развитие и процветание столицы острова - города Родос, послужило основной причиной угасания и постепенного исчезновения **Камироса**. Древний город построен на руинах более раннего поселения, разрушенного **мощным землетрясением 226 г. до н.э.** Разделённый на различные зоны общественных и частных зданий, город является **прекрасным примером эллинистической планировки и дизайна.**
+- title: Акрополь и храм Афины Камириды
+  text: |-
+    **Храм Афины Камириды**. Великолепный **дорический храм Афины Камириды** располагался в самой высокой части акрополя на вершине холма с видом на **Эгейское побережье**. Как и большая часть города он был построен на фундаменте прежнего храма, разрушенного землетрясением 226 г. до н.э.
+
+    **Цистерна архаического периода****. **Прямоугольная по форме и облицованная **защитным слоем штукатурки**, архаичная цистерна была **резервуаром**, который снабжал город водой. Вода поступала в нижние районы города по **керамическим трубам**, проходя через **специальную очистительную систему**. Резервуар рассчитанный **на 600****000 литров** мог легко обеспечить водой около **400 семей**. Сбоку цистерны были сооружены ступени, обеспечивающие доступ внутрь резервуара для очистки. В эллинистический период резервуар был заменен на 200метровый портик, с крыши которого вода собиралась в **соединяющиеся подземные колодцы**.
+
+    **Эллинистическая Стоа (Большой портик)****. **Стоа была построена **в форме греческой буквы П с двумя рядами дорических колонн**, её длина составляла **200 метров**. Необычная система водоснабжения с керамическими водопроводными трубами, подземными резервуарами и колодцами эффективно заменила архаичную цистерну.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/ancient-kamiros/1-thumb.jpg"
         href: "/img/pages/ancient-kamiros/1.jpg"
-        alt: Shore Excursions to Ancient Kamiros and Temple of Athena
-      caption: Temple of Athena Kameiras
+        alt: Храм Афины Камириды
+      caption: Храм Афины Камириды
     - image:
         thumb: "/img/pages/ancient-kamiros/2-thumb.jpg"
         href: "/img/pages/ancient-kamiros/2.jpg"
-        alt: Private Tours to Ancient Kamiros and Archaic Cistern
-      caption: Archaic Cistern
+        alt: Архаичная цистерна
+      caption: Архаичная цистерна
     - image:
         thumb: "/img/pages/ancient-kamiros/3-thumb.jpg"
         href: "/img/pages/ancient-kamiros/3.jpg"
-        alt: Custom Excursion to Ancient Kamiros and Archaic Cistern
-      caption: Archaic Cistern
+        alt: Архаичная цистерна
+      caption: Архаичная цистерна
     - image:
         thumb: "/img/pages/ancient-kamiros/4-thumb.jpg"
         href: "/img/pages/ancient-kamiros/4.jpg"
-        alt: Cruise Excursions to Ancient Kamiros and Hellenistic Stoa
-      caption: Hellenistic Stoa
-- title: Private Abode on the side of the Hill
-  text: The settlement was built during the Hellenistic and Roman periods. It was
-    built according to the Hippodamian system, which means it was a grid of residential
-    blocks and streets of the same size. One of the distinctive features of the residential
-    quarters was the interior colonnaded courtyard, which was generally higher on
-    one side than the other. They were decorated with mosaic floors and painted adornments
-    on plaster. Facades with architraves were also used for decoration purposes.
+        alt: Эллинистическая Стоа
+      caption: Эллинистическая Стоа
+- title: Частный дом состоятельного горожанина на склоне холма
+  text: |-
+    Посетители **Древнего Камироса** могут получить представление о том, как выглядела его **центральная часть в эллинистический и римский периоды**. Город был построен по **Гипподамовой системе,** то есть представлял собой сетку жилых кварталов и улиц одинакового размера. Одной из отличительных особенностей жилых кварталов был **внутренний двор с колоннадой**, который, как правило, с одной стороны был выше, чем с другой. Дома состоятельных горожан **украшали мозаичные полы и настенные фрески**. **Фасады с наличниками** также использовались в декоративных целях.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/ancient-kamiros/5-thumb.jpg"
         href: "/img/pages/ancient-kamiros/5.jpg"
-        alt: The Main Street of Ancient Kamiros from Rhodes Cruise Port
-      caption: The Main Street
+        alt: Главная улица
+      caption: Главная улица
     - image:
         thumb: "/img/pages/ancient-kamiros/6-thumb.jpg"
         href: "/img/pages/ancient-kamiros/6.jpg"
-        alt: Kamiros Main Street and Houses from Rhodes Tourist port
-      caption: The Main Street and Houses
+        alt: Главная улица и дома
+      caption: Главная улица и дома
     - image:
         thumb: "/img/pages/ancient-kamiros/7-thumb.jpg"
         href: "/img/pages/ancient-kamiros/7.jpg"
-        alt: House with an interior colonnaded courtyard
-      caption: Archaic Cistern
+        alt: Внутренний двор с колоннадой
+      caption: Внутренний двор с колоннадой
     - image:
         thumb: "/img/pages/ancient-kamiros/8-thumb.jpg"
         href: "/img/pages/ancient-kamiros/8.jpg"
-        alt: Houses of the Hellenistic period in Ancient Kamiros
-      caption: Houses of the Hellenistic period
-- title: The Agora
-  text: "**Doric Temple:** The temple was located on the third terrace of the archaeological
-    zone. It stood on the north-western edge of the Fountain Square. It was a poros
-    distyle temple, which means that along with cella, pronaos, and opisthodomos,
-    it had antis in the front and had two columns. It is speculated that the temple
-    was dedicated to Pythian Apollo.  \n\n**Fountain Square:** The Fountain Square
-    was located to the east of the Doric Temple. It was a big, rectangular area with
-    numerous votive bases that were inscribed. It also consisted of six Doric columns
-    that supported an entablature. An open cistern was always present from which water
-    was drawn during the mid 4th century. The cistern was later replaced by a well.
-    \n\n**Hellenistic Sanctuary:** The sanctuary was dedicated to the gods and heroes
-    of Kamiros. It was located opposite the Fountain Square and featured altars inside
-    the enclosure. It is speculated that this was the Hierothyteion of Kamiros."
+        alt: Дома эллинистического периода
+      caption: Дома эллинистического периода
+- title: Агора
+  text: |-
+    **Дорический храм**. Храм располагался на третьей террасе археологической зоны. Он стоял на северо-западной окраине **Фонтанной площади**. Сооружен был из пористого камня с двумя колоннами в антах на переднем и заднем фасадах, предположительно посвящён **Аполлону Пифийскому.**
+
+    **Фонтанная площадь.** Фонтанная площадь располагалась к востоку от дорического храма. Это была **большая прямоугольная площадь с многочисленными постаментами с посвятительными надписями**, её украшали **шесть дорических колонн**, поддерживающих антаблемент. В середине 4 века до н.э. на площади находилась **открытая цистерна**, из которой можно было набирать воду. Позже цистерну заменили колодцем.
+
+    **Эллинистическое святилище.** Святилище было посвящено **богам и героям Камироса**, оно было расположено напротив Фонтанной площади. На огороженной территории святилища находились **многочисленные жертвенники.**
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/ancient-kamiros/9-thumb.jpg"
         href: "/img/pages/ancient-kamiros/9.jpg"
-        alt: Cheap shore excursions to Ancient Kamiros and Doric Temple
-      caption: Doric Temple
+        alt: Дорический храм
+      caption: Дорический храм
     - image:
         thumb: "/img/pages/ancient-kamiros/10-thumb.jpg"
         href: "/img/pages/ancient-kamiros/10.jpg"
-        alt: Independent cruise excursions to Ancient Kamiros and Fountain Square
-      caption: Fountain Square
+        alt: Фонтанная площадь
+      caption: Фонтанная площадь
     - image:
         thumb: "/img/pages/ancient-kamiros/11-thumb.jpg"
         href: "/img/pages/ancient-kamiros/11.jpg"
-        alt: Ancient Kamiros and Fountain Square, cruise excursions in Mediterranean
-          Sea
-      caption: Fountain Square
+        alt: Фонтанная площадь
+      caption: Фонтанная площадь
     - image:
         thumb: "/img/pages/ancient-kamiros/12-thumb.jpg"
         href: "/img/pages/ancient-kamiros/12.jpg"
-        alt: Ancient Kamiros, Hellenistic Sanctuary, Cruise excursions Greek isles
-      caption: Hellenistic Sanctuary
-- text: It must be noted that Kamiros is often compared with Pompei. However, the
-    comparison is unjustified as, unlike Pompie, Kamiros did not fall due to a natural
-    disaster. The city was slowly abandoned once Rhodes was developed.
+        alt: Эллинистическое святилище
+      caption: Эллинистическое святилище
+- text: Следует отметить, что **Камирос** часто **сравнивают с Помпеями**. Однако сравнение не совсем верно, так как, в отличие от Помпеи, Камирос не пал из-за стихийного бедствия, а постепенно опустел. После того, как город Родос был застроен, жители Камироса начали покидать родной город и переселяться в новую столицу.
 related_tours:
 - rhodes_west_coast
 - custom_excursions
