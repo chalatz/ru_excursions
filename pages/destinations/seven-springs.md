@@ -1,6 +1,6 @@
 ---
-title: The Seven Springs (Epta Piges) in Rhodes
-permalink: seven-springs-epta-piges.htm
+title: СЕМЬ ИСТОЧНИКОВ, РОДОС
+permalink: sem-istochnikov-rodos.htm
 layout: gallery-page
 type: gallery-page
 id: seven_springs
@@ -8,90 +8,65 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Seven Springs Rhodes, Epta Piges
-  http_desc: Seven Springs Rhodes, Epta Piges Shore Excursions in Rhodes Greece
-  keywords: Seven Springs Rhodes, Epta Piges Shore Excursions in Rhodes Greece
-  description: Seven Springs Rhodes, Epta Piges Shore Excursions in Rhodes Greece
-  abstract: Seven Springs Rhodes, Epta Piges
+  title: СЕМЬ ИСТОЧНИКОВ, РОДОС
+  http_desc: СЕМЬ ИСТОЧНИКОВ, РОДОС, 7 источников родос, epta piges, Родос, Греция
+  keywords: СЕМЬ ИСТОЧНИКОВ, РОДОС, 7 источников родос, epta piges, Родос, Греция
+  description: СЕМЬ ИСТОЧНИКОВ, РОДОС, 7 источников родос, epta piges, Родос, Греция
+  abstract: СЕМЬ ИСТОЧНИКОВ, РОДОС
 head_photo:
   img: "/img/pages/seven-springs/head-photo.jpg"
   mobile: "/img/pages/seven-springs/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: Also known as Epta Piges, the Seven Springs in Rhodes is often called one
-    of Rhodes prettiest little secrets. It is easy to access from the East Coast and
-    is situated at 27 km (16 miles) from the Town of Rhodes. This destination looks
-    like a slice of paradise and offers visitors a refuge from the hot weather.   At
-    first glance, people might assume that it’s just a valley, but Seven Springs is
-    full of clear, cool springs that are shaded with enormous pine trees. The nearby
-    forests have walking trails and walk here is a recommended activity for all. The
-    natural scenery of the place not only attracts visitors, but it is also common
-    to see peacocks and ducks cooling in the springs.
+- text: Долину семи источников на Родосе, также известную как «Эпта Пигес», часто называют одним из самых красивых маленьких секретов Родоса. Она расположена в 27 км от города Родос, удобнее всего добираться до неё с восточного побережья. Это место выглядит как райский уголок и предлагает гостям убежище в жаркую погоду. На первый взгляд можно подумать, что это просто долина, но в ней много чистых прохладных источников, находящихся в тени огромных сосен. В близлежащих лесах есть пешеходные тропы, по которым будет приятно прогуляться. Природные пейзажи этого места привлекают многочисленных посетителей, здесь также можно увидеть павлинов и уток, охлаждающихся в источниках.  
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/seven-springs/1-thumb.jpg"
         href: "/img/pages/seven-springs/1.jpg"
-        alt: Seven Springs Rhodes, Epta Piges Rhodes Greece
+        alt: Проточная вода из 7 источников
       caption: ''
     - image:
         thumb: "/img/pages/seven-springs/2-thumb.jpg"
         href: "/img/pages/seven-springs/2.jpg"
-        alt: 7 Springs in Rhodes Greece
+        alt: Указатель показывает, как пройти к Семи Источникам
       caption: ''
     - image:
         thumb: "/img/pages/seven-springs/3-thumb.jpg"
         href: "/img/pages/seven-springs/3.jpg"
-        alt: Rhodes Seven Springs, Epta Piges
+        alt: Вход в туннель в долине Семи Источниках
       caption: ''
     - image:
         thumb: "/img/pages/seven-springs/4-thumb.jpg"
         href: "/img/pages/seven-springs/4.jpg"
-        alt: Rhodes Greece Seven Springs, 7 Piges
+        alt: Плавающие утки в Семи Источниках 
       caption: ''
-- text: Seven Springs has a stunning landscape that is naturally cool, even during
-    the heavy heat that comes in high summer. The area is completely swamped and surrounded
-    by lush greenery that also adds a magical aura to the place. The water from the
-    springs is plentiful at all times of the year.  It overflows into an artificial
-    lake that is now the natural habitat of local crabs, eels, tortoises and the rare
-    gizani – a fish species that is indigenous to Rhodes. Visitors will find that
-    the views here are stunning and just as picturesque as the rest of the area. Here
-    the visitors can also enjoy a swim at seven springs.
+- text: Кроме потрясающих пейзажей, в долине семи источников сохраняется прохлада и свежесть даже в разгар лета в самые жаркие дни. Благодаря источникам здесь достаточно влаги и вся территория долины покрыта пышной зеленью, что также придает этому месту волшебную ауру. Вода из источников выходит в большом количестве в любое время года и, по специально сооруженному тоннелю, собирается в искусственное озеро, которое сейчас является естественной средой обитания местных крабов, угрей, черепах и маленьких редких рыбок «гизани», эндемичного родосского вида пресноводных рыб. Посетители могут насладиться купанием в искусственном озере, а также совершить прогулку по живописным лесным тропам, вдыхая насыщенные ароматы местных трав и любуясь неповторимыми видами долины.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/seven-springs/5-thumb.jpg"
         href: "/img/pages/seven-springs/5.jpg"
-        alt: Shore Excursions to Rhodes Seven Springs
+        alt: Павлины в долине Семи Источников
       caption: ''
     - image:
         thumb: "/img/pages/seven-springs/6-thumb.jpg"
         href: "/img/pages/seven-springs/6.jpg"
-        alt: Private Tours to Epta Piges in Rhodes
+        alt: Вода из Семи источников поступает в небольшое озеро
       caption: ''
     - image:
         thumb: "/img/pages/seven-springs/7-thumb.jpg"
         href: "/img/pages/seven-springs/7.jpg"
-        alt: Cruise Excursions to Seven Springs in Rhodes
+        alt: Маленькое озеро в долине Семи Источников
       caption: ''
     - image:
         thumb: "/img/pages/seven-springs/8-thumb.jpg"
         href: "/img/pages/seven-springs/8.jpg"
-        alt: Tours to 7 Springs from Rhodes Cruise Port or Rhodes tourist port
+        alt: Утки в долине Семи Источников
       caption: ''
-- text: Since the lake is man-made, there is a path that leads from the springs down
-    to it. You can walk through a tunnel, but it is narrow and dark. The tunnel extends
-    for 186 m and can take only five minutes to finish. However, it is recommended
-    that you carry a torch as there are some curves in the path that can be hard to
-    see in the dark.   The tunnel is also part of the history of the Seven Springs.
-    It was created in 1931 by Italians. The most unique part about it is that it was
-    designed for use by one person only. Due to this, it’s largely a one-way tunnel
-    only.  In the middle of the tunnel, there is an emergency exit as well as an air
-    shaft. There is a ladder here which leads to the street above. This street has
-    a walking track which can also be used to get to the tunnel and come back from
-    it.
+- text: Вы можете пройти по бегущей воде по подземному тоннелю, который соединяет семь источников с искусственным озером, длина его составляет 186 метров, он узкий и темный. Прохождение может занять около 5 минут, тем не менее, рекомендуется взять с собой фонарик, так как на пути есть несколько поворотов, которые трудно увидеть в темноте. Тоннель также является частью истории долины семи источников, он был построен в 1931 году итальянцами, по нему можно организовать проход только в одном направлении, два человека попросту в нем не смогут разойтись, ширина тоннеля четко рассчитана на одного человека. В середине тоннеля есть запасной выход, вертикальная лестница, ведущая наверх из тоннеля по вентиляционной шахте. На поверхности возле запасного выхода есть пешеходная дорожка, идущая в двух направления, к входу в тоннель и к выходу из него.
 related_tours:
 - nature_tour
 - custom_excursions
