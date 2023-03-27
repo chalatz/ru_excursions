@@ -1,6 +1,6 @@
 ---
-title: Faliraki Beach in Rhodes Greece
-permalink: faliraki-beach-rhodes.htm
+title: ПЛЯЖ ФАЛИРАКИ, РОДОС, ГРЕЦИЯ
+permalink: plyazh-faliraki-rodos-gretsiya.htm
 layout: gallery-page
 type: gallery-page
 id: faliraki_beach
@@ -8,47 +8,41 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Faliraki Beach in Rhodes Greece, Beach of Faliraki
-  http_desc: Faliraki Beach in Rhodes Greece, Beach of Faliraki
-  keywords: Faliraki Beach in Rhodes Greece, Beach of Faliraki
-  description: Faliraki Beach in Rhodes Greece, Beach of Faliraki
-  abstract: Faliraki Beach in Rhodes Greece, Beach of Faliraki
+  title: ПЛЯЖ ФАЛИРАКИ, РОДОС, ГРЕЦИЯ
+  http_desc: ПЛЯЖ ФАЛИРАКИ, РОДОС, ГРЕЦИЯ, Пляж Фалираки, Родос, Греция
+  keywords: ПЛЯЖ ФАЛИРАКИ, РОДОС, ГРЕЦИЯ, Пляж Фалираки, Родос, Греция
+  description: ПЛЯЖ ФАЛИРАКИ, РОДОС, ГРЕЦИЯ, Пляж Фалираки, Родос, Греция
+  abstract: ПЛЯЖ ФАЛИРАКИ, РОДОС, ГРЕЦИЯ
 head_photo:
   img: "/img/pages/faliraki-beach/head-photo.jpg"
   mobile: "/img/pages/faliraki-beach/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: This beach is located on the northeastern coast of the island and is about
-    4km (2.4 miles) long. Considered to be one of the more popular beaches near Rhodes
-    town. Besides the staple umbrellas and sun lounges, you can also take a shower
-    and use public toilets there so you can bring the whole family without worry.
+- text: Этот пляж расположен на северо-восточном побережье острова и имеет длину около 4 км. Считается одним из самых популярных пляжей, находящихся недалеко от города Родос. На оборудованном пляже можно прекрасно провести день с семьёй, помимо аренды шезлонгов и зонтиков, можно воспользоваться душевыми и туалетами, вдоль длинного пляжа много кафе, кондитерских, сувенирных магазинов, баров, таверен и ресторанов. 
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/faliraki-beach/1-thumb.jpg"
         href: "/img/pages/faliraki-beach/1.jpg"
-        alt: Faliraki Beach in Rhodes Greece
+        alt: Пляж Фалираки для купания в Средиземном море
       caption: ''
     - image:
         thumb: "/img/pages/faliraki-beach/2-thumb.jpg"
         href: "/img/pages/faliraki-beach/2.jpg"
-        alt: The Beach of Faliraki in Rhodes Greece
+        alt: Аренда зонтиков на пляже Фалираки
       caption: ''
     - image:
         thumb: "/img/pages/faliraki-beach/3-thumb.jpg"
         href: "/img/pages/faliraki-beach/3.jpg"
-        alt: Faliraki Beach Water Sports
+        alt: Водные виды спорта на пляже Фалираки
       caption: ''
     - image:
         thumb: "/img/pages/faliraki-beach/4-thumb.jpg"
         href: "/img/pages/faliraki-beach/4.jpg"
-        alt: Rhodes Faliraki Beach
+        alt: Пляж Фалираки, водные виды спорта
       caption: ''
-- text: There is also an official nudist area at the southern end of the beach along
-    with a tavern. You can have fun on the water by taking part in water sports, go
-    scuba diving, jet skiing, paragliding or wind surfing. Faliraki is usually crowded
-    in the high season, July and August.
+- text: В южной части пляжа есть официальная зона для нудистов и таверна. Также на протяжённом пляже Фалираки можно найти большое количество разных станций водных видов спорта. В северной части Фалираки галечный пляж, в южной, песчаный пляж, а в центре смешанный песок с галькой. В высокий сезон, в июле и в августе пляжи Фалираки часто бывают переполнены.  
 related_tours:
 - beaches_tour
 - best_rhodes
