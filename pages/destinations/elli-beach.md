@@ -1,6 +1,6 @@
 ---
-title: Rhodes Town Beach (Elli Beach)
-permalink: rhodes-town-beach.htm
+title: ПЛЯЖ ЭЛЛИ - ГОРОДСКОЙ ПЛЯЖ РОДОСА
+permalink: plyazh-elli-gorodskoy-plyazh-rodosa.htm
 layout: gallery-page
 type: gallery-page
 id: elli_beach
@@ -8,11 +8,11 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Rhodes Town Beach, Elli Beach
-  http_desc: Rhodes Town Beach, Elli Beach in Rhodes, Beach of Rhodes Town
-  keywords: Rhodes Town Beach, Elli Beach in Rhodes, Beach of Rhodes Town
-  description: Rhodes Town Beach, Elli Beach in Rhodes, Beach of Rhodes Town
-  abstract: Rhodes Town Beach, Elli Beach in Rhodes, Beach of Rhodes Town
+  title: ПЛЯЖ ЭЛЛИ, ГОРОДСКОЙ ПЛЯЖ РОДОСА
+  http_desc: ПЛЯЖ ЭЛЛИ, ГОРОДСКОЙ ПЛЯЖ РОДОСА, Пляж Элли, Родос, Греция
+  keywords: ПЛЯЖ ЭЛЛИ, ГОРОДСКОЙ ПЛЯЖ РОДОСА, Пляж Элли, Родос, Греция
+  description: ПЛЯЖ ЭЛЛИ, ГОРОДСКОЙ ПЛЯЖ РОДОСА, Пляж Элли, Родос, Греция
+  abstract: ПЛЯЖ ЭЛЛИ, ГОРОДСКОЙ ПЛЯЖ РОДОСА
 head_photo:
   img: "/img/pages/rhodes-town-beach/head-photo.jpg"
   mobile: "/img/pages/rhodes-town-beach/head-photo-mobile.jpg"
@@ -27,28 +27,24 @@ sections:
     - image:
         thumb: "/img/pages/rhodes-town-beach/1-thumb.jpg"
         href: "/img/pages/rhodes-town-beach/1.jpg"
-        alt: Rhodes Town Beach, Elli Beach
+        alt: Водные виды спорта на пляже Элли
       caption: ''
     - image:
         thumb: "/img/pages/rhodes-town-beach/2-thumb.jpg"
         href: "/img/pages/rhodes-town-beach/2.jpg"
-        alt: The Beach of Rhodes Town
+        alt: Пляж Элли с мелким песком
       caption: ''
     - image:
         thumb: "/img/pages/rhodes-town-beach/3-thumb.jpg"
         href: "/img/pages/rhodes-town-beach/3.jpg"
-        alt: Elli beach in Rhodes Town
+        alt: Зонтики на пляже Элли
       caption: ''
     - image:
         thumb: "/img/pages/rhodes-town-beach/4-thumb.jpg"
         href: "/img/pages/rhodes-town-beach/4.jpg"
-        alt: Rhodes Town Beach known as Elli Beach
+        alt: Город Родос, пляж Элли
       caption: ''
-- text: Like all of the beaches, the water around Elli beach is also pristine but
-    it usually remains calm rather than turbulent. Sunbathe on the sun beds or take
-    part in water sports such as banana boat rides, parasailing or diving. However,
-    since the beach is littered with pebbles, bringing small children is not a good
-    idea.
+- text: Как и на всех пляжах Родоса, вода у побережья Элли чистейшая, море здесь чаще бывает спокойное и реже волнующееся. На пляже Элли доступны шезлонги, зонтики, душевые, кабинки для переодевания, станция водных видов спорта, кафе, бары и рестораны. Поскольку пляж галечный, это не лучший вариант для маленьких детей.
 related_tours:
 - best_rhodes
 - rhodes_in_a_day
