@@ -1,6 +1,6 @@
 ---
-title: Embonas Village Rhodes - Embona Rhodes Wine
-permalink: embonas-village-rhodes.htm
+title: ДЕРЕВНЯ ЭМБОНА РОДОС 
+permalink: derevnya-embona-rodos.htm
 layout: gallery-page
 type: gallery-page
 id: embonas
@@ -8,86 +8,68 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Embonas Village Rhodes, Embona Rhodes Wine
-  http_desc: Embonas Village in Rhodes Greece, Embona Rhodes Wine, Shore Excursions
-    to Embona Village in Rhodes Greece
-  keywords: Embonas Village in Rhodes Greece, Embona Rhodes Wine, Shore Excursions
-    to Embona Village in Rhodes Greece
-  description: Embonas Village in Rhodes Greece, Embona Rhodes Wine, Shore Excursions
-    to Embona Village in Rhodes Greece
-  abstract: Embonas Village Rhodes
+  title: ДЕРЕВНЯ ЭМБОНА РОДОС
+  http_desc: ДЕРЕВНЯ ЭМБОНА РОДОС, Винодельческая деревня Эмбона, Родос, Греция
+  keywords: ДЕРЕВНЯ ЭМБОНА РОДОС, Винодельческая деревня Эмбона, Родос, Греция
+  description: ДЕРЕВНЯ ЭМБОНА РОДОС, Винодельческая деревня Эмбона, Родос, Греция
+  abstract: ДЕРЕВНЯ ЭМБОНА РОДОС
 head_photo:
   img: "/img/pages/embonas-village/head-photo.jpg"
   mobile: "/img/pages/embonas-village/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: If you love sampling different types of wine, a trip to Embonas Village should
-    be on your bucket list. Embona or Empona is located on the west coast of the island,
-    about 32 miles from Rhodes town, the tiny village is known not only for the wine
-    it makes, but also for its unique location. It is nestled under the highest mountain
-    on the island called Attaviros and is filled with luscious olive groves, vineyards,
-    and pine forests. The top of the mountain still has remains of a temple that was
-    built to pay homage to the Greek God Zeus.
+- text: |-
+    Если вы любите **дегустировать различные сорта вин**, то вам стоит включить поездку в деревню Эмбонас в список ваших пожеланий. Селение расположено на западном побережье острова, примерно в 50 км от города Родос. Колоритная деревушка известна не только своим вином, но и своим уникальным расположением. Она находится на склоне **самой высокой горы острова под названием Атавирос** и окружена восхитительными оливковыми рощами, виноградниками и сосновыми лесами. На вершине горы до сих пор сохранились **фрагменты античного храма**, построенного **в честь греческого бога Зевса**.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/embonas-village/1-thumb.jpg"
         href: "/img/pages/embonas-village/1.jpg"
-        alt: Embonas village in Rhodes Greece
+        alt: Деревня Эмбона, Родос, Греция
       caption: ''
     - image:
         thumb: "/img/pages/embonas-village/2-thumb.jpg"
         href: "/img/pages/embonas-village/2.jpg"
-        alt: Rhodes Embonas village Emery Winery
+        alt: Винодельни Эмбоны на Родосе, Греция
       caption: ''
     - image:
         thumb: "/img/pages/embonas-village/3-thumb.jpg"
         href: "/img/pages/embonas-village/3.jpg"
-        alt: Embonas village wine tasting
+        alt: Вина деревни Эмбона на Родосе, Греция
       caption: ''
     - image:
         thumb: "/img/pages/embonas-village/4-thumb.jpg"
         href: "/img/pages/embonas-village/4.jpg"
-        alt: Embonas village in Rhodes
+        alt: Бесплатная дегустация вин в деревне Эмбона, Родос, Греция
       caption: ''
-- text: Besides its gorgeous location, the village also offers taverns, cafes, and
-    shops where tourists can buy souvenirs from. This includes a special type of liquor
-    called Souma which is only available at the village. If you time your visit right,
-    you can also take part in traditional festivals such as the wine festival.   What
-    stands out about Embonas village is its timeless look and feel.  The fact that
-    it produces some of the best wines in the world has made the village a tourist
-    attraction in its own right.
+- text: |-
+    Помимо великолепного расположения, в деревне также есть таверны, кафе и магазины, где гости могут приобрести **различные сувениры**. Одним из таких местных сувениров считается горячительный **крепкий напиток из винограда под названием «Сума»**, который производится в деревне и славится своим качеством. Если вы заранее спланируете и рассчитаете время своего визита в деревню, вы также сможете принять участие традиционных фестивалях, таких как **фестиваль вина**. То, что заметно выделяет деревню Эмбонас, это её внешний вид, неподвластный времени. Тот факт, что здесь производят **одни из лучших вин в мире**, сделал деревню самостоятельной туристической достопримечательностью.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/embonas-village/5-thumb.jpg"
         href: "/img/pages/embonas-village/5.jpg"
-        alt: Vineyards in Embonas village Rhodes
+        alt: Виноград и вина деревни Эмбона на Родосе, Греция
       caption: ''
     - image:
         thumb: "/img/pages/embonas-village/6-thumb.jpg"
         href: "/img/pages/embonas-village/6.jpg"
-        alt: Embonas village traditional restaurants
+        alt: Традиционные таверны в Эмбоне, Родос, Греция
       caption: ''
     - image:
         thumb: "/img/pages/embonas-village/7-thumb.jpg"
         href: "/img/pages/embonas-village/7.jpg"
-        alt: Grill meat in Embonas village Rhodes
+        alt: Мясо на гриле и традиционные блюда в деревне Эмбона, Родос, Греция
       caption: ''
     - image:
         thumb: "/img/pages/embonas-village/8-thumb.jpg"
         href: "/img/pages/embonas-village/8.jpg"
-        alt: Traditional houses in Embona village Rhodes
+        alt: Бесплатная дегустация вин в Эмбоне, Родос, Греция
       caption: ''
-- text: 'The village is also known for its colorful and diverse traditions that highlight
-    its growth throughout the centuries. Visitors are treated to traditional songs,
-    feasts, and dances that are unique to Embonas and which they can take part in
-    as well.   Almost all of the homes stand out as fine examples of the traditional
-    architecture of Rhodes and they’re well-maintained. Mingle with the locals, sit,
-    and dine on classical dishes in the taverns and cafes and just let all of your
-    stress melt away.  That is the magic that Embonas village offers tourists. '
+- text: |-
+    Деревня известна своими яркими и разнообразными традициями, они подчёркивают её развитие на протяжении веков. Радушные жители развлекают гостей своими песнями, танцами, тематическими фестивалями и праздниками, уникальными для данного селения. Почти все дома являются прекрасными образцами традиционной архитектуры Родоса и содержатся в хорошем состоянии. Пообщайтесь с местными жителями, отведайте классические греческие блюда в деревенских тавернах, попробуйте ароматный греческий кофе в кофейне! Почувствуйте это особое волшебство и умиротворение, которое деревня Эмбона передаёт гостям! 
 related_tours:
 - wine_tours
 - custom_excursions
