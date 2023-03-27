@@ -1,6 +1,6 @@
 ---
-title: Tsambika Beach in Rhodes Greece
-permalink: tsambika-beach-rhodes.htm
+title: ПЛЯЖ ЦАМБИКА, РОДОС, ГРЕЦИЯ
+permalink: plyazh-tsambika-rodos-gretsiya.htm
 layout: gallery-page
 type: gallery-page
 id: tsambika
@@ -8,51 +8,41 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Tsambika Beach Rhodes Greece, Beach of Tsambika
-  http_desc: Tsambika Beach Rhodes Greece, Beach of Tsambika in Rhodes
-  keywords: Tsambika Beach Rhodes Greece, Beach of Tsambika in Rhodes
-  description: Tsambika Beach Rhodes Greece, Beach of Tsambika in Rhodes
-  abstract: Tsambika Beach Rhodes Greece, Beach of Tsambika in Rhodes
+  title: ПЛЯЖ ЦАМБИКА, РОДОС, ГРЕЦИЯ
+  http_desc: ПЛЯЖ ЦАМБИКА, РОДОС, ГРЕЦИЯ, Tsambika Beach, Родос, Греция
+  keywords: ПЛЯЖ ЦАМБИКА, РОДОС, ГРЕЦИЯ, Tsambika Beach, Родос, Греция
+  description: ПЛЯЖ ЦАМБИКА, РОДОС, ГРЕЦИЯ, Tsambika Beach, Родос, Греция
+  abstract: ПЛЯЖ ЦАМБИКА, РОДОС, ГРЕЦИЯ
 head_photo:
   img: "/img/pages/tsambika-beach/head-photo.jpg"
   mobile: "/img/pages/tsambika-beach/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: Considered to be one the most beautiful beaches on the island, Tsambika Beach
-    (or Tsampika Beach) is located on the eastern coast just 26km (17miles) from Rhodes
-    town. The name was derived from the name of a small monastery called the Virgin
-    of Tsambika, which lies 340 meters up a hill. You should visit the place, especially
-    if you want to see a panoramic view of the bay.  Tsambika looks like it was taken
-    straight from a postcard. The pristine beach stretches over 800 meters, it boasts
-    fine golden sand and only a few stones so you can go barefoot. The water is crystal
-    clear so you will have an unforgettable swimming experience.
+- text: Пляж Цамбика или Тсамбика, считающийся одним из самых красивых пляжей на острове, расположен на восточном побережье всего в 26 км от города Родос. Его название произошло от названия небольшого монастыря Богородицы Цамбики, который находится на высоте 340 метров на соседнем холме. Это место стоит посетить, особенно если вы хотите увидеть панорамный вид на залив, сверху пляж Цамбика выглядит так, будто вид взят прямо с открытки. Пляж имеет протяженность 800 метров, на нём почти нет камней, только мелкий песок, поэтому можно ходить босиком. Вода кристально чистая, так что вы получите незабываемые впечатления от купания.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/tsambika-beach/1-thumb.jpg"
         href: "/img/pages/tsambika-beach/1.jpg"
-        alt: Tsambika beach in Rhodes Greece
+        alt: Пляж Цамбика с мелким песком
       caption: ''
     - image:
         thumb: "/img/pages/tsambika-beach/2-thumb.jpg"
         href: "/img/pages/tsambika-beach/2.jpg"
-        alt: Tsampika beach in Rhodes Greece
+        alt: Мелководье на пляже Цамбика
       caption: ''
     - image:
         thumb: "/img/pages/tsambika-beach/3-thumb.jpg"
         href: "/img/pages/tsambika-beach/3.jpg"
-        alt: Rhodes Tsambika Beach
+        alt: Водные виды спорта на пляже Цамбика
       caption: ''
     - image:
         thumb: "/img/pages/tsambika-beach/4-thumb.jpg"
         href: "/img/pages/tsambika-beach/4.jpg"
-        alt: Greece Rhodes Tsambika Beach
+        alt: Зонтики на пляже Цамбика
       caption: ''
-- text: There is an abundant amount of sun beds. Also available all kind of water
-    sports, few small canteens and a restaurant. The southern part of the beach is
-    considered as a nudist beach, but officially it is not.  The shallow water make
-    Tsambika beach very suitable for children of all ages.
+- text: Шезлонгов с зонтиками на пляже довольно много, доступны все виды водного спорта, есть несколько кафе и один ресторан. Южная часть пляжа считается нудистской, но официально таковой не является. Пляж также идеально подходит для детей всех возрастов, поскольку у берега мелководье и мелкий песок.
 related_tours:
 - beaches_tour
 - custom_excursions
