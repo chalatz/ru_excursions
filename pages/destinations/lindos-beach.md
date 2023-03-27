@@ -32,22 +32,22 @@ sections:
     - image:
         thumb: "/img/pages/lindos-beach/1-thumb.jpg"
         href: "/img/pages/lindos-beach/1.jpg"
-        alt: Lindos Beach in Rhodes Greece
+        alt: Песчаный пляж Линдоса и зонтики
       caption: ''
     - image:
         thumb: "/img/pages/lindos-beach/2-thumb.jpg"
         href: "/img/pages/lindos-beach/2.jpg"
-        alt: The Main Beach of Lindos Village
+        alt: Кристально чистая вода пляжа Линдоса
       caption: ''
     - image:
         thumb: "/img/pages/lindos-beach/3-thumb.jpg"
         href: "/img/pages/lindos-beach/3.jpg"
-        alt: Beach of Lindos Town
+        alt: Люди, купающиеся на пляже Линдоса
       caption: ''
     - image:
         thumb: "/img/pages/lindos-beach/4-thumb.jpg"
         href: "/img/pages/lindos-beach/4.jpg"
-        alt: Greece Rhodes Lindos Beach
+        alt: Пляж Линдоса, синее море, белая деревня и Акрополь
       caption: ''
   footer_text: Однако будьте осторожны, когда направляетесь на любой из пляжей. Тропа, ведущая из деревни, довольно крутая, поэтому убедитесь, что у вас есть надежная обувь. Как только вы доберетесь до пляжа, вы можете расслабиться и насладиться отдыхом. Пляж хорошо защищен скалами от ветра и волн, поэтому вы можете без страха кататься на водных мотоциклах или лодке-банане, на пляже есть станция водных видов спорта.
 related_tours:
