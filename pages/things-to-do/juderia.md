@@ -1,6 +1,6 @@
 ---
-title: The Jewish Quarter
-permalink: jewish_quarter_juderia.htm
+title: ЕВРЕЙСКИЙ КВАРТАЛ, РОДОС, ГРЕЦИЯ
+permalink: yevreyskiy-kvartal-rodos-gretsiya.htm
 layout: gallery-page
 type: gallery-page
 id: juderia
@@ -8,301 +8,219 @@ has_gallery: true
 has_destinations: true
 has_banners: true
 meta:
-  title: Jewish Quarter Rhodes Synagogue and Jewish Museum, Jewish Cemetery Rhodes
-    Greece
-  http_desc: Jewish Quarter in Rhodes, Synagogue and Jewish Museum, Jewish Cemetery
-    Rhodes Greece, square of the Jewish martyrs in Rhodes, the Jewish Community of
-    Rhodes
-  keywords: Jewish Quarter in Rhodes, Synagogue and Jewish Museum, Jewish Cemetery
-    Rhodes Greece, square of the Jewish martyrs in Rhodes, the Jewish Community of
-    Rhodes
-  description: Jewish Quarter in Rhodes, Synagogue and Jewish Museum, Jewish Cemetery
-    Rhodes Greece, square of the Jewish martyrs in Rhodes, the Jewish Community of
-    Rhodes
-  abstract: Jewish Quarter, Rhodes Synagogue and Jewish Museum, Jewish Cemetery Rhodes
-    Greece
+  title: ЕВРЕЙСКИЙ КВАРТАЛ, РОДОС, ГРЕЦИЯ
+  http_desc: ЕВРЕЙСКИЙ КВАРТАЛ, РОДОС, ГРЕЦИЯ, Еврейская община Родоса, Площадь еврейских мучеников на Родосе, Ла Джудерия, La Juderia, Родосская синагога, Синагога Кахаль Шалом, Родосский еврейский музей, Арон Хассон, Еврейское кладбище, Родос, Греция
+  keywords: ЕВРЕЙСКИЙ КВАРТАЛ, РОДОС, ГРЕЦИЯ, Еврейская община Родоса, Площадь еврейских мучеников на Родосе, Ла Джудерия, La Juderia, Родосская синагога, Синагога Кахаль Шалом, Родосский еврейский музей, Арон Хассон, Еврейское кладбище, Родос, Греция
+  description: ЕВРЕЙСКИЙ КВАРТАЛ, РОДОС, ГРЕЦИЯ, Еврейская община Родоса, Площадь еврейских мучеников на Родосе, Ла Джудерия, La Juderia, Родосская синагога, Синагога Кахаль Шалом, Родосский еврейский музей, Арон Хассон, Еврейское кладбище, Родос, Греция
+  abstract: ЕВРЕЙСКИЙ КВАРТАЛ РОДОСА, ГРЕЦИЯ
 head_photo:
   img: "/img/pages/jewish-quarter/head-photo.jpg"
   mobile: "/img/pages/jewish-quarter/head-photo-mobile.jpg"
   alt_text: ''
-outro: '"La Juderia" the Jewish Quarter of Rhodes Greece'
+outro: '«Ла Джудерия» еврейский квартал Родоса, Греция'
 sections:
-- text: The Jewish Community of the Island of Rhodes has a rich history that dates
-    back to the second century BC, with the earliest reference to it appearing in
-    the book of Maccabees. Other references to the Jewish presence in the Island are
-    found in the writings of the Jewish historian Josephus Flavius. The Jews of Rhodes
-    like the other Jews living in Greece and in its Islands spoke Greek and conducted
-    the religious services in Greek, following the Romaniote rite, which is distinct
-    from Sephardi, Ashkenaz, and Italian rites.
+- text: |-
+    Еврейская община острова Родос имеет богатую историю, которая восходит ко второму веку до нашей эры, и самое раннее упоминание о ней встречается в книге Маккавеев. Другие упоминания о еврейском присутствии на острове можно найти в трудах еврейского историка Иосифа Флавия. Евреи Родоса, как и другие евреи, живущие в Греции и на её островах, говорили по-гречески и проводили религиозные службы на греческом языке, следуя обряду романиотов, который отличается от обрядов сефардов, ашкеназов и итальянцев. 
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_1_thumb.jpg"
         href: img/pages/jewish-quarter/la_juderia_1.jpg
-        alt: Rhodes Jewish Quarter - Rhodes Jewish Tour
-      caption: <strong>"Al Chatef"</strong> street is named for an honored family
-        who once lived here in Rhodes.
+        alt: Улица «Аль-Хатеф» 
+      caption: Улица «Аль-Хатеф» названа в честь уважаемой семьи, которая когда-то жила здесь на Родосе
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_2_thumb.jpg"
         href: img/pages/jewish-quarter/la_juderia_2.jpg
-        alt: Jewish Quarter in Rhodes - Jewish Tours in Rhodes Greece
-      caption: The Jewish Quarter.
+        alt: Еврейский квартал Родоса, Греция
+      caption: Еврейский квартал
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_3_thumb.jpg"
         href: img/pages/jewish-quarter/la_juderia_3.jpg
-        alt: Jewish Community of Rhodes Greece - Best Jewish Tour in Rhodes
-      caption: "<strong>Israelite Universelle School:</strong> The dedication plaque
-        above the fountain of the Jewish school of Rhodes is all that exists today."
+        alt: Школа Israelite Universelle
+      caption: 'Школа Israelite Universelle: мемориальная доска над фонтаном еврейской школы Родоса – это все, что существует сегодня'
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_4_thumb.jpg"
         href: img/pages/jewish-quarter/la_juderia_4.jpg
-        alt: Rhodes Greece Jewish Quarter - Best Tour od Rhodes Jewish Quarter
-      caption: The Jewish Quarter
-- text: 'The Jewish community in Rhodes was most affected within the last 500 years
-    by the influx of Jews from Spain, who fled at the time of the Spanish Inquisition.
-    Their descendants are referred to as Sephardic Jews, derived from "Sepharad",
-    the Hebrew word for Spain. These Jews brought with them their culture, their customs
-    and traditions, one amongst the cultural aspects was linguistic, the language
-    they spoke was Espanyol, as they called it, also referred to as a Ladino and "Judeo-Spanish".
-    The Jewish Quarter of the mediaeval town was affectionately known as **"La Juderia"**. '
+        alt: Еврейский квартал
+      caption: Еврейский квартал
+- text: |-
+    **Еврейская община Родоса** больше всего пострадала от притока евреев из Испании за последние 500 лет, бежавших во времена испанской инквизиции. Их потомков называют сефардскими евреями, происходящими от «сефарда», еврейского слова, обозначающего Испанию. Эти евреи принесли с собой свою культуру, свои традиции и обычаи. Одним из культурных аспектов был лингвистический, язык, на котором они говорили, был испанский, как они его называли, также называемый ладино и «иудео-испанский». Еврейский квартал Средневекового города ласково называли **«Ла Джудерия».**
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_5_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_5.jpg"
-        alt: The Jewish Community of Rhodes Greece - Jewish Guided Walking Tour
-      caption: The Jewish Quarter
+        alt: Еврейская община Родоса, Греция
+      caption: Еврейская община Родоса, Греция
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_6_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_6.jpg"
-        alt: The Jewish Quarter in Rhodes Greece - Jewish Tour of Rhodes Greece
-      caption: The Jewish Quarter
+        alt: Еврейская община Родоса, Греция
+      caption: Еврейская община Родоса, Греция
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_7_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_7.jpg"
-        alt: Rhodes Greece Jewish Quarter - Rhodes Best Jewish Tours
-      caption: The Jewish Quarter
+        alt: Еврейская община Родоса, Греция
+      caption: Еврейская община Родоса, Греция
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_8_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_8.jpg"
-        alt: Rhodes Jewish Quarter Tour
-      caption: The Jewish Quarter
-- text: At the start of the 20th century, many young Jews left the Island in search
-    of higher economic opportunities in America and in Africa. In the early 1920s
-    the community had reached its peak population of 4.500 souls. In 1943 Rhodes was
-    taken by the Germans, and on July 23 of the subsequent year, 1673 members of the
-    Jewish community were arrested and deported to the Auschwitz extermination camp,
-    where most of them were slaughtered. Only 151 survived. In 1947 the Island was
-    ceded to Greece. Today there are not many of Jews living in Rhodes.
-- text: "**The Square of the Jewish Martyrs in Rhodes** (known in Greek as Evreon
-    Martyron) is found within the heart of the previous Jewish Quarter. The Square
-    was originally a region of Jewish homes and little shops. However, the area was
-    bombed during World War II, and in its place was established a tiny little park
-    and square. The present fountain ornamented with three seahorses replaced a previous
-    fountain that was destroyed during WWII. The Holocaust Memorial was dedicated
-    on June 23, 2002, in memory of the World War II victims from the islands of Rhodes
-    and Cos."
+        alt: Еврейская община Родоса, Греция
+      caption: Еврейская община Родоса, Греция
+- text: |-
+    В начале 20 века многие молодые евреи покинули остров в поисках более высоких экономических возможностей в Америке и Африке. В начале 1920-х годов община достигла своего пика по численности и составляла 4500 человек. В 1943 году Родос был взят немцами, а 23 июля следующего года 1673 члена еврейской общины были арестованы и депортированы в концлагерь Освенцим, где большинство их них было уничтожено. Выжили только 151 человек. В 1947 году остров был передан Греции. Сегодня на Родосе живет не так много евреев.
+
+    **Площадь еврейских мучеников** (известная по-гречески как Эвреон Мартирон ) находится в самом сердце бывшего Еврейского квартала в Старом городе Родос. Площадь изначально была районом еврейских домов и магазинов. Однако во время Второй Мировой войны площадь подверглась бомбардировке, и на её месте был организован небольшой парк и сквер. Нынешний фонтан, украшенный тремя морскими коньками, заменил предыдущий фонтан, разрушенный во время Второй Мировой войны. Мемориал, посвящённый жертвам Холокоста, был открыт 23 июня 2002 года в память о жертвах Второй Мировой войны с островов Родос и Кос.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_9_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_9.jpg"
-        alt: The Square of the Jewish Martyrs in Rhodes - Guided Tour of Rhodes Town
-      caption: "<strong>The Square of the Martyred Jews:</strong> The fountain with
-        three seahorses"
+        alt: Площадь Еврейских мучеников
+      caption: 'Площадь Еврейских мучеников: фонтан с тремя морскими коньками'
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_10_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_10.jpg"
-        alt: The fountain with three seahorses in the Jewish Quarter - Walking Tour
-          of Rhodes Town
-      caption: "<strong>The Square of the Martyred Jews:</strong> The fountain with
-        three seahorses"
+        alt: Площадь Еврейских мучеников
+      caption: 'Площадь Еврейских мучеников: фонтан с тремя морскими коньками'
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_11_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_11.jpg"
-        alt: The Holocaust Memorial in the Square of the Jewish Martyrs - Private
-          Tour in Rhodes Town
-      caption: "<strong>The Holocaust Memorial</strong> was dedicated on June 23,
-        2002 in memory of the World War II victims from Rhodes and the island of Cos."
+        alt: Мемориал, посвященный жертвам Холокоста
+      caption: "Мемориал, посвященный жертвам Холокоста, был открыт 23 июня 2002 года в память о жертвах Второй Мировой войны с островов Родос и Кос"
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_12_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_12.jpg"
-        alt: The Square of the Martyred Jews in Rhodes Greece - Shore Excursion in
-          Rhodes Town
-      caption: "<strong>The Square of the Martyred Jews:</strong> The fountain with
-        three seahorses"
-- text: '**Rhodes Synagogue - The Kahal Shalom Synagogue**. Built in the year 1577,
-    the Kahal Shalom is the oldest synagogue in Greece and the sole remaining Jewish
-    synagogue on Rhodes still actively holding services. the complete name of the
-    building is Kahal Kadosh Shalom (Holy Congregation of Peace). The inside of the
-    Kahal Shalom Synagogue follows the standard Sephardic type of having the "tevah"
-    (the prayer reading table) within the center of the sanctuary facing southeast
-    toward Jerusalem. As a result of a liberalization of religious policy, in 1935
-    a balcony was created to be used as a women''s prayer area. Before that point
-    the ladies sat within the rooms adjacent to the south wall of the synagogue that
-    viewed the sanctuary through curtained openings. Those rooms are converted into
-    the Jewish Museum of Rhodes.'
+        alt: Площадь Еврейских мучеников
+      caption: "Площадь Еврейских мучеников: фонтан с тремя морскими коньками"
+- text: |-
+    **Родосская синагога** -- **Синагога Кахаль Шалом**. Построенная в 1577 году, Кахаль Шалом является старейшей синагогой в Греции и единственной сохранившейся еврейской синагогой на Родосе, в которой до сих пор активно проводятся службы. Полное название здания -- Кахаль Кадош Шалом (Святая Конгрегация Мира). Внутренняя часть синагоги Кахаль Шалом соответствует стандартному сефардскому типу, когда в центре святилища находится «тева» (стол для чтения молитв), обращённый на юго-восток в сторону Иерусалима. В результате либерализации религиозной политики в 1935 году был создан балкон для использования в качестве женской молитвенной зоны. До этого дамы сидели в комнатах, примыкающих к южной стене синагоги, которые смотрели на святилище через занавешенные отверстия. Эти комнаты превращены в Еврейский музей Родоса.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_13_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_13.jpg"
-        alt: Rhodes Synagogue Tour
-      caption: The interior of the Kahal Shalom synagogue follows the traditional
-        Sephardic style
+        alt: синагоги Кахаль Шалом
+      caption: Интерьер синагоги Кахаль Шалом выполнен в традиционном сефардском стиле.
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_14_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_14.jpg"
-        alt: Tour of Rhodes Synagogue
-      caption: The Sephardic style of having the "tevah" (the prayer reading table)
-        in the center of the sanctuary facing southeast toward Jerusalem.
+        alt: сефардском стиле «тева»
+      caption: В сефардском стиле «тева» (стол для чтения молитв) в центре святилища, которая обращена на юго-восток в сторону Иерусалима.
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_15_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_15.jpg"
-        alt: Rhodes Synagogue Guided Walking Tour
-      caption: There is also a balcony that was created in 1935, as a result of a
-        liberalization of religious policy, to be used as a women's prayer area.
+        alt: Балкон, созданный в 1935
+      caption: Балкон, созданный в 1935 году в результате либерализации религиозной политики и предназначенный для использования в качестве женской молитвенной зоны.
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_16_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_16.jpg"
-        alt: Synagogue of Rhodes - Private Shore Excursion
-      caption: The interior of the Kahal Shalom synagogue
-- text: '**The Rhodes Jewish Museum.** Here you''ll be given information regarding
-    the historical exhibition, created by Aron Hasson, which is found in the rooms
-    formerly used as the women''s prayer rooms at the "Kahal Shalom" synagogue. it''s
-    home to a memorial of the once big Jewish community in Rhodes, displaying many
-    photos and memorial plaques.          '
+        alt: Интерьер синагоги Кахаль Шалом
+      caption: Интерьер синагоги Кахаль Шалом
+- text: |-
+    **Родосский еврейский музей**. Здесь вам будет предоставлена информация об исторической выставке, созданной Ароном Хассоном, которая находится в помещениях, ранее использовавшихся в качестве женских молельных в синагоге «Кахаль Шалом». Здесь находится мемориал некогда большой еврейской общины Родоса с множеством фотографий и мемориальных досок.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_17_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_17.jpg"
-        alt: Rhodes Jewish Museum - Tour of the Jewish Museum
+        alt: Родосский еврейский музей, Греция
       caption: ''
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_18_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_18.jpg"
-        alt: Tour of the Jewish Museum of Rhodes
+        alt: Родосский еврейский музей, Греция
       caption: ''
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_19_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_19.jpg"
-        alt: Rhodes Town Museums - Rhodes Guided Tour
+        alt: Родосский еврейский музей, Греция
       caption: ''
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_20_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_20.jpg"
-        alt: Jewish Museum of Rhodes Tour
+        alt: Родосский еврейский музей, Греция
       caption: ''
-- text: "**Aron Hasson - The founder of Rhodes Jewish Museum.** He was born in Los
-    Angeles and he is a 3rd generation “Rhodesli”. He is an attorney in L.A. where
-    he has been practicing immigration law since 1980. He was inspired to go to the
-    island of Rhodes in 1975 by stories told to him by his grandparents. Its special
-    charm and history fascinated him. Several years later, in 1995, he came back to
-    Rhodes together with his family for his children to find out  of their family
-    heritage. It was during that visit that he noticed the requirement of advancing
-    the general public awareness and appreciation of its unique history unfortunately
-    devastated by the Holocaust."
+- text: |-
+    **Арон Хассон** -- **основатель еврейского музея Родоса**. Он родился в Лос-Анджелесе и является «Родесли» в третьем поколении. Он работает адвокатом в Лос-Анджелесе, где занимается иммиграционным правом с 1980 года. Истории, рассказанные ему бабушкой и дедушкой, вдохновили его на поездку на остров Родос в 1975 году. Особый шарм и история очаровали его. Несколько лет спустя, в 1995 году, он вернулся на Родос вместе со своей семьёй, чтобы его дети узнали о своём семейном наследии. Именно во время этого визита он заметил необходимость повышения осведомлённости широкой общественности и признания уникальной истории еврейской общины Родоса, к сожалению, опустошенной Холокостом. В 1997 году Арон Хассон основал Еврейский исторический фонд Родоса, некоммерческую организацию, созданную для сохранения уникальной истории и культурного наследия евреев Родоса, а также для того, чтобы служить связующим звеном между прошлыми, настоящими и будущими поколениями «Родесли» по всему миру.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_25_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_25.jpg"
-        alt: Aron Hasson, the founder of the Jewish Museum of Rhodes
-      caption: Aron Hasson, the founder of the Jewish Museum of Rhodes
+        alt: Арон Хассон, основатель Еврейского музея Родоса
+      caption: Арон Хассон, основатель Еврейского музея Родоса
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_26_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_26.jpg"
-        alt: The Rhodes Jewish Historical Foundation
-      caption: The Rhodes Jewish Historical Foundation was established to preserve
-        the unique history of the Jews of Rhodes.
+        alt: Еврейский исторический фонд Родоса 
+      caption: Еврейский исторический фонд Родоса был создан для сохранения уникальной истории евреев Родоса
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_27_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_27.jpg"
-        alt: Aron Hasson
-      caption: Museum Established in 1997 - Aron on 1st day
+        alt: Арон в первый день открытия музея в 1997 году
+      caption: Арон в первый день открытия музея в 1997 году
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_28_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_28.jpg"
-        alt: Nicholas with Aron Hasson on Rhodes Island
-      caption: Nicholas with Aron Hasson on Rhodes Island
-- text: _I recently met Aron Hasson in Rhodes. It was my pleasure and honor to meet
-    the person who spearheaded the movement to preserve the vital history of the Jews
-    of Rhodes. I respect those trying to keep alive Rhodian history. In 1997, Hasson
-    founded the Rhodes Jewish Historical Foundation, a non-profit organization established
-    to preserve the unique history and cultural background of the Jews of Rhodes,
-    and to function as a link between the past, present and future generations of
-    “Rhodeslis” around the world._
-- text: "**The Jewish Cemetery.** Originally the Jewish cemeteries were located inside
-    the Old City of Rhodes. In the 1930s, the Italian government forced the relocation
-    of the cemeteries from the Juderia to an area outside the Old City walls and into
-    its present location in the new city . The Jewish Cemetery is one of the best
-    preserved in Europe and contains tombstones from the 1500s to the present. It
-    is located outside the Old City of Rhodes along the main road towards Kalitheas
-    and Faliraki. Excavations of additional tombstones are continuing. During the
-    last five years over 300 burial stones have been uncovered."
+        alt: Списки имён в память о жертвах Холокоста
+      caption: Списки имён в память о жертвах Холокоста
+- text: |-
+    **Еврейское кладбище**. Первоначально еврейское кладбище располагалось внутри Старого города Родос. В 1930-х годах итальянское правительство вынудило еврейскую общину Родоса перенести кладбище из района «Ла Джудерия» за пределы стен Старого города, на его нынешнее место в новом городе. Еврейское кладбище является одним из наиболее хорошо сохранившихся в Европе и содержит надгробные плиты начиная с 1500-х годов и до наших дней. Оно расположено за пределами Старого города Родос, вдоль главной дороги, ведущей в Калифею и Фалираки. Раскопки в поисках надгробий продолжаются, за последние пять лет было обнаружено более 300 надгробий.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_29_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_29.jpg"
-        alt: Rhodes Jewish Cemetery
-      caption: A marble monument identifies the 2,000 Jews of Rhodes and Kos killed
-        during the Holocaust
+        alt: Мраморный памятник
+      caption: Мраморный памятник идентифицирует 2000 евреев Родоса и Коса, убитых во время Холокоста.
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_30_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_30.jpg"
-        alt: The Jewish Cemetery of Rhodes Greece
-      caption: Excavated tombstones lined up ready for translating and viewing in
-        the Jewish Cemetery
+        alt: Надгробия
+      caption: Надгробия, найденные во время раскопок, выставленные на обозрение на еврейском кладбище
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_31_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_31.jpg"
-        alt: Rhodes Jewish Cemetery
-      caption: The Jewish Cemetery
+        alt: Еврейское кладбище
+      caption: Еврейское кладбище
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_32_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_32.jpg"
-        alt: Rhodes Greece Jewish Cemetery
-      caption: 1938 Relocation of the Jewish Cemetery to its present site
+        alt: еврейского кладбища
+      caption: Перенос еврейского кладбища в 1938 году на его нынешнее место
   gallery2:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_33_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_33.jpg"
-        alt: The Jewish Cemetery of the Jewish Community of Rhodes
-      caption: The Jewish Cemetery
+        alt: Еврейское кладбище
+      caption: Еврейское кладбище
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_34_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_34.jpg"
-        alt: Jewish Cemetery Rhodes Greece
-      caption: The main path in the Jewish Cemetery
+        alt: Главный путь на еврейском кладбище
+      caption: Главный путь на еврейском кладбище
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_35_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_35.jpg"
-        alt: Rhodes Greece Jewish Cemetery
-      caption: The Jewish Cemetery
+        alt: Еврейское кладбище
+      caption: Еврейское кладбище
     - image:
         thumb: "/img/pages/jewish-quarter/la_juderia_36_thumb.jpg"
         href: "/img/pages/jewish-quarter/la_juderia_36.jpg"
-        alt: Rhodes Jewish Cemetery of the Jewish Community
-      caption: The Jewish Cemetery
-- text: '**The "Rhodesli"** are a little-known Sephardic sect that moved to the Mediterranean
-    island of Rhodes in 1492 following their expulsion from Spain and Portugal. They
-    lived on Rhodes until WW2. Their culture, which is began in 800 B.C. survives
-    as a little émigré community in Los Angeles. Their complex ethnic and spiritual
-    heritage is exclusive in the world today. The Rhodesli are Jews who speak an uncommon
-    medieval Spanish dialect (Ladino) and detect traditions derived from Turkish,
-    Moorish, Spanish, and Jewish sources that remain mostly unchanged from centuries
-    past.'
+        alt: Еврейское кладбище
+      caption: Еврейское кладбище
+- text: |-
+    **«Родесли»** - малоизвестная сефардская община, переселившаяся на средиземноморский остров Родос в 1492 году после изгнания из Испании и Португалии. Представители общины жили на Родосе до Второй Мировой войны. Их культура, зародившаяся в 800 г. до н.э., выживает как небольшая эмигрантская община в Лос-Анджелесе. Их сложное этническое и духовное наследие сегодня является исключительным в мире. Родесли -- это евреи, говорящие на необычном средневековом испанском диалекте (ладино) и обнаруживающие традиции, заимствованные из турецких, мавританских, испанских и еврейских источников, которые практически не изменились с прошлых столетий.
 related_tours:
 - jewish_tours
 ---
