@@ -167,8 +167,8 @@ sections:
         alt: Арон в первый день открытия музея в 1997 году
       caption: Арон в первый день открытия музея в 1997 году
     - image:
-        thumb: "/img/pages/jewish-quarter/la_juderia_28_thumb.jpg"
-        href: "/img/pages/jewish-quarter/la_juderia_28.jpg"
+        thumb: "/img/pages/jewish-quarter/la_juderia_28_thumb.jpg?v2"
+        href: "/img/pages/jewish-quarter/la_juderia_28.jpg?v2"
         alt: Списки имён в память о жертвах Холокоста
       caption: Списки имён в память о жертвах Холокоста
 - text: |-
