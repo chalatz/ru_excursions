@@ -1,6 +1,6 @@
 ---
-title: Rhodes Ceramics - Rhodes Lindos Pottery
-permalink: greek_pottery.htm
+title: КЕРАМИКА РОДОСА, ГРЕЦИЯ, (РОДОССКАЯ КЕРАМИКА)
+permalink: keramika-rodosa-gretsiya.htm
 layout: gallery-page
 type: gallery-page
 id: pottery
@@ -8,126 +8,111 @@ has_gallery: true
 has_destinations: true
 has_banners: true
 meta:
-  title: Rhodes Ceramics, Rhodes Lindos Pottery, Rhodes Pottery Greece
-  http_desc: Rhodes Ceramics, Rhodes Lindos Pottery, Rhodes Pottery Greece, Handmade
-    potteries in Rhodes Island Greece
-  keywords: Rhodes Ceramics, Rhodes Lindos Pottery, Rhodes Pottery Greece, Handmade
-    potteries in Rhodes Island Greece
-  description: Rhodes Ceramics, Rhodes Lindos Pottery, Rhodes Pottery Greece, Handmade
-    potteries in Rhodes Island Greece
-  abstract: Rhodes Ceramics Greece, Lindos Pottery
+  title: КЕРАМИКА РОДОСА, ГРЕЦИЯ, РОДОССКАЯ КЕРАМИКА
+  http_desc: КЕРАМИКА РОДОСА, ГРЕЦИЯ, РОДОССКАЯ КЕРАМИКА, Краснофигурная керамическая ваза, Искусство дизайна сквозь века, Музейная копия керамического сосуда, Гончарные изделия ручной работы на Родосе, современная керамика, Родос, Греция
+  keywords: КЕРАМИКА РОДОСА, ГРЕЦИЯ, РОДОССКАЯ КЕРАМИКА, Краснофигурная керамическая ваза, Искусство дизайна сквозь века, Музейная копия керамического сосуда, Гончарные изделия ручной работы на Родосе, современная керамика, Родос, Греция
+  description: КЕРАМИКА РОДОСА, ГРЕЦИЯ, РОДОССКАЯ КЕРАМИКА, Краснофигурная керамическая ваза, Искусство дизайна сквозь века, Музейная копия керамического сосуда, Гончарные изделия ручной работы на Родосе, современная керамика, Родос, Греция
+  abstract: КЕРАМИКА РОДОСА, ГРЕЦИЯ, РОДОССКАЯ КЕРАМИКА
 head_photo:
   img: "/img/pages/pottery/head-photo.jpg"
   mobile: "/img/pages/pottery/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: '"Culture", both a particular stage of civilization and the characteristics
-    of its people, can be seen in its language, religion, cuisine, social habits,
-    and arts. Greek culture has long been understood through its architecture and
-    its artifacts, including its pottery. As an important record of ancient Greek
-    history, pottery paints a picture of every aspect of Greek life: daily life and
-    cooking; celebrations, like banquets and weddings; religious ceremonies, including
-    funerals; and even sporting events. The island of Rhodes is known for its pottery
-    and ceramics, and documentation shows that clay bricks from Rhodes were used to
-    build the dome of Constantinople''s "Agia Sofia" Byzantine church.'
+- text: |-
+    «Культуру», как определённый этап развития цивилизации, так и характеристики её народа, можно увидеть в её языке, религии, кухне, социальных привычках и искусстве. Греческую культуру давно научились понимать через её архитектуру и артефакты, в том числе керамику. Являясь важным свидетельством древнегреческой истории, керамика отображает картину каждого аспекта греческой жизни: повседневной жизни и приготовления пищи; торжеств, таких как пиршества и свадьбы; религиозных церемоний, включая похороны; и даже спортивных мероприятий. Остров Родос издавна славился своей глиняной посудой и керамическими изделиями, документальные факты свидетельствуют, что глиняные кирпичи родосского производства использовались для строительства купола византийского собора Святой Софии в Константинополе. 
   gallery:
     items_per_row: 5
     items:
     - image:
         thumb: "/img/pages/pottery/1-thumb.jpg"
         href: "/img/pages/pottery/1.jpg"
-        alt: Rhodes Greece Ceramics
-      caption: Red Figure Design Pottery
+        alt: Родос, Греция, керамика
+      caption: Краснофигурный керамический сосуд
     - image:
         thumb: "/img/pages/pottery/2-thumb.jpg"
         href: "/img/pages/pottery/2.jpg"
-        alt: Rhodes Lindos Pottery
-      caption: Red Figure Design Pottery
+        alt: Родос, Линдос, гончарные сосуды
+      caption: Краснофигурный керамический сосуд
     - image:
         thumb: "/img/pages/pottery/3-thumb.jpg"
         href: "/img/pages/pottery/3.jpg"
-        alt: Rhodes Greek Pottery
-      caption: Black Figure Design Pottery
+        alt: Родосская греческая керамика
+      caption: Краснофигурный керамический сосуд
     - image:
         thumb: "/img/pages/pottery/4-thumb.jpg"
         href: "/img/pages/pottery/4.jpg"
-        alt: Lindos Ceramics Rhodes
+        alt: Линдос, керамика, Родос
       caption: Red Figure Design Pottery
     - image:
         thumb: "/img/pages/pottery/5-thumb.jpg"
         href: "/img/pages/pottery/5.jpg"
-        alt: Rhodes Greece Pottery
-      caption: Red Figure Design Pottery
-- title: Centuries of Design
+        alt: Родос, Греция, гончарные изделия
+      caption: Краснофигурный керамический сосуд
+- title: Искусство дизайна сквозь века
   text: |-
-    Ancient Greek pottery designs have changed over time. Vases were formed based on their function, and the names for parts of the vase corresponded to parts of the body mouth, shoulder, belly, and foot. They were frequently decorated with scenes that reflected their function. Early 8th century B.C. pottery featured bold geometric patterns, which almost entirely covered the surface in brown and black lines and shapes.
+    Дизайн древнегреческой керамики со временем менялся. Вазы создавались на основе их функций, различались по типам, а названия частей сосуда соответствовали частям тела, таким как рот, шея, плечо, живот, нога. Их часто украшали сценами, отражающими их назначение. В начале 8 века до н.э. керамические сосуды отличались смелыми геометрическими узорами, которые почти полностью покрывали поверхность коричневыми и чёрными линиями.
 
-    Over time, this design pattern incorporated stylized figures of humans, animals, and birds as well. In 700 B.C., Corinth produced the first black-figure pottery, so named because its surface depictions were black.
+    Со временем в этот шаблон дизайна вошли стилизованные фигуры людей, животных и птиц. В 700 г. до н.э. в Коринфе были изготовлены первые образцы чёрно-фигурной керамики, названной так потому, что изображения на её поверхности были чёрными.
 
-    Pottery painters in Attica adopted this style, and from 625 B.C. to 475 B.C., Athens dominated the Mediterranean pottery market. In 530 B.C., red figures were outlined with black slip backgrounds. Red-figure pottery was popular for 130 years. Though these techniques were used throughout the Greek world, craftsmen from Rhodes Island , on the east side of the Aegean Sea , used spirals, curvilinear patterns, and lively drawings in their designs.
+    Художники-гончары в Аттике переняли этот стиль, и с 625 г. до н.э. вплоть до 475 г. до н.э. Афины доминировали на средиземноморском рынке керамики. В 530 г. до н.э. появляется красно-фигурная керамика, где на чёрном фоне изображены красные фигуры, данный стиль был популярен на протяжении 130 лет. Эти стили и техники постепенно стали популярны и использовались во всем греческом мире. Мастера с острова Родос, расположенного в юго-восточной части Эгейского моря, часто использовали характерные для региона узоры и орнаменты, такие как спираль, меандр, полумесяц, растительные и цветочные изображения, геометрические линии и фигуры.   
   gallery:
     items_per_row: 5
     items:
     - image:
         thumb: "/img/pages/pottery/6-thumb.jpg"
         href: "/img/pages/pottery/6.jpg"
-        alt: Rhodes Pottery Greece
-      caption: Museum Replica Pottery
+        alt: Родос, керамика, Греция
+      caption: Музейная копия керамического сосуда
     - image:
         thumb: "/img/pages/pottery/7-thumb.jpg"
         href: "/img/pages/pottery/7.jpg"
-        alt: Lindos Rhodes Ceramics
+        alt: Линдос, Родос, керамика
       caption: Red Figure Design Pottery
     - image:
         thumb: "/img/pages/pottery/8-thumb.jpg"
         href: "/img/pages/pottery/8.jpg"
-        alt: Greek Pottery in Rhodes
-      caption: Geometric Design Pottery
+        alt: Греческая керамика на Родосе
+      caption: Краснофигурный керамический сосуд
     - image:
         thumb: "/img/pages/pottery/9-thumb.jpg"
         href: "/img/pages/pottery/9.jpg"
-        alt: Rhodes Greece Ceramics
-      caption: Museum Replica Pottery
+        alt: Родос, Греция, керамика
+      caption: Геометрический керамический сосуд
     - image:
         thumb: "/img/pages/pottery/10-thumb.jpg"
         href: "/img/pages/pottery/10.jpg"
-        alt: Contemporary Lindos Pottery
-      caption: Black Figure Design Pottery
-- title: Handmade potteries in Rhodes - Modern Pottery
-  text: Just as Rhodes potters were known throughout the ancient world for their skill,
-    so are today's artisans recognized for their talents. They utilize traditional
-    techniques and reproduce pottery in traditional Rhodes styles, but they also use
-    modern colors and designs to create works which represent their personal perspectives.
-    The result is a blend of old and new that will continue to distinguish Rhodes
-    pottery around the world.
+        alt: Современная Линдская керамика
+- title:  Гончарные изделия ручной работы на Родосе – современная керамика
+  text: |-
+    Точно так же, как гончары Родоса были известны во всем древнем мире своим мастерством, так и сегодняшние ремесленники известны своими талантами. Они используют старинные техники и производят традиционную родосскую керамику, а также задействуют современные цвета и дизайн, и создают новые изделия, отражающие их личные взгляды. В результате получается сочетание старого и нового, которое будет по-прежнему отличать родосскую керамику во всем мире
   gallery:
     items_per_row: 5
     items:
     - image:
         thumb: "/img/pages/pottery/11-thumb.jpg"
         href: "/img/pages/pottery/11.jpg"
-        alt: Contemporary Greek Pottery
-      caption: Vase with Gold Trim
+        alt: Современная греческая керамика
+      caption: Ваза с золотой отделкой
     - image:
         thumb: "/img/pages/pottery/12-thumb.jpg"
         href: "/img/pages/pottery/12.jpg"
-        alt: Rhodes Pottery Greece
-      caption: Relief Pottery Vase
+        alt: Родос, керамика, Греция
+      caption: Рельефная гончарная ваза
     - image:
         thumb: "/img/pages/pottery/13-thumb.jpg"
         href: "/img/pages/pottery/13.jpg"
-        alt: Handmade in Rhodes Ceramics
-      caption: Relief Pottery Vase
+        alt: Родосская керамика ручной работы
+      caption: Рельефная гончарная ваза
     - image:
         thumb: "/img/pages/pottery/14-thumb.jpg"
         href: "/img/pages/pottery/14.jpg"
-        alt: Greek pottery facts
-      caption: Rhodes Ceramic Vase
+        alt: Факты о греческой керамике
+      caption: Родосская керамическая ваза
     - image:
         thumb: "/img/pages/pottery/15-thumb.jpg"
         href: "/img/pages/pottery/15.jpg"
-        alt: Ceramic Plates Rhodes
-      caption: Traditional Relief Style
+        alt: Керамические тарелки Родоса
+      caption: Традиционный рельефный стиль
 related_tours:
 - best_rhodes
 - rhodes_in_a_day
