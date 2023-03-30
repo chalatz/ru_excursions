@@ -1,6 +1,6 @@
 ---
-title: Byzantine Monuments in Rhodes
-permalink: byzantine.htm
+title: ВИЗАНТИЙСКИЕ ПАМЯТНИКИ РОДОСА
+permalink: vizantiyskiye-pamyatniki-rodosa.htm
 layout: gallery-page
 type: gallery-page
 id: byzantine
@@ -8,85 +8,71 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Rhodes Tours, Byzantine Monuments in Rhodes, Rhodes Historical Tours
-  http_desc: Rhodes Tours, Byzantine Monuments in Rhodes Greece, Rhodes Historical
-    Tours
-  keywords: Rhodes Tours, Byzantine Monuments in Rhodes Greece, Rhodes Historical
-    Tours
-  description: Rhodes Tours, Byzantine Monuments in Rhodes Greece, Rhodes Historical
-    Tours, Byzantine Archaeological Sights Landmarks and Architecture
-  abstract: Rhodes Tours, Byzantine Monuments in Rhodes
+  title: Византийские памятники РодосаКерамика Родоса, Греция, Родосская керамика
+  http_desc: Византийские памятники Родоса, Византийские Памятники, Родос, Греция
+  keywords: Византийские памятники Родоса, Византийские Памятники, Родос, Греция
+  description: Византийские памятники Родоса, Византийские Памятники, Родос, Греция
+  abstract: Византийские памятники Родоса
 head_photo:
   img: "/img/pages/byzantine-monuments/head-photo.jpg"
   mobile: "/img/pages/byzantine-monuments/head-photo-mobile.jpg"
   alt_text: ''
 sections:
 - text: |-
-    During the first Christian period (330-650 A.D.) Rhodes belonged to a part of the Christianized empire called the Byzantine Empire. The Island was a very important military base. As a significant Byzantine trading port, it was also a crossroads for ships sailing between Constantinople and Alexandria.
+    В раннехристианский период (330-650 гг. н.э.) Родос входил в состав Византийской империи. Остров был очень важной военной базой. Будучи значимым византийским торговым портом, он также являлся перекрёстком для кораблей, курсирующих между Константинополем и Александрией. 
 
-    The Byzantine fortified walls of Rhodes (7th c. -13th c.) divided the town into two sections:
+    Византийские крепостные стены Родоса (7-13 вв. н.э.) делили город на две части:
 
-    A) The Acropolis (later the Palace of the Grand Masters) and therefore the Upper Town which is that the area surrounding the acropolis (later the Collachio).
+    **А)** Акрополь (позже на его месте появится Дворец Великих Магистров), и следовательно, Верхний город, который представляет собой территорию, окружающую Акрополь (район потом будет назван Коллакио).
 
-    B) The Lower Town (later the Burgum). Today parts of this fortification survive mostly within the Collachio, incorporated into later structures. Rhodes city had an excellent number of churches, among them some basilicas of impressive dimensions.
+    **В)** Нижний город (позже эта часть города будет называться Бурго). Сегодня фрагменты его фортификаций сохраняются в районе Коллакио (Верхнего города), где их использовали при постройке более поздних укреплений. В городе Родос было большое количество церквей, в том числе несколько базилик внушительных размеров.
 - gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/byzantine-monuments/byzantine_st_mary_church_mod_small.jpg"
         href: "/img/pages/byzantine-monuments/byzantine_st_mary_church_mod.jpg"
-        alt: Panagia tou Kastrou, Virgin of the Fort, Rhodes Private Tours
-      caption: The thirteenth century Byzantine Church of St Mary (Panagia tou Kastrou
-        or Virgin of the Fort), which later became the first cathedral of the Knights.
+        alt: Византийская церковь Святой Марии
+      caption: Византийская церковь Святой Марии 13 в. (Панагия ту Кастру или Богородица Крепости), которая позже стала первым кафедральным собором рыцарей иоаннитов. 
     - image:
         thumb: "/img/pages/byzantine-monuments/byzantine_st_constantine_church_mod_small.jpg"
         href: "/img/pages/byzantine-monuments/byzantine_st_constantine_church_mod.jpg"
-        alt: Byzantine Church of Saints Constantine and Helen,12th - 13th, Private
-          Tours in Rhodes
-      caption: Byzantine church of St Constantine and Helen 12th - 13th c.
+        alt: Византийская церковь Святых Константина и Елены
+      caption: Византийская церковь Святых Константина и Елены 12-13 вв. 
     - image:
         thumb: "/img/pages/byzantine-monuments/byzantine_clock_tower_mod_small.jpg"
         href: "/img/pages/byzantine-monuments/byzantine_clock_tower_mod.jpg"
-        alt: The clock tower, Private Tours in Rhodes Greece
-      caption: The clock tower stands on the site of the original north-west tower
-        of the internal fortifications of the Collachium, (former Byzantine fortifications).
+        alt: Башня с часами
+      caption: Башня с часами стоит на месте первоначальной северо-западной башни внутренних фортификаций Коллакио (бывших византийских укреплений).
     - image:
         thumb: "/img/pages/byzantine-monuments/byzantine_fortifications_mod_small.jpg"
         href: "/img/pages/byzantine-monuments/byzantine_fortifications_mod.jpg"
-        alt: The Byzantine fortifications, Rhodes Private Tours
-      caption: A part of the former Byzantine Wall which divided the town into two
-        sections
+        alt: Часть бывшей византийской стены
+      caption: Часть бывшей византийской стены, которая делила город на две части.
 - gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/byzantine-monuments/byzantine_archangel_michael_church_mod_small.jpg"
         href: "/img/pages/byzantine-monuments/byzantine_archangel_michael_church_mod.jpg"
-        alt: Early Christian Byzantine Church of Archangel Michael, cruise shore excursions
-          in Rhodes Greece
-      caption: Early Christian Byzantine church of Archangel Michael.
+        alt: Раннехристианская византийская церковь Архангела Михаила.
+      caption: Раннехристианская византийская церковь Архангела Михаила.
     - image:
         thumb: "/img/pages/byzantine-monuments/byzantine_archangel_michael_church_2_mod_small.jpg"
         href: "/img/pages/byzantine-monuments/byzantine_archangel_michael_church_2_mod.jpg"
-        alt: Early Christian Byzantine Church of Archangel Michael, cruise shore excursions
-          in Rhodes Greece
+        alt: Раннехристианская византийская церковь Архангела Михаила.
       caption: The church of Archangel Michael
     - image:
         thumb: "/img/pages/byzantine-monuments/byzantine_st_spyridon_church_mod_small.jpg"
         href: "/img/pages/byzantine-monuments/byzantine_st_spyridon_church_mod.jpg"
-        alt: The thirteenth century Byzantine Church of St. Spyridon, Greece Rhodes
-          cruise excursions
-      caption: Byzantine church of St. Spyridon of 13th c (which is converted to mosque
-        during the Ottoman era).
+        alt: Византийская церковь Святого Спиридона
+      caption: Византийская церковь Святого Спиридона 13 в. (превращена в мечеть в османскую эпоху).
     - image:
         thumb: "/img/pages/byzantine-monuments/byzantine_st_nicholas_church_mod_small.jpg"
         href: "/img/pages/byzantine-monuments/byzantine_st_nicholas_church_mod.jpg"
-        alt: Byzantine Church of St Nicholas Fundukli, cruise shore excursions in
-          Rhodes Greece
-      caption: Byzantine church of St Nicholas Fundukli 15th c, at the foot of the
-        mountain Profitis Ilias.
-- text: We have little information about the Byzantine era. The restoration work of
-    the Italians abandoned surviving buildings in favor of the Knights period.
+        alt: Византийская церковь Святого Николая Фундукли 
+      caption: Византийская церковь Святого Николая Фундукли 15 в., расположенная на склоне горы Пророка Ильи
+- text: В ходе реставрационных работ итальянцы предпочли восстанавливать рыцарские постройки в ущерб уцелевшим византийским, соответственно у нас не так много  информации о византийской эпохе.
 related_tours:
 - custom_excursions
 ---
