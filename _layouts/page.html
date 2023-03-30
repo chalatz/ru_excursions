@@ -111,11 +111,13 @@ layout: default
 {%- endif -%}
 
 
-{%- if page.has_banners == true -%}
+{%- comment -%} {%- if page.has_banners == true -%}
   {%- include_cached partials/banners.html -%}
 {%- elsif page.has_banners == false and page.has_destinations == true -%}
   <div class="separator"></div>
-{%- endif -%}
+{%- endif -%} {%- endcomment -%}
+
+<div class="ribbon ribbon--white"></div>
 
 {%- if page.has_gallery == true -%}
   {%- if page.gallery -%}

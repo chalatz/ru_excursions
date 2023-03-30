@@ -67,6 +67,8 @@ layout: default
   {%- include partials/destinations.html -%}
 {%- endif -%}
 
-{%- if page.has_banners == true -%}
+{%- comment -%} {%- if page.has_banners == true -%}
   {%- include_cached partials/banners.html -%}
-{%- endif -%}
+{%- endif -%} {%- endcomment -%}
+
+<div class="ribbon ribbon--white"></div>
