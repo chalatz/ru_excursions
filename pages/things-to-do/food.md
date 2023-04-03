@@ -1,6 +1,6 @@
 ---
-title: Rhodes Food Tour
-permalink: rhodes_cuisine_greece.htm
+title: ГАСТРОНОМИЧЕСКИЙ ТУР, РОДОС, ГРЕЦИЯ
+permalink: gastronomicheskiy-tur-rodos-gretsiya.htm
 layout: gallery-page
 type: gallery-page
 id: food
@@ -8,119 +8,103 @@ has_gallery: true
 has_destinations: true
 has_banners: true
 meta:
-  title: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island
-  http_desc: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island,
-    Traditional Greek Appetizers in Rhodes
-  keywords: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island,
-    Traditional Greek Appetizers in Rhodes
-  description: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island,
-    Traditional Greek Appetizers in Rhodes
-  abstract: Rhodes Food Tour
+  title: Гастрономический тур, Родос, Греция
+  http_desc: Гастрономический тур, Родос, Греция, Традиционная родосская кухня, Гастрономические экскурсии, греческом ресторане, Родос, Греция
+  keywords: Гастрономический тур, Родос, Греция, Традиционная родосская кухня, Гастрономические экскурсии, греческом ресторане, Родос, Греция
+  description: Гастрономический тур, Родос, Греция, Традиционная родосская кухня, Гастрономические экскурсии, греческом ресторане, Родос, Греция
+  abstract: Гастрономический тур, Родос, Греция
 head_photo:
   img: "/img/pages/food-tour/head-photo.jpg"
   mobile: "/img/pages/food-tour/head-photo-mobile.jpg"
   alt_text: ''
-outro: Greek Food in Rhodes Island
+outro: Греческая кухня на острове Родос
 sections:
 - text: |-
-    One of the highlights of travel is experiencing the culinary delights of a destination, and Rhodes is renowned for its tasty dining.
+    Одним из основных моментов путешествия является знакомство с местными кулинарными изысками, а Родос славится своей вкусной едой.
 
-    The island of Rhodes produces an eclectic array of dishes designed to appeal to the gourmet and would-be gourmet in all of us. Local cuisine has its roots in ancient traditions and uses fresh ingredients to ensure that each dish will appeal to your senses and satiate your appetite.
+    Остров Родос предлагает исключительный выбор блюд, предназначенных для гурманов и потенциальных гурманов в каждом из нас. Местная кухня уходит своими корнями в древние традиции и использует свежие ингредиенты, чтобы гарантировать, что каждое блюдо вам понравится, насытит и удовлетворит ваш аппетит.
 
-    Rhodian dishes tend toward the savory side and can trace their roots to Dorian Rhodes. Sophist and rhetorician Athenaeus Nafkratios, notes in his book Deipnosofistai that ancient Rhodians were partial to fish soup and lauded those who "ate fish and not meat". Though meat was added to the menu in medieval times, and dishes include modern twists, traditional preparations and tastes prevail. Fresh vegetables, as well as local olive oils, herbs, and spices such as spearmint, rosemary, oregano, and thyme will tantalize your taste buds!
-- title: Appetizers in Rhodes
+    Родосские блюда имеют тенденцию к пикантности и восходят своими корнями к Дорийскому Родосу. Софист и ритор Афиней Навкратийский отмечает в своей книге «Пир мудрецов», что древние родосцы были неравнодушны к ухе и восхваляли тех, кто «ел рыбу, а не мясо». Несмотря на то, что мясо было добавлено в меню в большей степени во времена Средневековья, и многие блюда включают в себя современные вариации, все же преобладают традиционные приготовления и вкусы. Свежие овощи, а также местное оливковое масло, травы и специи, такие как мята, розмарин, орегано, и тимьян, поразят ваши вкусовые рецепторы!
+- title:  Закуски на Родосе
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/food-tour/1-thumb.jpg"
         href: "/img/pages/food-tour/1.jpg"
-        alt: Typical Greek Menus in Rhodes
-      caption: Feta cheese with honey and sesame seeds
+        alt: Сыр фета, запечённый с мёдом и кунжутом
+      caption: Сыр фета, запечённый с мёдом и кунжутом
     - image:
         thumb: "/img/pages/food-tour/2-thumb.jpg"
         href: "/img/pages/food-tour/2.jpg"
-        alt: Greek food recipes Rhodes
-      caption: Tsatziki and Humus
+        alt: Дзадзики и хумус
+      caption: Дзадзики и хумус
     - image:
         thumb: "/img/pages/food-tour/3-thumb.jpg"
         href: "/img/pages/food-tour/3.jpg"
-        alt: Greek meals in Rhodes Island
-      caption: Calamari stuffed with feta cheese and tomatoes
+        alt: Кальмары, фаршированные сыром фета и помидорами 
+      caption: Кальмары, фаршированные сыром фета и помидорами 
     - image:
         thumb: "/img/pages/food-tour/4-thumb.jpg"
         href: "/img/pages/food-tour/4.jpg"
-        alt: Greek Gastronomy of Rhodes
-      caption: Sea shell stuffed with mushrooms shrimps mussels and cream bechamel
-- title: Ordering in a Greek Restaurant
+        alt: Морская ракушка, фаршированная грибами, креветками, мидиями и кремом бешамель
+      caption: Морская ракушка, фаршированная грибами, креветками, мидиями и кремом бешамель
+- title: Заказ блюд в греческом ресторане
   text: |-
-    When you order your meal, it might be easier if you order by section of the menu. First your appetizers (mezedes), then the main dish and the drinks. Dessert is ordered at the end of the meal.
+    Когда вы заказываете еду, будет проще и удобнее, если вы сделаете заказ по разделам меню. Сначала ваши закуски (мезедес), затем основное блюдо и напитки. Десерт заказывают в конце трапезы.
 
-    **In Fish Restaurant:** If you wish to order **Fresh Fish "Fresko Psari"**, then you ask to see the fish, and also the waiter will take you to the place where the "catch of the day" is displayed, usually within the kitchen.  Thereyou'll be able to inquire about what kind of fish is displayed, the price per kilo (2, 20 pounds) and you order the amount you want to eat. The waiters will give you the cost information and also the cooking details. The Rhodian waiters are very experienced, patient and more than happy to make your lunch a true pleasure (even during the peak season when the island is full of tourists).
+    **В рыбном ресторане:** если вы хотите заказать **свежую рыбу «Фреско Псари»**, то вы просите показать рыбу, а также официант проводит вас к месту, где выставлен «улов дня», обычно на кухне. Там вы сможете узнать, какая рыба выставлена, цену за килограмм и заказать то количество, которое вы хотите съесть. Официанты предоставят вам информацию о стоимости, а также подробности приготовления. Родосские официанты очень опытны, терпеливы и всегда рады сделать ваш обед настоящим удовольствием (даже в разгар сезона, когда остров полон туристов).
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/food-tour/5-thumb.jpg"
         href: "/img/pages/food-tour/5.jpg"
-        alt: Rhodes Cuisine Greece
-      caption: Salad with Salmon, Shrimps, and Vegetables
+        alt: Салат с сёмгой, креветками и овощами
+      caption: Салат с сёмгой, креветками и овощами
     - image:
         thumb: "/img/pages/food-tour/6-thumb.jpg"
         href: "/img/pages/food-tour/6.jpg"
-        alt: Food in Rhodes Island
-      caption: Lobster Pasta
+        alt: Паста с лобстером
+      caption: Паста с лобстером
     - image:
         thumb: "/img/pages/food-tour/7-thumb.jpg"
         href: "/img/pages/food-tour/7.jpg"
-        alt: Traditional Greek Meals in Rhodes
-      caption: Mussels cooked with Wine
+        alt: Мидии, приготовленные с вином
+      caption: Мидии, приготовленные с вином
     - image:
         thumb: "/img/pages/food-tour/8-thumb.jpg"
         href: "/img/pages/food-tour/8.jpg"
-        alt: Main Courses in Rhodes Greece
-      caption: Mix seafood appetizer - calamari, octopus, and little shrimps from
-        Simi Island
-- text: '**In Greek Taverna:** If you order a **Steak "Brizola"** usually pork and
-    beef, the waiter will ask you how you prefer your steak.  **Rare "Me to ema"**
-    (only for the beef steak) outside is cooked, but the inside remains a little raw,
-    **Medium "Misopsimeni"** (for pork and beef steaks) outside is cooked more thoroughly
-    and also the inside is cooked, but still slightly red, and **Well done "Kalopsimeni"**
-    (for pork and beef steaks) outside is charred and also the inside is totally cooked
-    through.                '
+        alt: Микс закусок из морепродуктов – кальмары, осьминоги и маленькие креветки с острова Сими
+      caption: Микс закусок из морепродуктов – кальмары, осьминоги и маленькие креветки с острова Сими
+- text: |-
+    **В греческой таверне:** если вы заказываете **стейк «Бризола»**, обычно из свинины или говядины, официант спросит вас, какой стейк вы предпочитаете, на сколько прожаренный. **Редкое «Ме то эма»** (только для стейка из говядины) снаружи прожаривается, но внутри остаётся немного сырым, **Среднее «Мисопсимени»** (для стейков из свинины и говядины) снаружи пропекается более тщательно и также пропекается внутри, но всё же слегка красный, а **хорошо прожаренные «Калопсимени»** (для стейков из свинины и говядины) снаружи обуглены, а внутри полностью прожарены.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/food-tour/9-thumb.jpg"
         href: "/img/pages/food-tour/9.jpg"
-        alt: Main Dishes in Rhodes Greece
-      caption: Mix grill
+        alt: Микс гриль
+      caption: Микс гриль
     - image:
         thumb: "/img/pages/food-tour/10-thumb.jpg"
         href: "/img/pages/food-tour/10.jpg"
-        alt: Traditional Greek Appetizers in Rhodes
-      caption: Mix grill
+        alt: Микс гриль
+      caption: Микс гриль
     - image:
         thumb: "/img/pages/food-tour/11-thumb.jpg"
         href: "/img/pages/food-tour/11.jpg"
-        alt: Vegetarian dishes in Rhodes
-      caption: Appetizer for Ouzo drink
+        alt: Закуски к напитку Узо
+      caption: Закуски к напитку Узо
     - image:
         thumb: "/img/pages/food-tour/12-thumb.jpg"
         href: "/img/pages/food-tour/12.jpg"
-        alt: Traditional Greek Menus in Rhodes
-      caption: Pitaroudia traditional croquettes from Rhodes
-- title: Mediterranean Diet
-  text: 'International studies have recognized the worth of the Greek cuisine. Launched
-    within the early 60’s by the World Health Organization, the Seven Countries Study
-    taken off to look at the eating patterns of populations from seven different countries:
-    Greece, Italy, Serbia, Holland, Finland, the USA and Japan. This long-running
-    study which lasted for 30 years showed that that folks living within the Mediterranean
-    countries, Greece specifically, had lower mortality rates compared to the remainder
-    of the participating countries. The “secretes” to Health and Longevity were documented
-    as the combination of a simple - easy diet and regular physical activity, dubbed
-    as the Mediterranean Diet.'
+        alt: Традиционные крокеты «Питарудья» с Родоса
+      caption: Традиционные крокеты «Питарудья» с Родоса
+- title: Средиземноморская диета
+  text: |-
+    Международные исследования признали ценность греческой кухни. Начатое Всемирной организацией здравоохранения в начале 60-х годов исследование семи стран было направлено на изучение моделей питания населения семи разных стран: Греции, Италии, Сербии, Голландии, Финляндии, США и Японии. Это продолжительное исследование, длившееся 30 лет, показало, что люди, живущие в средиземноморских странах, особенно в Греции, имеют более низкий уровень смертности по сравнению с остальными участвующими странами. «Секреты» здоровья и долголетия были задокументированы как сочетание простой диеты  и регулярной физической активности, получившей название средиземноморской диеты. 
 related_tours:
 - rhodes_in_a_day
 - wine_tours

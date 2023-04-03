@@ -61,7 +61,7 @@ useful:
     is Free, to visit the Monastery and the Church 6 Euros per person. Children under
     18 years old free. The site has a refreshment kiosk a souvenir shop and shady
     seating.\n4. You may prefer to use ATM machines when you need cash. ATMs are everywhere.\n5.
-    Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm),
+    Rhodes known for [Traditional Appetizers](gastronomicheskiy-tur-rodos-gretsiya.htm), desserts, [Wines](wine_tours_greece.htm),
     the famous handmade [Rhodes Pottery - Ceramics](keramika-rodosa-gretsiya.htm) and the beautiful [Rhodes
     Beaches](./rhodes-beach-tour-excursion.htm).\n6. More info in [Rhodes Private
     Tours](rhodes_private_tours.htm) F.A.Q.    "

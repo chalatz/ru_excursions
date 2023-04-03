@@ -61,7 +61,7 @@ useful:
     of Lindos 12 Euros per person, Seniors (with Id or Passport) 6 Euros per person,
     Children under 18 years old free, No charge to enter Lindos village. \n5. You
     may prefer to use ATM machines when you need cash. ATMs are everywhere.\n6. Rhodes
-    known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm),
+    known for [Traditional Appetizers](gastronomicheskiy-tur-rodos-gretsiya.htm), desserts, [Wines](wine_tours_greece.htm),
     the famous handmade [Rhodes Pottery - Ceramics](keramika-rodosa-gretsiya.htm) and the beautiful [Rhodes
     Beaches](./rhodes-beach-tour-excursion.htm).\n7. More [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q."
 inclusions:
