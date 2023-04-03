@@ -63,18 +63,18 @@ sections:
         alt: Салат с сёмгой, креветками и овощами
       caption: Салат с сёмгой, креветками и овощами
     - image:
-        thumb: "/img/pages/food-tour/6-thumb.jpg"
-        href: "/img/pages/food-tour/6.jpg"
+        thumb: "/img/pages/food-tour/6-2-thumb.jpg"
+        href: "/img/pages/food-tour/6-2.jpg"
         alt: Паста с лобстером
       caption: Паста с лобстером
     - image:
-        thumb: "/img/pages/food-tour/7-thumb.jpg"
-        href: "/img/pages/food-tour/7.jpg"
+        thumb: "/img/pages/food-tour/7-2-thumb.jpg"
+        href: "/img/pages/food-tour/7-2.jpg"
         alt: Мидии, приготовленные с вином
       caption: Мидии, приготовленные с вином
     - image:
-        thumb: "/img/pages/food-tour/8-thumb.jpg"
-        href: "/img/pages/food-tour/8.jpg"
+        thumb: "/img/pages/food-tour/8-2-thumb.jpg"
+        href: "/img/pages/food-tour/8-2.jpg"
         alt: Микс закусок из морепродуктов – кальмары, осьминоги и маленькие креветки с острова Сими
       caption: Микс закусок из морепродуктов – кальмары, осьминоги и маленькие креветки с острова Сими
 - text: |-
@@ -93,8 +93,8 @@ sections:
         alt: Микс гриль
       caption: Микс гриль
     - image:
-        thumb: "/img/pages/food-tour/11-thumb.jpg"
-        href: "/img/pages/food-tour/11.jpg"
+        thumb: "/img/pages/food-tour/11-2-thumb.jpg"
+        href: "/img/pages/food-tour/11-2.jpg"
         alt: Закуски к напитку Узо
       caption: Закуски к напитку Узо
     - image:
