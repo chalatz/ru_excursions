@@ -1,6 +1,6 @@
 ---
-title: Ottoman Sites in Rhodes
-permalink: ottoman_sites.htm
+title: ОСМАНСКИЕ ПАМЯТНИКИ РОДОСА
+permalink: osmanskiye-pamyatniki-rodosa.htm
 layout: gallery-page
 type: gallery-page
 id: ottoman
@@ -8,90 +8,67 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Ottoman Sites in Rhodes, Shore Excursions
-  http_desc: Ottoman Sites in Rhodes, Cruise Shore Excursions in Rhodes Greece
-  keywords: Ottoman Sites in Rhodes, Cruise Shore Excursions in Rhodes Greece
-  description: Rhodes Tours, Byzantine Monuments in Rhodes Greece, Rhodes Historical
-    Tours, Byzantine Archaeological Sights Landmarks and Architecture
-  abstract: Ottoman Sites in Rhodes Greece
+  title: Османские памятники Родоса
+  http_desc: Османские памятники Родоса, Мечеть Сулеймана Великолепного, Остров Родос османская империя, Османская библиотека, мусульманское кладбище, Родос, Греция
+  keywords: Османские памятники Родоса, Мечеть Сулеймана Великолепного, Остров Родос османская империя, Османская библиотека, мусульманское кладбище, Родос, Греция
+  description: Османские памятники Родоса, Мечеть Сулеймана Великолепного, Остров Родос османская империя, Османская библиотека, мусульманское кладбище, Родос, Греция
+  abstract: Османские памятники Родоса
 head_photo:
   img: "/img/pages/ottoman-sites/head-photo.jpg"
   mobile: "/img/pages/ottoman-sites/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: 'In 1522 the Ottoman Turks conquered the town after a second-long siege. New
-    buildings were constructed: mosques, public baths and mansions for the new patrons.
-    After the establishment of their sovereignty on the island, the Ottoman Turks
-    converted most of the churches into mosques and transformed the most important
-    houses into private mansions or public buildings. '
+- text: |-
+    В 1522 году турки-османы захватили город после второй продолжительной осады. Были построены новые здания: мечети, общественные бани и особняки для новых покровителей. После установления своего суверенитета на острове турки-османы превратили большинство церквей в мечети, а самые важные дома превратили в частные особняки или общественные здания. 
 - gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/ottoman-sites/entrance_of_the_turkish_bath_hammam_mod_small.jpg"
         href: "/img/pages/ottoman-sites/entrance_of_the_turkish_bath_hammam_mod.jpg"
-        alt: Turkish bath, Cruise shore excursions in Rhodes Greece, Rhodes Private
-          Tours
-      caption: The entrance of the Turkish Bath - Hammam in Arionos square. Built
-        in the 16th century
+        alt: Вход в турецкую баню - Остров Родос османская империя
+      caption: Вход в турецкую баню-хамам на площади Арионос. Постройка датируется 16 веком.
     - image:
         thumb: "/img/pages/ottoman-sites/entrance_of_the_turkish_bath_hammam_2_mod_small.jpg"
         href: "/img/pages/ottoman-sites/entrance_of_the_turkish_bath_hammam_2_mod.jpg"
-        alt: Turkish Bath, Cruise shore excursions in Rhodes Greece, Rhodes Private
-          Tours
-      caption: The dome of the Turkish Bath - Hammam
+        alt: Купол турецкой бани - Остров Родос османская империя
+      caption: Купол турецкой бани
     - image:
         thumb: "/img/pages/ottoman-sites/suleiman_mosque_ottoman_sites_mod_small.png"
         href: "/img/pages/ottoman-sites/suleiman_mosque_ottoman_sites_mod.jpg"
-        alt: Suleiman Mosque, Rhodes on your own from cruise ship, Rhodes Private
-          Tours
-      caption: Suleiman Mosque.
+        alt: Мечеть Сулеймана Великолепного - Остров Родос османская империя
+      caption: Мечеть Сулеймана Великолепного
     - image:
         thumb: "/img/pages/ottoman-sites/entrance_of_mustafa_pasha_mosque_mod_small.jpg"
         href: "/img/pages/ottoman-sites/entrance_of_mustafa_pasha_mosque_mod.jpg"
-        alt: The Mustafa Pasha Mosque, Cruise excursions in Rhodes, Private Tours
-          in Rhodes
-      caption: The entrance of Mustafa Pasha Mosque (in Arionos square).
-- text: "**The Suleyman Mosque**, built on the location of an earlier Church of the
-    Apostles, was constructed in honor of the Sultan after his conquest of Rhodes
-    in 1522 and rebuilt in 1828. it's open just for prayers and to not the general
-    public. The **Ottoman Library** was founded in 1794 by Hafiz Ahmet Aga is situated
-    opposite the Suleyman Mosque. The building is well preserved and has a small courtyard
-    and garden. It houses a priceless collection of handwritten Korans, rare illuminated
-    Persian manuscripts and scrolls written in Turkish, Arabian and Persian the most
-    significant scroll narrates the siege and conquest of the Rhodes by the Turks
-    in 1522. Only the front room can be visited."
+        alt: Вход в мечеть Мустафа-паши - Остров Родос османская империя
+      caption: Вход в мечеть Мустафа-паши (на площади Арионос)
+- text: |-
+    **Мечеть Сулеймана Великолепного**, построенная на месте церкви Святых Апостолов, была воздвигнута в честь султана после его завоевания Родоса в 1522 году и перестроена в 1828 году. Она открывается только для молитв в дни больших мусульманских праздников, и недоступна для широкой публики. **Османская библиотека** была основана в 1794 году Хафизом Ахметом Агой и расположена напротив мечети Сулеймана. Здание хорошо сохранилось и имеет небольшой двор и сад. В нём хранится бесценная коллекция рукописных Коранов, редкие иллюминированные персидские рукописи и свитки, написанные на турецком, арабском и персидском языках. Самый значительный свиток повествует об осаде и завоевании Родоса османами в 1522 году. Можно посетить только переднюю комнату.
   gallery:
     items_per_row: 4
     items:
     - image:
         thumb: "/img/pages/ottoman-sites/turkish_style_buildings_ottoman_sites_mod_small.jpg"
         href: "/img/pages/ottoman-sites/turkish_style_buildings_ottoman_sites_mod.jpg"
-        alt: Turkish buildings, Rhodes Cruise Port, cheap shore excursions
-      caption: Wooden balconies (sachnisi) of the Turkish style buildings.
+        alt: Деревянные балконы - Остров Родос османская империя
+      caption: Деревянные балконы «сахниси» зданий в турецком стиле
     - image:
         thumb: "/img/pages/ottoman-sites/murat_reis_mosque_cemetery_mod_small.jpg"
         href: "/img/pages/ottoman-sites/murat_reis_mosque_cemetery_mod.jpg"
-        alt: The Murat Reis Mosque, Cruise excursions in Mediterranean Sea
-      caption: The Murat Reis Mosque and cemetery.
+        alt: Мечеть Мурат Рейс - Остров Родос османская империя
+      caption: Мечеть Мурат Рейс и мусульманское кладбище
     - image:
         thumb: "/img/pages/ottoman-sites/the_muslim_library_ottoman_sites_mod_small.jpg"
         href: "/img/pages/ottoman-sites/the_muslim_library_ottoman_sites_mod.jpg"
-        alt: The Muslim Library, shore excursion specialist
-      caption: The Muslim Library.
+        alt: Мусульманская библиотека - Остров Родос османская империя
+      caption: Мусульманская библиотека
     - image:
         thumb: "/img/pages/ottoman-sites/mehmet_aga_mosque_mod_small.jpg"
         href: "/img/pages/ottoman-sites/mehmet_aga_mosque_mod.jpg"
-        alt: Mehmet Aga Mosque, Rhodes private shore tours
-      caption: Mehmet Aga Mosque in Socrates Street.
-- text: The 200-year period of the Knights, is reflected in the building facades with
-    sculptured decorations, the arched gates and hewn stone walls. The Turks enriched
-    these elements with architectural contributions of their own, such as wooden balconies
-    and communal fountains and baths which they adapted to the local climate and culture.
-    There is currently an effort to preserve the remaining Turkish homes. What remains
-    of the Turkish influence on Rhodes can be seen in the mixture of oriental and
-    western architecture in Rhodes Town, reflecting the multifaceted history of the
-    Island.
+        alt: Мечеть Мехмет Ага - Остров Родос османская империя
+      caption: Мечеть Мехмет Ага на улице Сократа
+- text: Двухсотлетний период правления рыцарей на Родосе отражён в фасадах зданий со скульптурными украшениями, арочными воротами и тёсаными каменными стенами. Османы обогатили эти элементы собственным архитектурным вкладом, таким как деревянные балконы и общественные фонтаны и бани, которые они адаптировали к местному климату и культуре. В настоящее время предпринимаются усилия по сохранению оставшихся османских домов. То, что осталось от османского влияния на Родосе, можно увидеть в смешении восточной и западной архитектуры в городе Родос, что отражает многогранную историю острова.  
 related_tours:
 - custom_excursions
 ---
