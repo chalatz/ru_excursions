@@ -56,7 +56,7 @@ useful:
     3. Ostrich Farm Entrance Fee: Adults 7 Euros, Children under 12 years 4 Euros (Kids under 3 years Free) also has a café and refreshment kiosk, and a gift shop.
     4. Bee Museum Entrance Fee: Adults 3 Euros, Children under 5 years Free, Children between age 6 to 18 1,50 Euros, Students 1,50 Euros, Seniors over 65 years old 1,50 Euros
     5. Rhodes known for [Traditional Appetizers](gastronomicheskiy-tur-rodos-gretsiya.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](keramika-rodosa-gretsiya.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
-    6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+    6. More info in [Rhodes Private Tours](ekskursii-po-rodosu-na-russkom-yazyke.htm) F.A.Q.
 inclusions:
   title: Inclusions
   included:

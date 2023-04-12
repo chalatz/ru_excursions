@@ -63,7 +63,7 @@ useful:
     may prefer to use ATM machines when you need cash. ATMs are everywhere.\n6. Rhodes
     known for [Traditional Appetizers](gastronomicheskiy-tur-rodos-gretsiya.htm), desserts, [Wines](wine_tours_greece.htm),
     the famous handmade [Rhodes Pottery - Ceramics](keramika-rodosa-gretsiya.htm) and the beautiful [Rhodes
-    Beaches](./rhodes-beach-tour-excursion.htm).\n7. More [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q."
+    Beaches](./rhodes-beach-tour-excursion.htm).\n7. More [Rhodes Private Tours](ekskursii-po-rodosu-na-russkom-yazyke.htm) F.A.Q."
 inclusions:
   title: Inclusions
   included:

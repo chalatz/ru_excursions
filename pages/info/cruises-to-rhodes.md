@@ -1,70 +1,50 @@
 ---
-title: Rhodes on Your Own from Cruise Ship - Rhodes Cruise Port
-permalink: discount_cruise.htm
+title: КРУИЗНЫЙ ПОРТ РОДОСА, ГРЕЦИЯ
+permalink: kruiznyy-port-rodosa-gretsiya.htm
 layout: page
 type: info_page
 id: cruises_to_rhodes
 has_gallery: false
 meta:
-  title: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port
-  http_desc: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port
-    Excursions, Cruise Ships Visiting Rhodes
-  keywords: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port Excursions,
-    Cruise Ships Visiting Rhodes
-  description: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port
-    Excursions, Cruise Ships Visiting Rhodes
-  abstract: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port
+  title: Круизный порт Родоса, Греция
+  http_desc: Круизный порт Родоса, Греция, Родос для самостоятельных путешественников, прибывающих на круизных лайнерах
+  keywords: Круизный порт Родоса, Греция, Родос для самостоятельных путешественников, прибывающих на круизных лайнерах
+  description: Круизный порт Родоса, Греция, Родос для самостоятельных путешественников, прибывающих на круизных лайнерах
+  abstract: Круизный порт Родоса, Греция
 head_photo:
   img: "/img/pages/cruises-to-rhodes/head-photo.jpg"
   mobile: "/img/pages/cruises-to-rhodes/head-photo-mobile.jpg"
   alt_text: ''
-outro: Rhodes High Quality Shore Excursions
+outro: Высококачественные наземные экскурсии на Родосе
 has_destinations: true
 has_banners: true
 ---
+### Круизные лайнеры, посещающие Родос
 
-### Cruise Ships Visiting Rhodes Greece
+Основной круизный сезон на Родосе длится с мая по октябрь, причем май, июнь, сентябрь и октябрь являются самыми загруженными месяцами.
 
-The prime cruising season in Rhodes is May to October, with May, June, September and October being the busiest months.
+В середине лета становится довольно жарко, поэтому некоторые круизные компании в это время перемещают свои корабли в Северную Европу и концентрируются на Средиземноморье в мае и начале июня, а затем снова в сентябре, октябре и ноябре.
 
-It gets quite hot in the middle of summer, so some cruise lines reposition their ships to northern Europe at that time and concentrate in the Med during May and early June, and then again in September through October and November.
+Некоторые круизные компании предлагают круизы со скидкой на греческие острова в начале и в конце сезона в марте и ноябре. Для европейских чартерных рейсов (в отличие от круизных лайнеров) самыми загруженными и жаркими месяцами являются июль и август.
 
-Some cruise lines offer discount cruise packages to Greek Isles at the beginning and at the end of the season March and November. For the European charter flights (not the cruise ships) busiest and hottest months are July and August.
+### Где швартуются круизные лайнеры на греческом острове Родос?
 
-### Where do cruise ships dock in Rhodes Greece?
+Круизный порт расположен на востоке города Родос, в непосредственной близости от Средневекового города и в 10 минутах ходьбы от Морских ворот (или ворот Святой Екатерины). Круизный терминал находится в центре гавани, напротив паромного терминала. Родос -- это док-порт, а не тендер (переправа с корабля до порта на лодках), поэтому сойти на берег легко. После швартовки судна, местные портовые службы обычно проверяют его в течение 30 минут, и затем дают разрешение на выход гостей. 
 
-The cruise port is located in the east of Rhodes Town, very close to the Medieval City and a 10 min walk from the Marine Gate (or St. Catherine's Gate). The cruise terminal located in the center of the harbor, opposite to the ferry terminal. Rhodes is a dock port, no tender, so it's easy to disembark. The local port authorities usually clear the ship in 30 min.
+### Родос и греческие острова по-прежнему входят в число лучших круизных направлений в мире
 
-### Which cruise lines go to Rhodes Greece?
+По данным «Ассоциации средиземноморских круизных портов», Средиземное море сегодня является вторым по величине круизным регионом после Карибского моря, где на Карибы и Средиземное море приходится примерно 55% мировых круизных возможностей.
 
-Many luxury cruise ships visit Rhodes from March through November.
+Остров Родос удачно сочетает живое настоящее с богатым историческим прошлым, имеет более чем 2600-летнюю историю, захватывающую дух природную красоту, большое разнообразие ландшафтов и, конечно же, одни из самых красивых, кристально чистых пляжей в Греции. Неудивительно, что Родос и греческие острова продолжают оставаться одними из лучших круизных направлений в мире.
 
-Greek Islands cruises generally range from 4, 7 to 12 nights, sometimes up to 21 nights (some cruise itineraries cover both the Western and Eastern Mediterranean Sea).
+### Полезная информация:
 
-The Eastern Mediterranean cruises focus mostly on Italy, Greece and Turkey. These itineraries typically depart from or return to Rome, Venice and Athens.
+Круизный порт Родоса, Греция
 
-The following cruise lines offer itineraries and schedules to Rhodes during the tourist season - mid March to end November.
+Начальник порта Родоса тел. 22410 -- 22220/ 28666/ 27634/ 28888
 
-One or two times a week: **Celestyal Cruises**
+Администрация порта Родоса тел. 22410 -- 22220
 
-One or two times a month: **Norwegian Cruise Line, Celebrity Cruises, Oceania Cruise Line, Holland America Cruise Line.Azamara.**
+Родосская таможня тел. 22410 -- 29291/ 22565
 
-Four or five times a year: **P&O Cruises, Radisson Seven Seas, Crystal Cruises, Silversea Cruises, Cunard Cruise Line, Seabourn Cruise Line, Royal Caribbean International, Carnival Cruise Lines, Disney Cruises, Princess Cruises, Costa Cruises, Wind Star Cruises, Star Clippers, MSC Cruises**
-
-### Rhodes and the Greek Isles continues to rank among the world's top cruise destinations.
-
-According to "Association of Mediterranean Cruise Ports" the Mediterranean Sea stands today as the second biggest cruising region of the world, following Caribbean. Today Caribbean and the Mediterranean account for approximately 55% of the global capacity for cruise.
-
-The Island of Rhodes successfully combines a lively present with a rich historical past, has over 2600 years of history, breathtaking natural beauty, great variety of landscapes, and of course some of the most beautiful crystal-clear beaches in Greece. It's no wonder that Rhodes and the Greek Islands continues to rank among the world's top cruise destinations.
-
-### Rhodes Greece Cruise Port Information
-
-Rhodes Harbor Master tel. 22410 - 22220 / 28666 / 27634 / 28888
-
-Rhodes Port Authority tel. 22410 - 22220
-
-Rhodes Harbor Police tel. 22410 - 27634
-
-Rhodes Customs tel. 22410 - 29291 / 22565
-
-Rhodes Coast Guard tel. 108
+Береговая охрана Родоса тел. 108

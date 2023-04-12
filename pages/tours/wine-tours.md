@@ -222,7 +222,7 @@ useful:
     C) Sweet white wine (VDQS) produced by blending two varieties of **Muscat grapes**. Classic **white Muscat** (from Samos) and the Italian imported **Trani Muscat**.
     4. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
     5. Rhodes known for [Traditional Appetizers](gastronomicheskiy-tur-rodos-gretsiya.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](keramika-rodosa-gretsiya.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
-    6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+    6. More info in [Rhodes Private Tours](ekskursii-po-rodosu-na-russkom-yazyke.htm) F.A.Q.
 inclusions:
   title: Inclusions
   included:

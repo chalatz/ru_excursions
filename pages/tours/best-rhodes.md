@@ -57,7 +57,7 @@ useful:
     5. If you have kids in your group the "**Best of Rhodes Shore Excursion**" it is also an Educational and Entertainment Excursion, and of course they will love the donkey ride up to the Acropolis of Lindos!!
     6. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
     7. Rhodes known for [Traditional Appetizers](gastronomicheskiy-tur-rodos-gretsiya.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](keramika-rodosa-gretsiya.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
-    8. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+    8. More info in [Rhodes Private Tours](ekskursii-po-rodosu-na-russkom-yazyke.htm) F.A.Q.
 inclusions:
   title: Inclusions
   included:

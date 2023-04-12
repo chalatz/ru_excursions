@@ -53,7 +53,7 @@ useful:
     4. Usually we spend one hour in Lindos, but it depends on you for how long you need to visit Lindos. To climb up it takes 15 min, to take a look 30min.
     5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
     6. Rhodes known for [Traditional Appetizers](gastronomicheskiy-tur-rodos-gretsiya.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](keramika-rodosa-gretsiya.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
-    7. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+    7. More info in [Rhodes Private Tours](ekskursii-po-rodosu-na-russkom-yazyke.htm) F.A.Q.
 inclusions:
   title: Inclusions
   included:

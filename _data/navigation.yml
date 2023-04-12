@@ -74,16 +74,16 @@ footer:
         url: Independent_greece.htm
         id: why_us
       - title: Экскурсии на русском языке
-        url: rhodes_private_tours.htm
+        url: ekskursii-po-rodosu-na-russkom-yazyke.htm
         id: private_tours
-      - title: Отпуск без забот
-        url: worry_free.htm
+      - title: Тур без забот
+        url: tur-bez-zabot.htm
         id: worry_free
       - title: Качественные экскурсии
-        url: quality_greece.htm
+        url: kachestvennyye-ekskursii-Rodos-Gretsiya.htm
         id: excursion_quality
       - title: Круизы на Родос
-        url: discount_cruise.htm
+        url: kruiznyy-port-rodosa-gretsiya.htm
         id: cruises_to_rhodes
       - title: Интересные факты о Родосе
         url: greece.htm

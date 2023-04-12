@@ -64,7 +64,7 @@ useful:
     Rhodes known for [Traditional Appetizers](gastronomicheskiy-tur-rodos-gretsiya.htm), desserts, [Wines](wine_tours_greece.htm),
     the famous handmade [Rhodes Pottery - Ceramics](keramika-rodosa-gretsiya.htm) and the beautiful [Rhodes
     Beaches](./rhodes-beach-tour-excursion.htm).\n6. More info in [Rhodes Private
-    Tours](rhodes_private_tours.htm) F.A.Q.    "
+    Tours](ekskursii-po-rodosu-na-russkom-yazyke.htm) F.A.Q.    "
 inclusions:
   title: Inclusions
   included:
