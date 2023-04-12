@@ -1,3 +1,20 @@
+{%- assign sections_size = page.sections | size -%}   
+
+{%- if sections_size > 0 -%}
+    {%- assign images_size = 0 -%}
+    {% for s in page.sections %}
+        {%- if s.gallery -%}
+            {%- assign g_size = s.gallery.items | size -%}
+        {%- endif -%}
+        {%- if s.gallery2 -%}
+            {%- assign g2_size = s.gallery2.items | size -%}
+        {%- endif -%}
+
+        {%- assign images_size = images_size | plus: g_size -%}
+        {%- assign images_size = images_size | plus: g2_size -%}
+    {% endfor %}
+{%- endif -%}
+
 <section class="page__gallery">
 
     {%- if include.the_gallery -%}
@@ -15,8 +32,17 @@
         {%- endif -%}
             <figure class="page__gallery-item page__gallery-item--{{ forloop.index }} page__gallery-item--{{ forloop.index }}-of-{{ the_gallery.items_per_row }} page__gallery-item--of-{{ the_gallery.items_per_row }}{% if forloop.first %} page__gallery-item--first first{% else %} page__gallery-item--following{% endif %}{% if page.gallery.show_on_mobile == true %} show-on-mobile{% endif %}">
                 {%- if item.image.href and item.image.href.size > 0 -%}
-                    <a class="page__gallery-item-link" href="{{- item.image.href | relative_url -}}" data-fancybox="page-gallery" data-caption="{{- item.caption | escape -}}">
+                    <a class="page__gallery-item-link{% if page.id.size > 0 %} page__gallery-item-link--{{ page.id }}{% endif %}" href="{{- item.image.href | relative_url -}}" data-fancybox="page-gallery" data-caption="{{- item.caption | escape -}}">
                         <img class="page__gallery-item-img" src="{{- item.image.thumb | relative_url -}}" alt="{{- item.image.alt -}}">
+                        {%- if page.id.size > 0 and page.id == 'pottery' -%}
+                            <div class="page__gallery-item-counter">+ {{ images_size | minus: 1 }}</div>
+                            <div class="page__gallery-item-arrow page__gallery-item-arrow--right">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-right" width="48" height="48" viewBox="0 0 24 24" stroke-width="1.5" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 0h24v24H0z" stroke="none"/><path d="m9 6 6 6-6 6"/></svg>
+                            </div>
+                            <div class="page__gallery-item-arrow page__gallery-item-arrow--left">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-left" width="48" height="48" viewBox="0 0 24 24" stroke-width="1.5" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 0h24v24H0z" stroke="none"/><path d="m15 6-6 6 6 6"/></svg>
+                            </div>
+                        {%- endif -%}
                     </a>
                 {%- else -%}
                     <img class="page__gallery-item-img page__gallery-item-img--no-link" src="{{- item.image.thumb | relative_url -}}" alt="{{- item.image.alt -}}">                   

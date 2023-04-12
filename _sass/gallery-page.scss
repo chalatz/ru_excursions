@@ -44,6 +44,64 @@
             border: 2px solid $yellow;
             box-shadow: 0 10px 10px -12px $darkyellow;
         }
+
+        &--pottery {
+            position: relative;
+            @include breakpoint(medium) {
+                position: static;
+            }
+        }
+    }
+
+    &-item-counter {
+        display: inline-block;
+        position: absolute;
+        color: #fff;
+        background-color: rgba(#000000, .6);
+        bottom: .2rem;
+        right: .2rem;
+        border-radius: 2px;
+        padding: 5px 10px;
+        font-size: 1.3rem;
+        
+        @include breakpoint(medium) {
+            display: none;
+        }
+    }
+    
+    &-item-arrow {
+        position: absolute;
+        display: inline-block;
+        bottom: 50%;
+        background-color: rgba(#000000, .6);
+        border-radius: 100%;
+        padding: 0 4px;
+
+        svg {
+            width: 30px;
+            height: 30px;
+            position: relative;
+        }
+        
+        &--left {
+            left: .2rem;
+            svg {
+                top: 3px;
+                right: 1px;
+            }
+        }
+        
+        &--right {
+            right: .2rem;
+            svg {
+                top: 3px;
+                left: 1px;
+            }
+        }
+
+        @include breakpoint(medium) {
+            display: none;
+        }
     }
 
     &-item-img {
