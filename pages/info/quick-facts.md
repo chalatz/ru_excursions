@@ -1,76 +1,96 @@
 ---
-title: Quick Facts about Rhodes Island and Greece
-permalink: greece.htm
+title: ИНТЕРЕСНЫЕ ФАКТЫ О РОДОСЕ И ГРЕЦИИ
+permalink: interesnyye-fakty-o-rodose-i-gretsii.htm
 layout: page
 type: info_page
 id: quick_facts
 has_gallery: false
 meta:
-  title: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions
-  http_desc: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions,
-    Rhodes Fast Facts
-  keywords: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions, Rhodes
-    Fast Facts
-  description: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions,
-    Rhodes Fast Facts
-  abstract: Quick Facts about Rhodes Island and Greece
+  title: Интересные факты о Родосе и Греции
+  http_desc: Интересные факты о Родосе и Греции, Какие есть интересные факты о городе Родос, Чем славится остров Родос, В каком году Родос стал греческим, В каком году был основан город Родос, Какое море в Греции на Родосе, Какие средневековые постройки сохранились в городе Родос
+  keywords: Интересные факты о Родосе и Греции, Какие есть интересные факты о городе Родос, Чем славится остров Родос, В каком году Родос стал греческим, В каком году был основан город Родос, Какое море в Греции на Родосе, Какие средневековые постройки сохранились в городе Родос
+  description: Интересные факты о Родосе и Греции, Какие есть интересные факты о городе Родос, Чем славится остров Родос, В каком году Родос стал греческим, В каком году был основан город Родос, Какое море в Греции на Родосе, Какие средневековые постройки сохранились в городе Родос
+  abstract: Интересные факты о Родосе и Греции
 head_photo:
   img: "/img/pages/quick-facts/head-photo.jpg"
   mobile: "/img/pages/quick-facts/head-photo-mobile.jpg"
   alt_text: ''
-outro: Quick Facts about Rhodes Greece
+outro: Интересные факты о Родосе и Греции
 has_destinations: true
 has_banners: true
+has_simple_faq: true
+faq:
+  - q: Интересные факты о городе Родос?
+    a: |-
+      На сегодняшний день городу Родос чуть более 2400 лет! Он был построен по Гипподамовой системе и в некоторых районах сохраняет свою первоначальную планировку. Всё это время город Родос являлся столицей острова, не менял своего названия и местоположения, и был постоянно населён людьми. 
+  - q: Чем славится остров Родос?
+    a: |-
+      Остров Родос славится чистейшим морем, великолепными пляжами, мягким климатом, разнообразием отелей на любой вкус, своей традиционной островной кухней, ароматными винами, высококачественным оливковым маслом, и конечно родосской керамикой! А ещё Родос славится своим богатым историческим наследием, познакомиться с которым мы вас приглашаем! 
+  - q: В каком году остров Родос стал греческим?
+    a: |-
+      Присоединение Родоса и всей группы островов Додеканесского архипелага к Греции состоялось в 1948 году.
+  - q: В каком году был основан город Родос?
+    a: |-
+      Город Родос был основан в 408 г. до н.э. в результате объединения трёх родосских городов-государств Ялисса, Линдоса и Камироса.
+  - q: Какие моря омывают Грецию и какие остров Родос?
+    a: |-
+      С восточной стороны Грецию омывает Эгейское море, с западной Ионическое, с южной Средиземное море. Остров Родос с восточной стороны омывается Средиземным морем, с западной Эгейским.
+  - q: Какие средневековые постройки сохранились в городе Родос?
+    a: |-
+      В городе Родос сохранился уникальный Средневековый город, являющийся памятником всемирного культурного наследия ЮНЕСКО. Он надёжно защищён мощными фортификационными сооружениями, большая часть которых датируется концом 15-го и началом 16-го вв., в городе по сей день проживает несколько тысяч человек.  
 ---
+{% include partials/content-faq.html the_items=page.faq %}
 
-**Rhodes - Lindos:** The Lindians were the first to draw up a code of maritime law, known as the Rhodian law. This later became the basis for Roman maritime law. Emperor Antoninus (reigned ad 138--161) wrote: "I am indeed lord of the world, but the Law is the lord of the sea. This matter must be decided by the maritime law of the Rhodians..."
+### Больше интересных фактов о Родосе и о Греции
 
-After the Acropolis in Athens, the **Acropolis of Lindos** is the second most visited Acropolis in Greece!
+**Родос -- Линдос:** Линдийцы первыми составили кодекс морского права, известный как родосский морской закон. Позже он лёг в основу римского морского права. Император Антонин (годы правления 138-161 гг. от Р.Х.) писал: «Я действительно властелин мира, но Закон властелин моря. Этот вопрос должен решаться морским правом Родосцев...»
 
-**The Statue of Liberty in New York** harbor is 120' tall and weighs 225 tons. **The Colossus of Rhodes** guarded the harbor of Rhodes, was 110' tall and was built 2000 years ago!
+После Афинского Акрополя вторым по посещаемости Акрополем в Греции является **Линдский Акрополь!**
 
-To diminish the weight of the dome of the **Byzantine church Hagia Sophia** (Holy Wisdom) in Constantinople, very light materials were used, tiles of a white spongy earth manufactured at Rhodes!
+Знаменитый **Колосс Родосский**, одно из семи чудес древнего мира,был сооружён почти 2300 лет назад, по тем временам он имел огромную высоту -- около 35 метров! 
 
-The symbol of the **athletic footwear "NIKE"** has been adopted from a Greek Goddess named Nike, Winged Goddess or Spirit of Victory both in battle and peaceful competition. Her wing is represented by the Swoosh.
+Чтобы уменьшить вес купола **византийского собора Святой Софии** в Константинополе, были использованы очень лёгкие материалы, а именно пористые кирпичи из белой глины, изготовленные на Родосе!
 
-Greece has **over 2000 islands**, but only 227 of which are inhabited!
+**Символ спортивного бренда «****NIKE****»** был заимствован у греческой богини по имени Ника, крылатой богини или духа победы как в битвах, так и в мирных соревнованиях. Её крыло представлено символом Swoosh.
 
-Greece has the **10th longest coastline in the world** at 9,300 miles! America's coastline is estimated at 11,800 miles.
+В Греции более 2000 островов, но только 227 из них населены!
 
-The land area of Greece (50,949 mi<sup>2</sup>) is slightly smaller than the US State of Louisiana (52,378 mi<sup>2</sup>)!
+**Греция занимает 10-е место в мире по длине береговой линии** -- 14 966 км!
 
-The **Greek Merchant Navy controls 16.2%** of the world's total merchant fleet, making it the largest in the world.
+Площадь суши Греции составляет 131 957 квадратных километров!
 
-Greece has half the seismic activity of Europe.
+**Греческий торговый флот контролирует 16,2 %** мирового торгового флота, что делает его крупнейшим в мире.
 
-85% of Greeks own their accommodation which is the highest rate in the EU!
+На территории Греции сосредоточена половина сейсмической активности Европы.
 
-During World War II, Greece fought Germany, Italy and Albania simultaneously and that it was the only country that held **the most days of resistance (219 days)** before succumbing to the Nazi forces!
+85% греков являются владельцами недвижимости, что является самым высоким показателем в ЕС!
 
-A major public holiday in Greece is "Το Όχι", the **"Day of the 'No'",** on October 28th. It commemorates Greece's refusal to surrender to the Axis Powers in 1940!
+Во время Второй Мировой войны Греция воевала с Германией, Италией и Албанией одновременно, это страна, которая выдержала **наибольшее сопротивление (219 дней)**, прежде чем уступить нацистским силам!  
 
-In a famous 1941 speech Winston Churchill stated: "Greeks do not fight like heroes. Heroes fight like Greeks!"
+Главный государственный праздник в Греции - **День «Охи»** или День «Нет», который отмечается 28 октября. Он посвящён отказу Греции сдаться державам Нацистского Блока в 1940 году!
 
-**April 15, 2015** the results of the world's largest and most prestigious olive oil competition were revealed in New York, where nearly 700 olive oils from 25 countries were evaluated by an international jury of experts. **Greece scored 5** wins out of the first 25 world's best extra virgin olive oils for 2015.
+В знаменитой речи 1941 года Уинстон Черчилль заявил: «Греки не сражаются как герои. Герои сражаются как греки!»
 
-After Spain and Italy, Greece is the third largest producer of olive oil in the world!
+**15 апреля 2015** года в Нью-Йорке были подведены итоги крупнейшего и самого престижного в мире конкурса оливкового масла, где около 700 сортов оливкового масла из 25 стран оценивало международное жюри экспертов. **Греция одержала 5 побед** из первых 25 лучших в мире оливковых масел первого холодного отжима в 2015 году.
 
-**Greeks eat more olive oil than any other nation** in the world. One hundred and fifty million olive trees cover a land of 2.4 million acres in Greece. Olive oil accounts for 76% of the total exports from Greece. Half its total olive oil production is exported to other countries, most of which is re-labeled as their own.
+После Испании и Италии Греция является третьим по величине производителем оливкового масла в мире!
 
-In ancient Greece, wealthy families dipped their children in olive oil at birth to keep their bodies hairless!
+**Греки потребляют оливковое масло больше, чем любая другая нация в мире.** Сто пятьдесят миллионов оливковых деревьев занимают территорию почти 2,4 миллиона акров в Греции. Оливковое масло составляет 76% всего экспорта Греции. Половина производимого оливкового масла экспортируется в другие страны, где часто пере-маркируется и продаётся как собственное.
 
-**The first cookbook** was written by the Greek food gourmet, Archestratus, in 330 BC, which suggests that cooking has always been of importance and significance in Greek society.
+В Древней Греции богатые семьи окунали своих детей в оливковое масло при рождении, чтобы их тела были безволосыми!
 
-**13% of the English Dictionary** is derived from Greek words!
+**Первая поваренная книга** была написана греческим гурманом Архестратом в 330 г. до н.э., это говорит о том, что приготовление пищи всегда имело большое значение в греческом обществе.
 
-There are at least **63 different folk dances** in Greece!
+**13% английского словаря** составлено из греческих слов!
 
-The popular "Yo-yo" toy is the second oldest known toy in the world. It originated in the days of ancient Greece around 500 BC!
+В Греции насчитывается не менее **63 различных народных танцев!**
 
-**Greece's currency** **since 500 BC, the "Drachma"**, was one of the oldest currencies in the world. Greece adopted the "Euro" in January 2001 parallel with most European Union countries.
+Популярная игрушка «Йо-йо» - вторая старейшая известная игрушка в мире. Она появилась во времена Древней Греции около 500 г. до н.э.!
 
-**Cleopatra was Greek.** She came from the famous Macedonian Greek dynasty and was the only Greek ruler who spoke Egyptian.
+**Денежной единицей Греции с 500 г. до н.э. являлась «драхма»**, которая по праву считалась одной из старейших в мире. Греция перешла на «евро» в январе 2001 года параллельно с большинством стран Европейского союза.
 
-**The New Testament** was written in Greek!
+**Клеопатра была гречанкой**, она происходила из знаменитой македонской греческой династии и была единственной греческой правительницей, говорившей на древнем египетском языке.
 
-**The Greek flag** is called "Galanolefki" which means "blue and white". Originally it was blue with a white diagonal cross. The cross is now situated in the upper left corner and symbolizes the Eastern Orthodox Christianity. Blue is the color of the sea and Greece, being a seafaring country, could hardly use any other color for its flag. White is the color of freedom, and that is something the Greeks hold very dear after years of enslavement by the Turks. Each of the nine stripes symbolizes a syllable in the Greek motto of freedom: Eleftheria i thanatos, which translates Freedom or Death.
+**Новый Завет **был написан на греческом языке!
+
+**Греческий флаг** называется «Галанолефки», что означает «бело-голубой». Первоначально он был синим с белым диагональным крестом. Теперь крест расположен в верхнем левом углу и символизирует Восточное Православное Христианство. Синий цвет -- это цвет моря, и Греция, будучи страной с развитым морским судоходством, вряд ли могла использовать какой-либо другой цвет для своего флага. Белый -- цвет свободы, это то, что греки очень ценят после долгих лет порабощения османами. Каждая из девяти полос символизирует слог греческого девиза свободы: Eleftheria  I  thanatos, что переводится как «свобода или смерть».

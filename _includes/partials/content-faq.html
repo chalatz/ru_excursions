@@ -1,0 +1,7 @@
+{%- assign the_items = include.the_items -%}
+
+{% for item in the_items %}
+<h3 id="{{- item.q | slugify -}}">{{ item.q }}</h3>
+
+{{ item.a | markdown }}
+{% endfor %}

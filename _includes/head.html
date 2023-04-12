@@ -55,4 +55,8 @@
     {%- include partials/faq-schema.html -%}
   {%- endif -%}
 
+  {%- if page.has_simple_faq == true -%}
+    {%- include partials/simple-faq-schema.html -%}
+  {%- endif -%}
+
 </head>
