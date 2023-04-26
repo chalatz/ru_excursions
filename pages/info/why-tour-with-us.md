@@ -1,6 +1,6 @@
 ---
-title: Booking Independent Shore Excursions in Rhodes Greece
-permalink: Independent_greece.htm
+title: БРОНИРОВАНИЕ ИНДИВИДУАЛЬНЫХ ЭКСКУРСИЙ, РОДОС, ГРЕЦИЯ
+permalink: bronirovaniye-individualnykh-ekskursiy-rodos-gretsiya.htm
 layout: page
 type: info_page
 id: why_us
@@ -8,63 +8,48 @@ has_gallery: false
 has_destinations: true
 has_banners: false
 meta:
-  title: Independent Shore Excursions in Rhodes Greece
-  http_desc: Independent Shore Excursions in Rhodes Greece
-  keywords: Independent Shore Excursions in Rhodes Greece
-  description: Independent Shore Excursions in Rhodes Greece
-  abstract: Independent Shore Excursions in Rhodes Greece
-subtitle: Why Tour With Us
+  title: Бронирование индивидуальных экскурсийшеходных, Родос, Греция
+  http_desc: Бронирование индивидуальных экскурсийшеходных, Родос, Греция, 10 главных причин почему стоит забронировать тур у нас
+  keywords: Бронирование индивидуальных экскурсийшеходных, Родос, Греция, 10 главных причин почему стоит забронировать тур у нас
+  description: Бронирование индивидуальных экскурсийшеходных, Родос, Греция, 10 главных причин почему стоит забронировать тур у нас
+  abstract: Бронирование индивидуальных экскурсийшеходных, Родос, Греция
+subtitle: 10 главных причин почему стоит забронировать тур у нас
 head_photo:
   img: "/img/pages/why-tour-with-us/head-photo.jpg"
   mobile: "/img/pages/why-tour-with-us/head-photo-mobile.jpg"
   alt_text: ''
 outro: ''
+has_simple_faq: true
+faq:
+  - q: Прямая цена от организатора
+    a: |-
+        Мы создаём и организуем наши собственные туры, а затем предлагаем их вам. Откройте для себя остров Родос с помощью настоящих профессионалов!
+  - q: Лучшее соотношение цены и качества услуг 
+    a: |-
+        Наши экскурсии полностью сопровождаются лицензированными гидами, которые находятся вместе с вами на каждом этапе вашего пути. Мы организуем туры, задействуя разные типы транспортных средств, в зависимости от количества человек и от ваших предпочтений. Мы имеем богатый опыт в сфере оказания туристических услуг, не экономим на расходах и предлагаем лучшее соотношение цены и качества. 
+  - q: Отсутствие полной предоплаты
+    a: |-
+        Депозит вносится для подтверждения и гарантии бронирования. Забронируйте сейчас и оплатите полную стоимость в конце тура. 
+  - q: Гибкая политика отмены бронирования
+    a: |-
+        Плата за отмену бронирования не взимается, если мы получим уведомление об отмене не менее, чем за 10 дней до начала экскурсии. Если вы являетесь пассажиром круизного лайнера и по каким-то причинам ваш корабль не смог причалить в Родосском порту, мы вернем вам залог. 
+  - q: Отсутствие комиссии за изменение бронирования
+    a: |-
+        Если вы забронировали экскурсию онлайн, а затем передумали, вы можете перебронировать её на другую экскурсию без комиссии. Нам необходимо получить от вас уведомление об изменении бронирования не менее, чем за 7 дней до того, как будет предоставлена услуга. **Важно:** изменения подтверждаются в соответствии с имеющимися у нас возможностями на данный конкретный момент. Обратите внимание, что наличие мест непредсказуемо и может меняться в зависимости от получаемых нами бронирований.
+  - q: Отсутствие дополнительных сборов
+    a: |-
+        Все расходы на транспортное средство, водителя и гида включены в стоимость. Нет никаких дополнительных сборов. 
+  - q: 100% гибкость и опытная знающая команда
+    a: |-
+        Гибкость -- наша главная сила! Индивидуальная экскурсия с гидом, составленная с учетом ваших пожеланий, доступна без дополнительной оплаты! Ваш опытный гид поможет в случае, если во время тура вам понадобится сделать небольшие изменения в рамках заявленного времени. **Важно:** все изменения должны соответствовать продолжительности вашего тура, например, если ваш полудневный тур рассчитан на 5 часов, то изменения будут внесены в этот период времени, вы не можете продлить тур дольше запланированного времени (в последний момент продление невозможно).
+  - q: Индивидуальный подход в обслуживании клиентов
+    a: |-
+        Мы уважаем вашу свободу и индивидуальность. Мы работаем над каждой деталью вашего тура и предлагаем качественные услуги, даже для самых требовательных и искушенных путешественников. 
+  - q: Незамедлительный ответ
+    a: |-
+        Мы отвечаем на ваши письма в течение 24 часов (вам ответит сотрудник компании, автоматических ответов нет). 
+  - q: Своевременное возвращение на борт корабля (если вы пассажир круизного лайнера)
+    a: |-
+        Все наши транспортные средства соответствуют высоким стандартам, у нас очень осторожные и ответственные водители. Мы всегда оставляем достаточно времени на обратный путь. Даже если произойдет чрезвычайное событие, поломка транспортного средства, повреждение, это ни в коем случае не повлияет на ваш индивидуальный тур, так как мы сделаем замену в течение 10-20 минут. Поскольку мы сотрудничаем с крупнейшими транспортными компаниями на острове, простой телефонный звонок гарантирует, что ваш тур не будет сорван, и вы благополучно вернетесь на свой корабль к отплытию.         
 ---
-
-#### Direct Local Price
-
-{:.centered}
-We create and operate our own tours then offer them directly to you. Discover Rhodes Island with help from true insiders…
-
-#### Best Value for Money Services:
-
-{:.centered}
-We own our fleet of Mercedes Benz Sedan Limos, so no compromise on quality. Best ratio of price to experiences, and service.
-
-#### No Deposit:
-
-{:.centered}
-We don't need your credit card number. No prepayment. Book now pay at the end of the tour.
-
-#### Flexible Cancellation Policy:
-
-{:.centered}
-No port, No pay, it's so simple.
-
-{:.centered}
-Also there is no cancellation charge provided that we receive at least 48 hours notice of your cancellation before the start of the service.
-
-#### No Fee for Last Minute Changes:
-
-{:.centered}
-If you book something online and then you change your mind, you can rebook another tour within 48 hours notice.
-
-#### 100% Flexibility - Experienced Knowledgeable Team:
-
-{:.centered}
-Flexibility is our greatest strength. Complete custom tour service available at no extra charge! Your experienced tour/driver will help with changes on the Go, even after the tour has started!
-
-#### Personalized Customer Service:
-
-{:.centered}
-Respect for your freedom and individuality. We offer quality service that sophisticated travellers demand, and deserve.
-
-#### Prompt Response:
-
-{:.centered}
-We answer your emails within 24 hours.
-
-#### Back to the Ship on Time:
-
-{:.centered}
-[Worry Free Shore Excursion](./tur-bez-zabot.htm)
+{% include partials/content-faq.html the_items=page.faq %}
